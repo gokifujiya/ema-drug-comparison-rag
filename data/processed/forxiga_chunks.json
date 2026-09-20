@@ -1,0 +1,809 @@
+{
+  "drug": "Forxiga",
+  "active_substance": "dapagliflozin",
+  "document_type": "Summary of Product Characteristics (SmPC)",
+  "chunks": [
+    {
+      "chunk_id": "forxiga_smpc_1_001",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "1",
+      "section_title": "NAME OF THE MEDICINAL PRODUCT",
+      "pages": [
+        2
+      ],
+      "chunk_index": 1,
+      "text": "Forxiga 5 mg film-coated tablets \nForxiga 10 mg film-coated tablets"
+    },
+    {
+      "chunk_id": "forxiga_smpc_2_001",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "2",
+      "section_title": "QUALITATIVE AND QUANTITATIVE COMPOSITION",
+      "pages": [
+        2
+      ],
+      "chunk_index": 1,
+      "text": "Forxiga 5 mg film-coated tablets \n \nEach tablet contains dapagliflozin propanediol monohydrate equivalent to 5 mg dapagliflozin. \n \nExcipient with known effect \nEach 5 mg tablet contains 25 mg of lactose. \n \nForxiga 10 mg film-coated tablets \n \nEach tablet contains dapagliflozin propanediol monohydrate equivalent to 10 mg dapagliflozin. \n \nExcipient with known effect \nEach 10 mg tablet contains 50 mg of lactose. \n \nFor the full list of excipients, see section 6.1."
+    },
+    {
+      "chunk_id": "forxiga_smpc_3_001",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "3",
+      "section_title": "PHARMACEUTICAL FORM",
+      "pages": [
+        2
+      ],
+      "chunk_index": 1,
+      "text": "Film-coated tablet (tablet). \n \nForxiga 5 mg film-coated tablets \n \nYellow, biconvex, 0.7 cm diameter round, film-coated tablets with “5” engraved on one side and \n“1427” engraved on the other side. \n \nForxiga 10 mg film-coated tablets \n \nYellow, biconvex, approximately 1.1 x 0.8 cm diagonally diamond-shaped, film-coated tablets with \n“10” engraved on one side and “1428” engraved on the other side."
+    },
+    {
+      "chunk_id": "forxiga_smpc_4_1_001",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "4.1",
+      "section_title": "Therapeutic indications",
+      "pages": [
+        2,
+        3
+      ],
+      "chunk_index": 1,
+      "text": "Type 2 diabetes mellitus \n \nForxiga is indicated in adults and children aged 10 years and above for the treatment of insufficiently \ncontrolled type 2 diabetes mellitus as an adjunct to diet and exercise \n- \nas monotherapy when metformin is considered inappropriate due to intolerance. \n- \nin addition to other medicinal products for the treatment of type 2 diabetes. \n \nFor study results with respect to combination of therapies, effects on glycaemic control, cardiovascular \nand renal events, and the populations studied, see sections 4.4, 4.5 and 5.1. \n \nHeart failure \n \nForxiga is indicated in adults for the treatment of symptomatic chronic heart failure.\n\n3 \n \nChronic kidney disease \n \nForxiga is indicated in adults for the treatment of chronic kidney disease."
+    },
+    {
+      "chunk_id": "forxiga_smpc_4_2_001",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "4.2",
+      "section_title": "Posology and method of administration",
+      "pages": [
+        3,
+        4
+      ],
+      "chunk_index": 1,
+      "text": "Posology \n \nType 2 diabetes mellitus \nThe recommended dose is 10 mg dapagliflozin once daily. \n \nWhen dapagliflozin is used in combination with insulin or an insulin secretagogue, such as a \nsulphonylurea, a lower dose of insulin or insulin secretagogue may be considered to reduce the risk of \nhypoglycaemia (see sections 4.5 and 4.8). \n \nHeart failure \nThe recommended dose is 10 mg dapagliflozin once daily. \n \nChronic kidney disease \nThe recommended dose is 10 mg dapagliflozin once daily. \n \nSpecial populations \nRenal impairment \nNo dose adjustment is required based on renal function. \n \nDue to limited experience, it is not recommended to initiate treatment with dapagliflozin in patients \nwith GFR < 25 mL/min. \n \nIn patients with type 2 diabetes mellitus, the glucose lowering efficacy of dapagliflozin is reduced \nwhen the glomerular filtration rate (GFR) is < 45 mL/min and is likely absent in patients with severe \nrenal impairment. Therefore, if GFR falls below 45 mL/min, additional glucose lowering treatment \nshould be considered in patients with type 2 diabetes mellitus if further glycaemic control is needed \n(see sections 4.4, 4.8, 5.1 and 5.2). \n \nHepatic impairment \nNo dose adjustment is necessary for patients with mild or moderate hepatic impairment. In patients \nwith severe hepatic impairment, a starting dose of 5 mg is recommended. If well tolerated, the dose \nmay be increased to 10 mg (see sections 4.4 and 5.2). \n \nElderly (≥ 65 years) \nNo dose adjustment is recommended based on age. \n \nPaediatric population \nNo dose adjustment is required for the treatment of type 2 diabetes mellitus in children aged 10 years \nand above (see sections 5.1 and 5.2). No data are available for children below 10 years of age. \n \nThe safety and efficacy of dapagliflozin for the treatment of heart failure or for the treatment of \nchronic kidney disease in children < 18 years have not yet been established. No data are available. \n \nMethod of administration \n \nForxiga can be taken orally once daily at any time of day with or without food. Tablets are to be \nswallowed whole.\n\n4"
+    },
+    {
+      "chunk_id": "forxiga_smpc_4_3_001",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "4.3",
+      "section_title": "Contraindications",
+      "pages": [
+        4
+      ],
+      "chunk_index": 1,
+      "text": "Hypersensitivity to the active substance or to any of the excipients listed in section 6.1."
+    },
+    {
+      "chunk_id": "forxiga_smpc_4_4_001",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "4.4",
+      "section_title": "Special warnings and precautions for use",
+      "pages": [
+        4
+      ],
+      "chunk_index": 1,
+      "text": "General \n \nDapagliflozin should not be used in patients with type 1 diabetes mellitus (see “Diabetic ketoacidosis” \nin section 4.4). \n \nRenal impairment \n \nDue to limited experience, it is not recommended to initiate treatment with dapagliflozin in patients \nwith GFR < 25 mL/min. \n \nThe glucose lowering efficacy of dapagliflozin is dependent on renal function, and is reduced in \npatients with GFR < 45 mL/min and is likely absent in patients with severe renal impairment (see \nsections 4.2, 5.1 and 5.2). \n \nIn one study in patients with type 2 diabetes mellitus with moderate renal impairment \n(GFR < 60 mL/min), a higher proportion of patients treated with dapagliflozin had adverse reactions \nof increase in creatinine, phosphorus, parathyroid hormone (PTH) and hypotension, compared with \nplacebo. \n \nHepatic impairment \n \nThere is limited experience in clinical studies in patients with hepatic impairment. Dapagliflozin \nexposure is increased in patients with severe hepatic impairment (see sections 4.2 and 5.2). \n \nUse in patients at risk for volume depletion and/or hypotension \n \nDue to its mechanism of action, dapagliflozin increases diuresis which may lead to the modest \ndecrease in blood pressure observed in clinical studies (see section 5.1). It may be more pronounced in \npatients with very high blood glucose concentrations. \n \nCaution should be exercised in patients for whom a dapagliflozin-induced drop in blood pressure \ncould pose a risk, such as patients on anti-hypertensive therapy with a history of hypotension or \nelderly patients. \n \nIn case of intercurrent conditions that may lead to volume depletion (e.g. gastrointestinal illness), \ncareful monitoring of volume status (e.g. physical examination, blood pressure measurements, \nlaboratory tests including haematocrit and electrolytes) is recommended. Temporary interruption of \ntreatment with dapagliflozin is recommended for patients who develop volume depletion until the \ndepletion is corrected (see section 4.8). \n \nDiabetic ketoacidosis \n \nRare cases of diabetic ketoacidosis (DKA), including life-threatening and fatal cases, have been \nreported in patients treated with sodium-glucose co-transporter 2 (SGLT2) inhibitors, including \ndapagliflozin. In a number of cases, the presentation of the condition was atypical with only \nmoderately increased blood glucose values, below 14 mmol/L (250 mg/dL). \n \nThe risk of diabetic ketoacidosis must be considered in the event of non-specific symptoms such as \nnausea, vomiting, anorexia, abdominal pain, excessive thirst, difficulty breathing, confusion, unusual \nfatigue or sleepiness. Patients should be assessed for ketoacidosis immediately if these symptoms \noccur, regardless of blood glucose level."
+    },
+    {
+      "chunk_id": "forxiga_smpc_4_4_002",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "4.4",
+      "section_title": "Special warnings and precautions for use",
+      "pages": [
+        4,
+        5
+      ],
+      "chunk_index": 2,
+      "text": "blood glucose values, below 14 mmol/L (250 mg/dL). \n \nThe risk of diabetic ketoacidosis must be considered in the event of non-specific symptoms such as \nnausea, vomiting, anorexia, abdominal pain, excessive thirst, difficulty breathing, confusion, unusual \nfatigue or sleepiness. Patients should be assessed for ketoacidosis immediately if these symptoms \noccur, regardless of blood glucose level.\n\n5 \n \nIn patients where DKA is suspected or diagnosed, dapagliflozin treatment should be stopped \nimmediately. \n \nTreatment should be interrupted in patients who are hospitalised for major surgical procedures or acute \nserious medical illnesses. Monitoring of ketones is recommended in these patients. Measurement of \nblood ketone levels is preferred to urine. Treatment with dapagliflozin may be restarted when the \nketone values are normal and the patient’s condition has stabilised. \n \nBefore initiating dapagliflozin, factors in the patient history that may predispose to ketoacidosis should \nbe considered. \n \nProlonged ketoacidosis and prolonged glucosuria have been observed with dapagliflozin. Ketoacidosis \nmay last longer after discontinuation of dapagliflozin than expected from the plasma half-life (see \nsection 5.2). Dapagliflozin-independent factors, such as insulin deficiency, might be involved in \nprolonged periods of ketoacidosis. \n \nPatients who may be at higher risk of DKA include patients with a low beta-cell function reserve (e.g. \ntype 2 diabetes patients with low C-peptide or latent autoimmune diabetes in adults (LADA) or \npatients with a history of pancreatitis), patients with conditions that lead to restricted food intake or \nsevere dehydration, patients for whom insulin doses are reduced and patients with increased insulin \nrequirements due to acute medical illness, surgery or alcohol abuse. SGLT2 inhibitors should be used \nwith caution in these patients. \n \nRestarting SGLT2 inhibitor treatment in patients experiencing a DKA while on SGLT2 inhibitor \ntreatment is not recommended, unless another clear precipitating factor is identified and resolved. \n \nIn type 1 diabetes mellitus studies with dapagliflozin, DKA was reported with common frequency. \nDapagliflozin should not be used for treatment of patients with type 1 diabetes. \n \nNecrotising fasciitis of the perineum (Fournier’s gangrene) \n \nPostmarketing cases of necrotising fasciitis of the perineum (also known as Fournier’s gangrene) have \nbeen reported in female and male patients taking SGLT2 inhibitors (see section 4.8). This is a rare but \nserious and potentially life-threatening event that requires urgent surgical intervention and antibiotic \ntreatment. \n \nPatients should be advised to seek medical attention if they experience a combination of symptoms of \npain, tenderness, erythema, or swelling in the genital or perineal area, with fever or malaise. Be aware \nthat either uro-genital infection or perineal abscess may precede necrotising fasciitis. If Fournier’s \ngangrene is suspected, Forxiga should be discontinued and prompt treatment (including antibiotics and \nsurgical debridement) should be instituted. \n \nUrinary tract infections \n \nUrinary glucose excretion may be associated with an increased risk of urinary tract infection; \ntherefore, temporary interruption of dapagliflozin should be considered when treating pyelonephritis \nor urosepsis."
+    },
+    {
+      "chunk_id": "forxiga_smpc_4_4_003",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "4.4",
+      "section_title": "Special warnings and precautions for use",
+      "pages": [
+        5,
+        6
+      ],
+      "chunk_index": 3,
+      "text": "gangrene is suspected, Forxiga should be discontinued and prompt treatment (including antibiotics and \nsurgical debridement) should be instituted. \n \nUrinary tract infections \n \nUrinary glucose excretion may be associated with an increased risk of urinary tract infection; \ntherefore, temporary interruption of dapagliflozin should be considered when treating pyelonephritis \nor urosepsis. \n \nElderly (≥ 65 years) \n \nElderly patients may be at a greater risk for volume depletion and are more likely to be treated with \ndiuretics. \n \nElderly patients are more likely to have impaired renal function, and/or to be treated with \nanti-hypertensive medicinal products that may cause changes in renal function such as\n\n6 \nangiotensin-converting enzyme inhibitors (ACE-I) and angiotensin II type 1 receptor blockers (ARB). \nThe same recommendations for renal function apply to elderly patients as to all patients (see \nsections 4.2, 4.4, 4.8 and 5.1). \n \nCardiac failure \n \nExperience with dapagliflozin in NYHA class IV is limited. \n \nInfiltrative cardiomyopathy \n \nPatients with infiltrative cardiomyopathy have not been studied. \n \nChronic kidney disease \n \nThere is no experience with dapagliflozin for the treatment of chronic kidney disease in patients \nwithout diabetes who do not have albuminuria. Patients with albuminuria may benefit more from \ntreatment with dapagliflozin. \n \nIncreased haematocrit \n \nIncreased haematocrit has been observed with dapagliflozin treatment (see section 4.8). Patients with \npronounced elevations in haematocrit should be monitored and investigated for underlying \nhaematological disease. \n \nLower limb amputations \n \nAn increase in cases of lower limb amputation (primarily of the toe) has been observed in long-term, \nclinical studies in type 2 diabetes mellitus with SGLT2 inhibitors. It is unknown whether this \nconstitutes a class effect. It is important to counsel patients with diabetes on routine preventative foot \ncare. \n \nUrine laboratory assessments \n \nDue to its mechanism of action, patients taking Forxiga will test positive for glucose in their urine. \n \nLactose \n \nThe tablets contain lactose. Patients with rare hereditary problems of galactose intolerance, total \nlactase deficiency or glucose-galactose malabsorption should not take this medicinal product."
+    },
+    {
+      "chunk_id": "forxiga_smpc_4_5_001",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "4.5",
+      "section_title": "Interaction with other medicinal products and other forms of interaction",
+      "pages": [
+        6,
+        7
+      ],
+      "chunk_index": 1,
+      "text": "Pharmacodynamic interactions \n \nDiuretics \nDapagliflozin may add to the diuretic effect of thiazide and loop diuretics and may increase the risk of \ndehydration and hypotension (see section 4.4). \n \nInsulin and insulin secretagogues \nInsulin and insulin secretagogues, such as sulphonylureas, cause hypoglycaemia. Therefore, a lower \ndose of insulin or an insulin secretagogue may be required to reduce the risk of hypoglycaemia when \nused in combination with dapagliflozin in patients with type 2 diabetes mellitus (see sections 4.2 and \n4.8).\n\n7 \nPharmacokinetic interactions \n \nThe metabolism of dapagliflozin is primarily via glucuronide conjugation mediated by \nUDP glucuronosyltransferase 1A9 (UGT1A9). \n \nIn in vitro studies, dapagliflozin neither inhibited cytochrome P450 (CYP) 1A2, CYP2A6, CYP2B6, \nCYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP3A4, nor induced CYP1A2, CYP2B6 or CYP3A4. \nTherefore, dapagliflozin is not expected to alter the metabolic clearance of coadministered medicinal \nproducts that are metabolised by these enzymes. \n \nEffect of other medicinal products on dapagliflozin \n \nInteraction studies conducted in healthy subjects, using mainly a single-dose design, suggest that the \npharmacokinetics of dapagliflozin are not altered by metformin, pioglitazone, sitagliptin, glimepiride, \nvoglibose, hydrochlorothiazide, bumetanide, valsartan, or simvastatin. \n \nFollowing coadministration of dapagliflozin with rifampicin (an inducer of various active transporters \nand drug-metabolising enzymes) a 22% decrease in dapagliflozin systemic exposure (AUC) was \nobserved, but with no clinically meaningful effect on 24-hour urinary glucose excretion. No dose \nadjustment is recommended. A clinically relevant effect with other inducers (e.g. carbamazepine, \nphenytoin, phenobarbital) is not expected. \n \nFollowing coadministration of dapagliflozin with mefenamic acid (an inhibitor of UGT1A9), a 55% \nincrease in dapagliflozin systemic exposure was seen, but with no clinically meaningful effect on \n24-hour urinary glucose excretion. No dose adjustment is recommended. \n \nEffect of dapagliflozin on other medicinal products \n \nDapagliflozin may increase renal lithium excretion and the blood lithium levels may be decreased. \nSerum concentration of lithium should be monitored more frequently after dapagliflozin initiation and \ndose changes. Please refer the patient to the lithium prescribing doctor in order to monitor serum \nconcentration of lithium. \n \nIn interaction studies conducted in healthy subjects, using mainly a single-dose design, dapagliflozin \ndid not alter the pharmacokinetics of metformin, pioglitazone, sitagliptin, glimepiride, \nhydrochlorothiazide, bumetanide, valsartan, digoxin (a P-gp substrate) or warfarin (S-warfarin, a \nCYP2C9 substrate), or the anticoagulatory effects of warfarin as measured by INR. Combination of a \nsingle dose of dapagliflozin 20 mg and simvastatin (a CYP3A4 substrate) resulted in a 19% increase in \nAUC of simvastatin and 31% increase in AUC of simvastatin acid. The increase in simvastatin and \nsimvastatin acid exposures are not considered clinically relevant. \n \nInterference with 1,5-anhydroglucitol (1,5-AG) assay \n \nMonitoring glycaemic control with 1,5-AG assay is not recommended as measurements of 1,5-AG are \nunreliable in assessing glycaemic control in patients taking SGLT2 inhibitors. Use of alternative \nmethods to monitor glycaemic control is advised."
+    },
+    {
+      "chunk_id": "forxiga_smpc_4_5_002",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "4.5",
+      "section_title": "Interaction with other medicinal products and other forms of interaction",
+      "pages": [
+        7
+      ],
+      "chunk_index": 2,
+      "text": "increase in simvastatin and \nsimvastatin acid exposures are not considered clinically relevant. \n \nInterference with 1,5-anhydroglucitol (1,5-AG) assay \n \nMonitoring glycaemic control with 1,5-AG assay is not recommended as measurements of 1,5-AG are \nunreliable in assessing glycaemic control in patients taking SGLT2 inhibitors. Use of alternative \nmethods to monitor glycaemic control is advised. \n \nPaediatric population \n \nInteraction studies have only been performed in adults."
+    },
+    {
+      "chunk_id": "forxiga_smpc_4_6_001",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "4.6",
+      "section_title": "Fertility, pregnancy and lactation",
+      "pages": [
+        7,
+        8
+      ],
+      "chunk_index": 1,
+      "text": "Pregnancy \n \nThere are no data from the use of dapagliflozin in pregnant women. Studies in rats have shown \ntoxicity to the developing kidney in the time period corresponding to the second and third trimesters of\n\n8 \nhuman pregnancy (see section 5.3). Therefore, the use of dapagliflozin is not recommended during the \nsecond and third trimesters of pregnancy. \n \nWhen pregnancy is detected, treatment with dapagliflozin should be discontinued. \n \nBreast-feeding \n \nIt is unknown whether dapagliflozin and/or its metabolites are excreted in human milk. Available \npharmacodynamic/toxicological data in animals have shown excretion of dapagliflozin/metabolites in \nmilk, as well as pharmacologically-mediated effects in nursing offspring (see section 5.3). A risk to \nthe newborns/infants cannot be excluded. Dapagliflozin should not be used while breast-feeding. \n \nFertility \n \nThe effect of dapagliflozin on fertility in humans has not been studied. In male and female rats, \ndapagliflozin showed no effects on fertility at any dose tested."
+    },
+    {
+      "chunk_id": "forxiga_smpc_4_7_001",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "4.7",
+      "section_title": "Effects on ability to drive and use machines",
+      "pages": [
+        8
+      ],
+      "chunk_index": 1,
+      "text": "Forxiga has no or negligible influence on the ability to drive and use machines. Patients should be \nalerted to the risk of hypoglycaemia when dapagliflozin is used in combination with a sulphonylurea \nor insulin."
+    },
+    {
+      "chunk_id": "forxiga_smpc_4_8_001",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "4.8",
+      "section_title": "Undesirable effects",
+      "pages": [
+        8
+      ],
+      "chunk_index": 1,
+      "text": "Summary of the safety profile \n \nType 2 diabetes mellitus \nIn the clinical studies in type 2 diabetes, more than 15,000 patients have been treated with \ndapagliflozin. \n \nThe primary assessment of safety and tolerability was conducted in a pre-specified pooled analysis of \n13 short-term (up to 24 weeks) placebo-controlled studies with 2,360 subjects treated with \ndapagliflozin 10 mg and 2,295 treated with placebo. \n \nIn the dapagliflozin cardiovascular outcomes study in type 2 diabetes mellitus (DECLARE study, see \nsection 5.1), 8,574 patients received dapagliflozin 10 mg and 8,569 received placebo for a median \nexposure time of 48 months. In total, there were 30,623 patient-years of exposure to dapagliflozin. \n \nThe most frequently reported adverse reactions across the clinical studies were genital infections. \n \nHeart failure \nIn the dapagliflozin cardiovascular outcome study in patients with heart failure with reduced ejection \nfraction (DAPA-HF study), 2,368 patients were treated with dapagliflozin 10 mg and 2,368 patients \nwith placebo for a median exposure time of 18 months. The patient population included patients with \ntype 2 diabetes mellitus and without diabetes, and patients with eGFR ≥ 30 mL/min/1.73 m2. In the \ndapagliflozin cardiovascular outcome study in patients with heart failure with left ventricular ejection \nfraction > 40% (DELIVER), 3,126 patients were treated with dapagliflozin 10 mg and 3,127 patients \nwith placebo for a median exposure time of 27 months. The patient population included patients with \ntype 2 diabetes mellitus and without diabetes, and patients with eGFR ≥ 25 mL/min/1.73 m2. \n \nThe overall safety profile of dapagliflozin in patients with heart failure was consistent with the known \nsafety profile of dapagliflozin. \n \nChronic kidney disease \nIn the dapagliflozin renal outcome study in patients with chronic kidney disease (DAPA-CKD), \n2,149 patients were treated with dapagliflozin 10 mg and 2,149 patients with placebo for a median"
+    },
+    {
+      "chunk_id": "forxiga_smpc_4_8_002",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "4.8",
+      "section_title": "Undesirable effects",
+      "pages": [
+        8,
+        9
+      ],
+      "chunk_index": 2,
+      "text": "with eGFR ≥ 25 mL/min/1.73 m2. \n \nThe overall safety profile of dapagliflozin in patients with heart failure was consistent with the known \nsafety profile of dapagliflozin. \n \nChronic kidney disease \nIn the dapagliflozin renal outcome study in patients with chronic kidney disease (DAPA-CKD), \n2,149 patients were treated with dapagliflozin 10 mg and 2,149 patients with placebo for a median\n\n9 \nexposure time of 27 months. The patient population included patients with type 2 diabetes mellitus and \nwithout diabetes, with eGFR ≥ 25 to ≤ 75 mL/min/1.73 m2, and albuminuria (urine albumin creatinine \nratio [UACR] ≥ 200 and ≤ 5000 mg/g). Treatment was continued if eGFR fell to levels below \n25 mL/min/1.73 m2. \n \nThe overall safety profile of dapagliflozin in patients with chronic kidney disease was consistent with \nthe known safety profile of dapagliflozin. \n \nTabulated list of adverse reactions \n \nThe following adverse reactions have been identified in the placebo-controlled clinical studies and \npostmarketing surveillance. None were found to be dose-related. Adverse reactions listed below are \nclassified according to frequency and system organ class (SOC). Frequency categories are defined \naccording to the following convention: very common (≥ 1/10), common (≥ 1/100 to < 1/10), \nuncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), very rare (< 1/10,000), and not \nknown (cannot be estimated from the available data). \n \nTable 1. Adverse reactions in placebo-controlled clinical studiesa and postmarketing experience \nSystem organ \nclass \nVery common \nCommon* \n \nUncommon** \n \nRare \nVery rare \nInfections and \ninfestations \n \nVulvovaginitis, \nbalanitis and \nrelated genital \ninfections*,b,c \nUrinary tract \ninfection*,b,d \nFungal \ninfection** \n \nNecrotising \nfasciitis of the \nperineum \n(Fournier's \ngangrene)b,i \nMetabolism and \nnutrition \ndisorders \nHypoglycaemia \n(when used \nwith SU or \ninsulin)b \n \nVolume \ndepletionb,e \nThirst** \nDiabetic \nketoacidosis \n(when used in \ntype 2 diabetes \nmellitus)b,i,k \n \nNervous system \ndisorders \n \nDizziness \n \n \n \nGastrointestinal \ndisorders \n \n \nConstipation** \nDry mouth** \n \n \nSkin and \nsubcutaneous \ntissue disorders \n \nRashj \n \n \nAngioedema \nMusculoskeletal \nand connective \ntissue disorders \n \nBack pain* \n \n \n \nRenal and \nurinary \ndisorders \n \nDysuria \nPolyuria*,f \nNocturia** \n \n \nTubulointerstitial \nnephritis \nReproductive \nsystem and \nbreast \ndisorders \n \n \nVulvovaginal \npruritus** \nPruritus \ngenital** \n \n \nInvestigations \n \nHaematocrit \nincreasedg \nCreatinine renal \nclearance \ndecreased \nduring initial \ntreatmentb \nDyslipidaemiah \nBlood \ncreatinine \nincreased \nduring initial \ntreatment**,b \nBlood urea \nincreased**"
+    },
+    {
+      "chunk_id": "forxiga_smpc_4_8_003",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "4.8",
+      "section_title": "Undesirable effects",
+      "pages": [
+        9,
+        10
+      ],
+      "chunk_index": 3,
+      "text": "disorders \n \nDysuria \nPolyuria*,f \nNocturia** \n \n \nTubulointerstitial \nnephritis \nReproductive \nsystem and \nbreast \ndisorders \n \n \nVulvovaginal \npruritus** \nPruritus \ngenital** \n \n \nInvestigations \n \nHaematocrit \nincreasedg \nCreatinine renal \nclearance \ndecreased \nduring initial \ntreatmentb \nDyslipidaemiah \nBlood \ncreatinine \nincreased \nduring initial \ntreatment**,b \nBlood urea \nincreased**\n\n10 \nSystem organ \nclass \nVery common \nCommon* \n \nUncommon** \n \nRare \nVery rare \nWeight \ndecreased** \naThe table shows up to 24-week (short-term) data regardless of glycaemic rescue. \nbSee corresponding subsection below for additional information. \ncVulvovaginitis, balanitis and related genital infections includes, e.g. the predefined preferred terms: \nvulvovaginal mycotic infection, vaginal infection, balanitis, genital infection fungal, vulvovaginal candidiasis, \nvulvovaginitis, balanitis candida, genital candidiasis, genital infection, genital infection male, penile infection, \nvulvitis, vaginitis bacterial, vulval abscess. \ndUrinary tract infection includes the following preferred terms, listed in order of frequency reported: urinary tract \ninfection, cystitis, Escherichia urinary tract infection, genitourinary tract infection, pyelonephritis, trigonitis, \nurethritis, kidney infection and prostatitis. \neVolume depletion includes, e.g. the predefined preferred terms: dehydration, hypovolaemia, hypotension. \nfPolyuria includes the preferred terms: pollakiuria, polyuria, urine output increased. \ngMean changes from baseline in haematocrit were 2.30% for dapagliflozin 10 mg versus –0.33% for placebo. \nHaematocrit values >55% were reported in 1.3% of the subjects treated with dapagliflozin 10 mg versus 0.4% \nof placebo subjects. \nhMean percent change from baseline for dapagliflozin 10 mg versus placebo, respectively, was: total cholesterol \n2.5% versus 0.0%; HDL cholesterol 6.0% versus 2.7%; LDL cholesterol 2.9% versus -1.0%; triglycerides -2.7% \nversus -0.7%. \niSee section 4.4. \njAdverse reaction was identified through postmarketing surveillance. Rash includes the following preferred \nterms, listed in order of frequency in clinical studies: rash, rash generalised, rash pruritic, rash macular, rash \nmaculo-papular, rash pustular, rash vesicular, and rash erythematous. In active- and placebo-controlled clinical \nstudies (dapagliflozin, N=5936, All control, N=3403), the frequency of rash was similar for dapagliflozin \n(1.4%) and all control (1.4%), respectively. \nkReported in the cardiovascular outcomes study in patients with type 2 diabetes (DECLARE). Frequency is \nbased on annual rate. \n*Reported in ≥ 2% of subjects and ≥ 1% more and at least 3 more subjects treated with dapagliflozin 10 mg \ncompared to placebo. \n**Reported by the investigator as possibly related, probably related or related to study treatment and reported in \n≥ 0.2% of subjects and ≥ 0.1% more and at least 3 more subjects treated with dapagliflozin 10 mg compared to \nplacebo. \n \nDescription of selected adverse reactions \n \nVulvovaginitis, balanitis and related genital infections \nIn the 13-study safety pool, vulvovaginitis, balanitis and related genital infections were reported in \n5.5% and 0.6% of subjects who received dapagliflozin 10 mg and placebo, respectively. Most \ninfections were mild to moderate, and subjects responded to an initial course of standard treatment and \nrarely resulted in discontinuation from dapagliflozin treatment."
+    },
+    {
+      "chunk_id": "forxiga_smpc_4_8_004",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "4.8",
+      "section_title": "Undesirable effects",
+      "pages": [
+        10
+      ],
+      "chunk_index": 4,
+      "text": "and related genital infections \nIn the 13-study safety pool, vulvovaginitis, balanitis and related genital infections were reported in \n5.5% and 0.6% of subjects who received dapagliflozin 10 mg and placebo, respectively. Most \ninfections were mild to moderate, and subjects responded to an initial course of standard treatment and \nrarely resulted in discontinuation from dapagliflozin treatment. These infections were more frequent in \nfemales (8.4% and 1.2% for dapagliflozin and placebo, respectively), and subjects with a prior history \nwere more likely to have a recurrent infection. \n \nIn the DECLARE study, the numbers of patients with serious adverse events of genital infections were \nfew and balanced: 2 patients in each of the dapagliflozin and placebo groups. \n \nIn the DAPA-HF study, no patient reported serious adverse events of genital infections in the \ndapagliflozin group and one in the placebo group. There were 7 (0.3%) patients with adverse events \nleading to discontinuations due to genital infections in the dapagliflozin group and none in the placebo \ngroup. In the DELIVER study, one (< 0.1%) patient in each treatment group reported a serious adverse \nevent of genital infections. There were 3 (0.1%) patients with adverse events leading to \ndiscontinuations due to genital infection in the dapagliflozin group and none in the placebo group. \n \nIn the DAPA-CKD study, there were 3 (0.1%) patients with serious adverse events of genital \ninfections in the dapagliflozin group and none in the placebo group. There were 3 (0.1%) patients with \nadverse events leading to discontinuation due to genital infections in the dapagliflozin group and none \nin the placebo group. Serious adverse events of genital infections or adverse events leading to \ndiscontinuation due to genital infections were not reported for any patients without diabetes."
+    },
+    {
+      "chunk_id": "forxiga_smpc_4_8_005",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "4.8",
+      "section_title": "Undesirable effects",
+      "pages": [
+        10,
+        11
+      ],
+      "chunk_index": 5,
+      "text": "in the dapagliflozin group and none in the placebo group. There were 3 (0.1%) patients with \nadverse events leading to discontinuation due to genital infections in the dapagliflozin group and none \nin the placebo group. Serious adverse events of genital infections or adverse events leading to \ndiscontinuation due to genital infections were not reported for any patients without diabetes.\n\n11 \n \nCases of phimosis/acquired phimosis have been reported concurrent with genital infections and in \nsome cases, circumcision was required. \n \nNecrotising fasciitis of the perineum (Fournier’s gangrene) \nCases of Fournier’s gangrene have been reported postmarketing in patients taking SGLT2 inhibitors, \nincluding dapagliflozin (see section 4.4). \n \nIn the DECLARE study with 17,160 type 2 diabetes mellitus patients and a median exposure time of \n48 months, a total of 6 cases of Fournier’s gangrene were reported, one in the dapagliflozin-treated \ngroup and 5 in the placebo group. \n \nHypoglycaemia \nThe frequency of hypoglycaemia depended on the type of background therapy used in the clinical \nstudies in diabetes mellitus. \n \nFor studies of dapagliflozin in monotherapy, as add-on to metformin or as add-on to sitagliptin (with \nor without metformin), the frequency of minor episodes of hypoglycaemia was similar (< 5%) \nbetween treatment groups, including placebo up to 102 weeks of treatment. Across all studies, major \nevents of hypoglycaemia were uncommon and comparable between the groups treated with \ndapagliflozin or placebo. Studies with add-on sulphonylurea and add-on insulin therapies had higher \nrates of hypoglycaemia (see section 4.5). \n \nIn an add-on to glimepiride study, at weeks 24 and 48, minor episodes of hypoglycaemia were \nreported more frequently in the group treated with dapagliflozin 10 mg plus glimepiride (6.0% and \n7.9%, respectively) than in the placebo plus glimepiride group (2.1% and 2.1%, respectively). \n \nIn an add-on to insulin study, episodes of major hypoglycaemia were reported in 0.5% and 1.0% of \nsubjects treated with dapagliflozin 10 mg plus insulin at weeks 24 and 104, respectively, and in 0.5% \nof subjects treated with placebo plus insulin groups at weeks 24 and 104. At weeks 24 and 104, minor \nepisodes of hypoglycaemia were reported, respectively, in 40.3% and 53.1% of subjects who received \ndapagliflozin 10 mg plus insulin and in 34.0% and 41.6% of the subjects who received placebo plus \ninsulin. \n \nIn an add-on to metformin and a sulphonylurea study, up to 24 weeks, no episodes of major \nhypoglycaemia were reported. Minor episodes of hypoglycaemia were reported in 12.8% of subjects \nwho received dapagliflozin 10 mg plus metformin and a sulphonylurea and in 3.7% of subjects who \nreceived placebo plus metformin and a sulphonylurea. \n \nIn the DECLARE study, no increased risk of major hypoglycaemia was observed with dapagliflozin \ntherapy compared with placebo. Major events of hypoglycaemia were reported in 58 (0.7%) patients \ntreated with dapagliflozin and 83 (1.0%) patients treated with placebo. \n \nIn the DAPA-HF study, major events of hypoglycaemia were reported in 4 (0.2%) patients in both the \ndapagliflozin and placebo treatment groups. In the DELIVER study, major events of hypoglycaemia \nwere reported in 6 (0.2%) patients in the dapagliflozin group and 7 (0.2%) in the placebo group. Major \nevents of hypoglycaemia were only observed in patients with type 2 diabetes mellitus."
+    },
+    {
+      "chunk_id": "forxiga_smpc_4_8_006",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "4.8",
+      "section_title": "Undesirable effects",
+      "pages": [
+        11,
+        12
+      ],
+      "chunk_index": 6,
+      "text": "placebo. \n \nIn the DAPA-HF study, major events of hypoglycaemia were reported in 4 (0.2%) patients in both the \ndapagliflozin and placebo treatment groups. In the DELIVER study, major events of hypoglycaemia \nwere reported in 6 (0.2%) patients in the dapagliflozin group and 7 (0.2%) in the placebo group. Major \nevents of hypoglycaemia were only observed in patients with type 2 diabetes mellitus. \n \nIn the DAPA-CKD study, major events of hypoglycaemia were reported in 14 (0.7%) patients in the \ndapagliflozin group and 28 (1.3%) patients in the placebo group and observed only in patients with \ntype 2 diabetes mellitus.  \n \nVolume depletion \nIn the 13-study safety pool, reactions suggestive of volume depletion (including, reports of \ndehydration, hypovolaemia or hypotension) were reported in 1.1% and 0.7% of subjects who received \ndapagliflozin 10 mg and placebo, respectively; serious reactions occurred in < 0.2% of subjects \nbalanced between dapagliflozin 10 mg and placebo (see section 4.4).\n\n12 \n \nIn the DECLARE study, the numbers of patients with events suggestive of volume depletion were \nbalanced between treatment groups: 213 (2.5%) and 207 (2.4%) in the dapagliflozin and placebo \ngroups, respectively. Serious adverse events were reported in 81 (0.9%) and 70 (0.8%) in the \ndapagliflozin and placebo group, respectively. Events were generally balanced between treatment \ngroups across subgroups of age, diuretic use, blood pressure and angiotensin converting enzyme \ninhibitors (ACE-I)/angiotensin II type 1 receptor blockers (ARB) use. In patients with eGFR \n< 60 mL/min/1.73 m2 at baseline, there were 19 events of serious adverse events suggestive of volume \ndepletion in the dapagliflozin group and 13 events in the placebo group. \n \nIn the DAPA-HF study, the numbers of patients with events suggestive of volume depletion were \n170 (7.2%) in the dapagliflozin group and 153 (6.5%) in the placebo group. There were fewer patients \nwith serious events of symptoms suggestive of volume depletion in the dapagliflozin group \n(23 [1.0%]) compared with the placebo group (38 [1.6%]). Results were similar irrespective of \npresence of diabetes at baseline and baseline eGFR. In the DELIVER study, the numbers of patients \nwith serious events of symptoms suggestive of volume depletion were 35 (1.1%) in the dapagliflozin \ngroup and 31 (1.0%) in the placebo group. \n \nIn the DAPA-CKD study, the numbers of patients with events suggestive of volume depletion were \n120 (5.6%) in the dapagliflozin group and 84 (3.9%) in the placebo group. There were \n16 (0.7%) patients with serious events of symptoms suggestive of volume depletion in the \ndapagliflozin group and 15 (0.7%) patients in the placebo group. \n \nDiabetic ketoacidosis in type 2 diabetes mellitus \nIn the DECLARE study, with a median exposure time of 48 months, events of DKA were reported in \n27 patients in the dapagliflozin 10 mg group and 12 patients in the placebo group. The events occurred \nevenly distributed over the study period. Of the 27 patients with DKA events in the dapagliflozin \ngroup, 22 had concomitant insulin treatment at the time of the event. Precipitating factors for DKA \nwere as expected in a type 2 diabetes mellitus population (see section 4.4). \n \nIn the DAPA-HF study, events of DKA were reported in 3 patients with type 2 diabetes mellitus in the \ndapagliflozin group and none in the placebo group."
+    },
+    {
+      "chunk_id": "forxiga_smpc_4_8_007",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "4.8",
+      "section_title": "Undesirable effects",
+      "pages": [
+        12
+      ],
+      "chunk_index": 7,
+      "text": "period. Of the 27 patients with DKA events in the dapagliflozin \ngroup, 22 had concomitant insulin treatment at the time of the event. Precipitating factors for DKA \nwere as expected in a type 2 diabetes mellitus population (see section 4.4). \n \nIn the DAPA-HF study, events of DKA were reported in 3 patients with type 2 diabetes mellitus in the \ndapagliflozin group and none in the placebo group. In the DELIVER study, events of DKA were \nreported in 2 patients with type 2 diabetes mellitus in the dapagliflozin group and none in the placebo \ngroup. \n \nIn the DAPA-CKD study, events of DKA were not reported in any patient in the dapagliflozin group \nand in 2 patients with type 2 diabetes mellitus in the placebo group. \n \nUrinary tract infections \nIn the 13-study safety pool, urinary tract infections were more frequently reported for \ndapagliflozin 10 mg compared to placebo (4.7% versus 3.5%, respectively; see section 4.4). Most \ninfections were mild to moderate, and subjects responded to an initial course of standard treatment and \nrarely resulted in discontinuation from dapagliflozin treatment. These infections were more frequent in \nfemales, and subjects with a prior history were more likely to have a recurrent infection. \n \nIn the DECLARE study, serious events of urinary tract infections were reported less frequently for \ndapagliflozin 10 mg compared with placebo, 79 (0.9%) events versus 109 (1.3%) events, respectively. \n \nIn the DAPA-HF study, the numbers of patients with serious adverse events of urinary tract infections \nwere 14 (0.6%) in the dapagliflozin group and 17 (0.7%) in the placebo group. There were 5 (0.2%) \npatients with adverse events leading to discontinuations due to urinary tract infections in each of the \ndapagliflozin and placebo groups. In the DELIVER study the numbers of patients with serious adverse \nevents of urinary tract infections were 41 (1.3%) in the dapagliflozin group and 37 (1.2%) in the \nplacebo group. There were 13 (0.4%) patients with adverse events leading to discontinuations due to \nurinary tract infections in the dapagliflozin group and 9 (0.3%) in the placebo group."
+    },
+    {
+      "chunk_id": "forxiga_smpc_4_8_008",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "4.8",
+      "section_title": "Undesirable effects",
+      "pages": [
+        12,
+        13
+      ],
+      "chunk_index": 8,
+      "text": "of the \ndapagliflozin and placebo groups. In the DELIVER study the numbers of patients with serious adverse \nevents of urinary tract infections were 41 (1.3%) in the dapagliflozin group and 37 (1.2%) in the \nplacebo group. There were 13 (0.4%) patients with adverse events leading to discontinuations due to \nurinary tract infections in the dapagliflozin group and 9 (0.3%) in the placebo group.\n\n13 \nIn the DAPA-CKD study, the numbers of patients with serious adverse events of urinary tract \ninfections were 29 (1.3%) in the dapagliflozin group and 18 (0.8%) in the placebo group. There were \n8 (0.4%) patients with adverse events leading to discontinuations due to urinary tract infections in the \ndapagliflozin group and 3 (0.1%) in the placebo group. The numbers of patients without diabetes \nreporting serious adverse events of urinary tract infections or adverse events leading to discontinuation \ndue to urinary tract infections were similar between treatment groups (6 [0.9%] versus 4 [0.6%] for \nserious adverse events, and 1 [0.1%] versus 0 for adverse events leading to discontinuation, in the \ndapagliflozin and placebo groups, respectively). \n \nIncreased creatinine \nAdverse reactions related to increased creatinine were grouped (e.g. decreased renal creatinine \nclearance, renal impairment, increased blood creatinine and decreased glomerular filtration rate). In \nthe 13-study safety pool, this grouping of reactions was reported in 3.2% and 1.8% of patients who \nreceived dapagliflozin 10 mg and placebo, respectively. In patients with normal renal function or mild \nrenal impairment (baseline eGFR ≥ 60 mL/min/1.73 m2) this grouping of reactions were reported in \n1.3% and 0.8% of patients who received dapagliflozin 10 mg and placebo, respectively. These \nreactions were more common in patients with baseline eGFR ≥ 30 and < 60 mL/min/1.73 m2 (18.5% \ndapagliflozin 10 mg versus 9.3% placebo). \n \nFurther evaluation of patients who had renal-related adverse events showed that most had serum \ncreatinine changes of ≤ 44 micromoles/L (≤ 0.5 mg/dL) from baseline. The increases in creatinine \nwere generally transient during continuous treatment or reversible after discontinuation of treatment. \n \nIn the DECLARE study, including elderly patients and patients with renal impairment (eGFR less than \n60 mL/min/1.73 m2), eGFR decreased over time in both treatment groups. At 1 year, mean eGFR was \nslightly lower, and at 4 years, mean eGFR was slightly higher in the dapagliflozin group compared \nwith the placebo group. \n \nIn the DAPA-HF and DELIVER studies, eGFR decreased over time in both the dapagliflozin group \nand the placebo group. In DAPA-HF, the initial decrease in mean eGFR was -4.3 mL/min/1.73 m2 in \nthe dapagliflozin group and -1.1 mL/min/1.73 m2 in the placebo group. At 20 months, change from \nbaseline in eGFR was similar between the treatment groups: -5.3 mL/min/1.73 m2 for dapagliflozin \nand -4.5 mL/min/1.73 m2 for placebo. In DELIVER, the decrease in mean eGFR at one month \nwas -3.7 mL/min/1.73 m2 in the dapagliflozin group and -0.4 mL/min/1.73 m2 in the placebo group. At \n24 months, change from baseline in eGFR was similar between treatment \ngroups: -4.2 mL/min/1.73 m2 in the dapagliflozin group and -3.2 mL/min/1.73 m2 in the placebo \ngroup. \n \nIn the DAPA-CKD study, eGFR decreased over time in both the dapagliflozin group and the placebo \ngroup."
+    },
+    {
+      "chunk_id": "forxiga_smpc_4_8_009",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "4.8",
+      "section_title": "Undesirable effects",
+      "pages": [
+        13,
+        14
+      ],
+      "chunk_index": 9,
+      "text": "eGFR at one month \nwas -3.7 mL/min/1.73 m2 in the dapagliflozin group and -0.4 mL/min/1.73 m2 in the placebo group. At \n24 months, change from baseline in eGFR was similar between treatment \ngroups: -4.2 mL/min/1.73 m2 in the dapagliflozin group and -3.2 mL/min/1.73 m2 in the placebo \ngroup. \n \nIn the DAPA-CKD study, eGFR decreased over time in both the dapagliflozin group and the placebo \ngroup. The initial (day 14) decrease in mean eGFR was -4.0 mL/min/1.73 m2 in the dapagliflozin \ngroup and -0.8 mL/min/1.73 m2 in the placebo group. At 28 months, change from baseline in eGFR \nwas -7.4 mL/min/1.73 m2 in the dapagliflozin group and -8.6 mL/min/1.73 m2 in the placebo group. \n \nPaediatric population \n \nThe dapagliflozin safety profile observed in a clinical study in children aged 10 years and above with \ntype 2 diabetes mellitus (see section 5.1) was similar to that observed in the studies in adults. \n \nReporting of suspected adverse reactions \n \nReporting suspected adverse reactions after authorisation of the medicinal product is important. It \nallows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare \nprofessionals are asked to report any suspected adverse reactions via the national reporting system \nlisted in Appendix V.\n\n14"
+    },
+    {
+      "chunk_id": "forxiga_smpc_4_9_001",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "4.9",
+      "section_title": "Overdose",
+      "pages": [
+        14
+      ],
+      "chunk_index": 1,
+      "text": "Dapagliflozin did not show any toxicity in healthy subjects at single oral doses up to 500 mg (50 times \nthe maximum recommended human dose). These subjects had detectable glucose in the urine for a \ndose-related period of time (at least 5 days for the 500 mg dose), with no reports of dehydration, \nhypotension or electrolyte imbalance, and with no clinically meaningful effect on QTc interval. The \nincidence of hypoglycaemia was similar to placebo. In clinical studies where once-daily doses of up to \n100 mg (10 times the maximum recommended human dose) were administered for 2 weeks in healthy \nsubjects and type 2 diabetes subjects, the incidence of hypoglycaemia was slightly higher than placebo \nand was not dose-related. Rates of adverse events including dehydration or hypotension were similar \nto placebo, and there were no clinically meaningful dose-related changes in laboratory parameters, \nincluding serum electrolytes and biomarkers of renal function. \n \nIn the event of an overdose, appropriate supportive treatment should be initiated as dictated by the \npatient’s clinical status. The removal of dapagliflozin by haemodialysis has not been studied."
+    },
+    {
+      "chunk_id": "forxiga_smpc_5_1_001",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "5.1",
+      "section_title": "Pharmacodynamic properties",
+      "pages": [
+        14
+      ],
+      "chunk_index": 1,
+      "text": "Pharmacotherapeutic group: Drugs used in diabetes, sodium-glucose co-transporter 2 (SGLT2) \ninhibitors, ATC code: A10BK01 \n \nMechanism of action \n \nDapagliflozin is a highly potent (Ki: 0.55 nM), selective and reversible inhibitor of SGLT2. \n \nInhibition of SGLT2 by dapagliflozin reduces reabsorption of glucose from the glomerular filtrate in \nthe proximal renal tubule with a concomitant reduction in sodium reabsorption leading to urinary \nexcretion of glucose and osmotic diuresis. Dapagliflozin therefore increases the delivery of sodium to \nthe distal tubule which increases tubuloglomerular feedback and reduces intraglomerular pressure. \nThis combined with osmotic diuresis leads to a reduction in volume overload, reduced blood pressure, \nand lower preload and afterload, which may have beneficial effects on cardiac remodelling and \ndiastolic function, and preserve renal function. The cardiac and renal benefits of dapagliflozin are not \nsolely dependent on the blood glucose-lowering effect and not limited to patients with diabetes as \ndemonstrated in the DAPA-HF, DELIVER and DAPA-CKD studies. Other effects include an increase \nin haematocrit and reduction in body weight. \n \nDapagliflozin improves both fasting and post-prandial plasma glucose levels by reducing renal glucose \nreabsorption leading to urinary glucose excretion. This glucose excretion (glucuretic effect) is \nobserved after the first dose, is continuous over the 24-hour dosing interval and is sustained for the \nduration of treatment. The amount of glucose removed by the kidney through this mechanism is \ndependent upon the blood glucose concentration and GFR. Thus, in subjects with normal blood \nglucose, dapagliflozin has a low propensity to cause hypoglycaemia. Dapagliflozin does not impair \nnormal endogenous glucose production in response to hypoglycaemia. Dapagliflozin acts \nindependently of insulin secretion and insulin action. Improvement in homeostasis model assessment \nfor beta cell function (HOMA beta-cell) has been observed in clinical studies with dapagliflozin. \n \nThe SGLT2 is selectively expressed in the kidney. Dapagliflozin does not inhibit other glucose \ntransporters important for glucose transport into peripheral tissues and is > 1,400 times more selective \nfor SGLT2 versus SGLT1, the major transporter in the gut responsible for glucose absorption. \n \nPharmacodynamic effects \n \nIncreases in the amount of glucose excreted in the urine were observed in healthy subjects and in \nsubjects with type 2 diabetes mellitus following the administration of dapagliflozin. Approximately"
+    },
+    {
+      "chunk_id": "forxiga_smpc_5_1_002",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "5.1",
+      "section_title": "Pharmacodynamic properties",
+      "pages": [
+        14,
+        15
+      ],
+      "chunk_index": 2,
+      "text": "transport into peripheral tissues and is > 1,400 times more selective \nfor SGLT2 versus SGLT1, the major transporter in the gut responsible for glucose absorption. \n \nPharmacodynamic effects \n \nIncreases in the amount of glucose excreted in the urine were observed in healthy subjects and in \nsubjects with type 2 diabetes mellitus following the administration of dapagliflozin. Approximately\n\n15 \n70 g of glucose was excreted in the urine per day (corresponding to 280 kcal/day) at a dapagliflozin \ndose of 10 mg/day in subjects with type 2 diabetes mellitus for 12 weeks. Evidence of sustained \nglucose excretion was seen in subjects with type 2 diabetes mellitus given dapagliflozin 10 mg/day for \nup to 2 years. \n \nThis urinary glucose excretion with dapagliflozin also results in osmotic diuresis and increases in \nurinary volume in subjects with type 2 diabetes mellitus. Urinary volume increases in subjects with \ntype 2 diabetes mellitus treated with dapagliflozin 10 mg were sustained at 12 weeks and amounted to \napproximately 375 mL/day. The increase in urinary volume was associated with a small and transient \nincrease in urinary sodium excretion that was not associated with changes in serum sodium \nconcentrations. \n \nUrinary uric acid excretion was also increased transiently (for 3-7 days) and accompanied by a \nsustained reduction in serum uric acid concentration. At 24 weeks, reductions in serum uric acid \nconcentrations ranged from -48.3 to -18.3 micromoles/L (-0.87 to -0.33 mg/dL). \n \nClinical efficacy and safety \n \nType 2 diabetes mellitus \n \nImprovement of glycaemic control and reduction of cardiovascular and renal morbidity and mortality \nare integral parts of the treatment of type 2 diabetes. \n \nFourteen double-blind, randomised, controlled clinical studies were conducted with 7,056 adult \nsubjects with type 2 diabetes to evaluate the glycaemic efficacy and safety of Forxiga; 4,737 subjects \nin these studies were treated with dapagliflozin. Twelve studies had a treatment period of 24 weeks \nduration, 8 with long-term extensions ranging from 24 to 80 weeks (up to a total study duration of \n104 weeks), one study had a 28-week treatment period, and one study was 52 weeks in duration with \nlong-term extensions of 52 and 104 weeks (total study duration of 208 weeks). Mean duration of \ndiabetes ranged from 1.4 to 16.9 years. Fifty percent (50%) had mild renal impairment and 11% had \nmoderate renal impairment. Fifty-one percent (51%) of the subjects were men, 84% were White, 8% \nwere Asian, 4% were Black and 4% were of other racial groups. Eighty-one percent (81%) of the \nsubjects had a body mass index (BMI)  27. Furthermore, two 12-week, placebo-controlled studies \nwere conducted in patients with inadequately controlled type 2 diabetes and hypertension. \n \nA cardiovascular outcomes study (DECLARE) was conducted with dapagliflozin 10 mg compared \nwith placebo in 17,160 patients with type 2 diabetes mellitus with or without established \ncardiovascular disease to evaluate the effect on cardiovascular and renal events. \n \nGlycaemic control \nMonotherapy \nA double-blind, placebo-controlled study of 24-week duration (with an additional extension period) \nwas conducted to evaluate the safety and efficacy of monotherapy with Forxiga in subjects with \ninadequately controlled type 2 diabetes mellitus."
+    },
+    {
+      "chunk_id": "forxiga_smpc_5_1_003",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "5.1",
+      "section_title": "Pharmacodynamic properties",
+      "pages": [
+        15,
+        16
+      ],
+      "chunk_index": 3,
+      "text": "with or without established \ncardiovascular disease to evaluate the effect on cardiovascular and renal events. \n \nGlycaemic control \nMonotherapy \nA double-blind, placebo-controlled study of 24-week duration (with an additional extension period) \nwas conducted to evaluate the safety and efficacy of monotherapy with Forxiga in subjects with \ninadequately controlled type 2 diabetes mellitus. Once-daily treatment with dapagliflozin resulted in \nstatistically significant (p < 0.0001) reductions in HbA1c compared to placebo (Table 2). \n \nIn the extension period, HbA1c reductions were sustained through week 102 (-0.61%, \nand -0.17% adjusted mean change from baseline for dapagliflozin 10 mg and placebo, respectively).\n\n16 \nTable 2. Results at week 24 (LOCFa) of a placebo-controlled study of dapagliflozin as \nmonotherapy \n \nMonotherapy  \n \nDapagliflozin \n10 mg \nPlacebo \nNb \n70 \n75 \nHbA1c (%) \nBaseline (mean) \nChange from baselinec \nDifference from placeboc \n    (95% CI) \n \n8.01 \n-0.89 \n-0.66* \n(-0.96, -0.36) \n \n7.79 \n-0.23 \n \n \nSubjects (%) achieving: \nHbA1c < 7% \nAdjusted for baseline \n \n \n50.8§ \n \n \n31.6 \nBody weight (kg) \nBaseline (mean) \nChange from baselinec \nDifference from placeboc \n    (95% CI) \n \n94.13 \n-3.16 \n-0.97 \n(-2.20, 0.25) \n \n88.77 \n-2.19 \naLOCF: Last observation (prior to rescue for rescued subjects) carried forward \nbAll randomised subjects who took at least one dose of double-blind study medicinal product during the \nshort-term double-blind period \ncLeast squares mean adjusted for baseline value \n*p-value < 0.0001 versus placebo \n§Not evaluated for statistical significance as a result of the sequential testing procedure for secondary end \npoints \n \nAdd-on combination therapy \nIn a 52-week, active-controlled non-inferiority study (with 52- and 104-week extension periods), \nForxiga was evaluated as add-on therapy to metformin compared with a sulphonylurea (glipizide) as \nadd-on therapy to metformin in subjects with inadequate glycaemic control (HbA1c > 6.5% and \n≤ 10%). The results showed a similar mean reduction in HbA1c from baseline to week 52, compared \nto glipizide, thus demonstrating non-inferiority (Table 3). At week 104, adjusted mean change from \nbaseline in HbA1c was -0.32% for dapagliflozin and -0.14% for glipizide. At week 208, adjusted \nmean change from baseline in HbA1c was -0.10% for dapagliflozin and 0.20% for glipizide. At 52, \n104 and 208 weeks, a significantly lower proportion of subjects in the group treated with dapagliflozin \n(3.5%, 4.3% and 5.0%, respectively) experienced at least one event of hypoglycaemia compared to the \ngroup treated with glipizide (40.8%, 47.0% and 50.0%, respectively). The proportion of subjects \nremaining in the study at week 104 and week 208 was 56.2% and 39.7% for the group treated with \ndapagliflozin and 50.0% and 34.6% for the group treated with glipizide."
+    },
+    {
+      "chunk_id": "forxiga_smpc_5_1_004",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "5.1",
+      "section_title": "Pharmacodynamic properties",
+      "pages": [
+        16,
+        17
+      ],
+      "chunk_index": 4,
+      "text": "treated with dapagliflozin \n(3.5%, 4.3% and 5.0%, respectively) experienced at least one event of hypoglycaemia compared to the \ngroup treated with glipizide (40.8%, 47.0% and 50.0%, respectively). The proportion of subjects \nremaining in the study at week 104 and week 208 was 56.2% and 39.7% for the group treated with \ndapagliflozin and 50.0% and 34.6% for the group treated with glipizide.\n\n17 \nTable 3. Results at week 52 (LOCFa) in an active-controlled study comparing dapagliflozin to \nglipizide as add-on to metformin \nParameter \nDapagliflozin \n+ metformin \nGlipizide \n+ metformin \nNb \n400 \n401 \nHbA1c (%) \nBaseline (mean) \nChange from baselinec \nDifference from glipizide + metforminc \n    (95% CI) \n \n7.69 \n-0.52 \n0.00d \n(-0.11, 0.11) \n \n7.74 \n-0.52 \n \n \nBody weight (kg) \nBaseline (mean) \nChange from baselinec \nDifference from glipizide + metforminc \n    (95% CI) \n \n88.44 \n-3.22 \n-4.65* \n(-5.14, -4.17) \n \n87.60 \n1.44 \n \n \naLOCF: Last observation carried forward \nbRandomised and treated subjects with baseline and at least 1 post-baseline efficacy \nmeasurement \ncLeast squares mean adjusted for baseline value \ndNon-inferior to glipizide + metformin \n*p-value < 0.0001 \n \nDapagliflozin as an add-on with either metformin, glimepiride, metformin and a sulphonylurea, \nsitagliptin (with or without metformin) or insulin resulted in statistically significant reductions in \nHbA1c at 24 weeks compared with subjects receiving placebo (p < 0.0001; Tables 4, 5 and 6). \n \nThe reductions in HbA1c observed at week 24 were sustained in add-on combination studies \n(glimepiride and insulin) with 48-week data (glimepiride) and up to 104-week data (insulin). At \nweek 48 when added to sitagliptin (with or without metformin), the adjusted mean change from \nbaseline for dapagliflozin 10 mg and placebo was -0.30% and 0.38%, respectively. For the add-on to \nmetformin study, HbA1c reductions were sustained through week 102 (-0.78% and 0.02% adjusted \nmean change from baseline for 10 mg and placebo, respectively). At week 104 for insulin (with or \nwithout additional oral glucose-lowering medicinal products), the HbA1c reductions were -0.71% \nand -0.06% adjusted mean change from baseline for dapagliflozin 10 mg and placebo, respectively. At \nweeks 48 and 104, the insulin dose remained stable compared to baseline in subjects treated with \ndapagliflozin 10 mg at an average dose of 76 IU/day. In the placebo group there was a mean increase \nof 10.5 IU/day and 18.3 IU/day from baseline (mean average dose of 84 and 92 IU/day) at weeks 48 \nand 104, respectively. The proportion of subjects remaining in the study at week 104 was 72.4% for \nthe group treated with dapagliflozin 10 mg and 54.8% for the placebo group."
+    },
+    {
+      "chunk_id": "forxiga_smpc_5_1_005",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "5.1",
+      "section_title": "Pharmacodynamic properties",
+      "pages": [
+        17,
+        18,
+        19
+      ],
+      "chunk_index": 5,
+      "text": "subjects treated with \ndapagliflozin 10 mg at an average dose of 76 IU/day. In the placebo group there was a mean increase \nof 10.5 IU/day and 18.3 IU/day from baseline (mean average dose of 84 and 92 IU/day) at weeks 48 \nand 104, respectively. The proportion of subjects remaining in the study at week 104 was 72.4% for \nthe group treated with dapagliflozin 10 mg and 54.8% for the placebo group.\n\n18 \nTable 4. Results of 24-week (LOCFa) placebo-controlled studies of dapagliflozin in add-on \ncombination with metformin or sitagliptin (with or without metformin) \n \nAdd-on combination \nMetformin1 \nDPP-4 inhibitor \n(sitagliptin2) ± metformin1  \n \nDapagliflozin \n10 mg \nPlacebo \n \nDapagliflozin \n10 mg \nPlacebo \nNb \n135 \n137 \n223 \n224 \nHbA1c (%) \nBaseline (mean) \nChange from \n  baselinec \nDifference from \n  placeboc \n    (95% CI) \n \n7.92 \n \n-0.84 \n \n-0.54* \n(-0.74, -0.34) \n \n8.11 \n \n-0.30 \n \n7.90 \n \n-0.45 \n \n-0.48* \n(-0.62, -0.34) \n \n7.97 \n \n0.04 \nSubjects (%) achieving: \nHbA1c < 7% \nAdjusted for baseline \n \n \n40.6** \n \n \n25.9 \n \n \nBody weight (kg) \nBaseline (mean) \nChange from \n  baselinec \nDifference from \n  placeboc \n    (95% CI) \n \n86.28 \n \n-2.86 \n \n-1.97* \n(-2.63, -1.31) \n \n87.74 \n \n-0.89 \n \n91.02 \n \n-2.14 \n \n-1.89* \n(-2.37, -1.40) \n \n89.23 \n \n-0.26 \n1Metformin ≥ 1500 mg/day;  \n2sitagliptin 100 mg/day \naLOCF: Last observation (prior to rescue for rescued subjects) carried forward \nbAll randomised subjects who took at least one dose of double-blind study medicinal product during the short-term \ndouble-blind period \ncLeast squares mean adjusted for baseline value \n*p-value < 0.0001 versus placebo + oral glucose-lowering medicinal product \n**p-value < 0.05 versus placebo + oral glucose-lowering medicinal product\n\n19 \nTable 5. Results of 24-week placebo-controlled studies of dapagliflozin in add-on combination \nwith sulphonylurea (glimepiride) or metformin and a sulphonylurea \n \nAdd-on combination \nSulphonylurea \n(glimepiride1) \nSulphonylurea \n+ metformin2 \n \nDapagliflozin \n10 mg \nPlacebo \n \nDapagliflozin \n10 mg \nPlacebo \nNa \n151 \n145 \n108 \n108 \nHbA1c (%)b \nBaseline (mean) \nChange from baselinec \nDifference from placeboc \n    (95% CI) \n \n8.07 \n-0.82 \n-0.68* \n(-0.86, -0.51) \n \n8.15 \n-0.13 \n \n8.08 \n-0.86 \n−0.69* \n(−0.89, −0.49) \n \n8.24 \n-0.17 \nSubjects (%) achieving: \nHbA1c < 7% (LOCF)d \nAdjusted for baseline \n \n \n31.7* \n \n \n13.0 \n \n \n31.8* \n \n \n11.1 \nBody weight (kg) \n(LOCF)d \nBaseline (mean) \nChange from baselinec \nDifference from placeboc \n    (95% CI) \n \n \n80.56 \n-2.26 \n-1.54* \n(-2.17, -0.92) \n \n \n80.94 \n-0.72 \n \n \n88.57 \n-2.65 \n−2.07* \n(−2.79, −1.35) \n \n \n90.07 \n-0.58 \n1glimepiride 4 mg/day;  \n2Metformin (immediate- or extended-release formulations) ≥1500 mg/day plus maximum tolerated dose, which \nmust be at least half maximum dose, of a sulphonylurea for at least 8 weeks prior to enrolment. \naRandomised and treated patients with baseline and at least 1 post-baseline efficacy measurement. \nbColumns 1 and 2, HbA1c analysed using LOCF (see footnote d); Columns 3 and 4, HbA1c analysed using LRM \n(see footnote e) \ncLeast squares mean adjusted for baseline value \ndLOCF: Last observation (prior to rescue for rescued subjects) carried forward \neLRM: Longitudinal repeated measures analysis \n*p-value < 0.0001 versus placebo + oral glucose-lowering medicinal product(s)"
+    },
+    {
+      "chunk_id": "forxiga_smpc_5_1_006",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "5.1",
+      "section_title": "Pharmacodynamic properties",
+      "pages": [
+        19,
+        20
+      ],
+      "chunk_index": 6,
+      "text": "measurement. \nbColumns 1 and 2, HbA1c analysed using LOCF (see footnote d); Columns 3 and 4, HbA1c analysed using LRM \n(see footnote e) \ncLeast squares mean adjusted for baseline value \ndLOCF: Last observation (prior to rescue for rescued subjects) carried forward \neLRM: Longitudinal repeated measures analysis \n*p-value < 0.0001 versus placebo + oral glucose-lowering medicinal product(s)\n\n20 \nTable 6. Results at week 24 (LOCFa) in a placebo-controlled study of dapagliflozin in \ncombination with insulin (alone or with oral glucose-lowering medicinal products) \nParameter \nDapagliflozin 10 mg \n+ insulin \n± oral glucose-lowering \nmedicinal products2 \nPlacebo \n+ insulin \n± oral glucose-lowering \nmedicinal products2 \nNb \n194 \n193 \nHbA1c (%) \nBaseline (mean) \nChange from baselinec \nDifference from placeboc \n    (95% CI) \n \n8.58 \n-0.90 \n-0.60* \n(-0.74, -0.45) \n \n8.46 \n-0.30 \nBody weight (kg) \nBaseline (mean) \nChange from baselinec \nDifference from placeboc \n    (95% CI) \n \n94.63 \n-1.67 \n-1.68* \n(-2.19, -1.18) \n \n94.21 \n0.02 \nMean daily insulin dose (IU)1 \nBaseline (mean) \nChange from baselinec \nDifference from placeboc \n    (95% CI) \nSubjects with mean daily \ninsulin dose reduction of at \nleast 10% (%) \n \n77.96 \n-1.16 \n-6.23* \n(-8.84, -3.63) \n \n \n19.7** \n \n73.96 \n5.08 \n \n \n \n \n11.0 \naLOCF: Last observation (prior to or on the date of the first insulin up-titration, if needed) carried forward \nbAll randomised subjects who took at least one dose of double-blind study medicinal product during the short-\nterm double-blind period \ncLeast squares mean adjusted for baseline value and presence of oral glucose-lowering medicinal product \n*p-value < 0.0001 versus placebo + insulin ± oral glucose-lowering medicinal product \n**p-value < 0.05 versus placebo + insulin ± oral glucose-lowering medicinal product \n1Up-titration of insulin regimens (including short-acting, intermediate, and basal insulin) was only allowed if \nsubjects met pre-defined FPG criteria. \n2Fifty percent of subjects were on insulin monotherapy at baseline; 50% were on 1 or 2 oral glucose-lowering \nmedicinal product(s) in addition to insulin: Of this latter group, 80% were on metformin alone, 12% were \non metformin plus sulphonylurea therapy, and the rest were on other oral glucose-lowering medicinal \nproducts. \n \nIn combination with metformin in drug-naive patients \nA total of 1,236 drug-naive patients with inadequately controlled type 2 diabetes (HbA1c ≥ 7.5% and \n≤ 12%) participated in two active-controlled studies of 24 weeks duration to evaluate the efficacy and \nsafety of dapagliflozin (5 mg or 10 mg) in combination with metformin in drug-naive patients versus \ntherapy with the monocomponents. \n \nTreatment with dapagliflozin 10 mg in combination with metformin (up to 2000 mg per day) provided \nsignificant improvements in HbA1c compared to the individual components (Table 7), and led to \ngreater reductions in fasting plasma glucose (FPG) (compared to the individual components) and body \nweight (compared to metformin)."
+    },
+    {
+      "chunk_id": "forxiga_smpc_5_1_007",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "5.1",
+      "section_title": "Pharmacodynamic properties",
+      "pages": [
+        20,
+        21
+      ],
+      "chunk_index": 7,
+      "text": "in drug-naive patients versus \ntherapy with the monocomponents. \n \nTreatment with dapagliflozin 10 mg in combination with metformin (up to 2000 mg per day) provided \nsignificant improvements in HbA1c compared to the individual components (Table 7), and led to \ngreater reductions in fasting plasma glucose (FPG) (compared to the individual components) and body \nweight (compared to metformin).\n\n21 \nTable 7. Results at week 24 (LOCFa) in an active-controlled study of dapagliflozin and \nmetformin combination therapy in drug-naive patients \nParameter \nDapagliflozin 10 mg \n+ \nmetformin \nDapagliflozin 10 mg \nMetformin \nNb \n211b \n219b \n208b \nHbA1c (%) \nBaseline (mean) \nChange from baselinec \nDifference from dapagliflozinc \n    (95% CI) \nDifference from metforminc \n    (95% CI) \n \n9.10 \n-1.98 \n−0.53* \n(−0.74, −0.32) \n−0.54* \n(−0.75, −0.33) \n \n9.03 \n-1.45 \n \n \n−0.01 \n(−0.22, 0.20) \n \n9.03 \n-1.44 \naLOCF: last observation (prior to rescue for rescued patients) carried forward. \nbAll randomised patients who took at least one dose of double-blind study medicinal product during the \nshort-term double-blind period. \ncLeast squares mean adjusted for baseline value. \n*p-value <0.0001. \n \nCombination therapy with prolonged-release exenatide \nIn a 28-week, double-blind, active comparator-controlled study, the combination of dapagliflozin and \nprolonged-release exenatide (a GLP-1 receptor agonist) was compared to dapagliflozin alone and \nprolonged-release exenatide alone in subjects with inadequate glycaemic control on metformin alone \n(HbA1c ≥ 8% and ≤ 12%). All treatment groups had a reduction in HbA1c compared to baseline. The \ncombination treatment with dapagliflozin 10 mg and prolonged-release exenatide group showed \nsuperior reductions in HbA1c from baseline compared to dapagliflozin alone and prolonged-release \nexenatide alone (Table 8). \n \nTable 8. Results of one 28-week study of dapagliflozin and prolonged-release exenatide versus \ndapagliflozin alone and prolonged-release exenatide alone, in combination with metformin \n(intent to treat patients) \nParameter \nDapagliflozin 10 mg \nQD \n+ \nprolonged-release \nexenatide 2 mg QW \nDapagliflozin 10 mg \nQD \n+ \nplacebo QW \nProlonged-release \nexenatide 2 mg \nQW \n+ \nplacebo QD \nN \n228 \n230 \n227 \nHbA1c (%) \n \n \n \nBaseline (mean) \n9.29 \n9.25 \n9.26 \nChange from baselinea \n-1.98 \n-1.39 \n-1.60 \nMean difference in change \nfrom baseline between \ncombination and single \nmedicinal product (95% CI) \n \n-0.59* \n(-0.84, -0.34) \n-0.38** \n(-0.63, -0.13) \nSubjects (%) achieving \nHbA1c  7% \n44.7 \n19.1 \n26.9 \nBody weight (kg) \n \n \n \nBaseline (mean) \n92.13 \n90.87 \n89.12 \nChange from baseline a \n-3.55 \n-2.22 \n-1.56 \nMean difference in change \nfrom baseline between \ncombination and single \nmedicinal product (95% CI) \n \n-1.33* \n(-2.12, -0.55) \n-2.00* \n(-2.79, -1.20) \nQD=once daily, QW=once weekly, N=number of patients, CI=confidence interval."
+    },
+    {
+      "chunk_id": "forxiga_smpc_5_1_008",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "5.1",
+      "section_title": "Pharmacodynamic properties",
+      "pages": [
+        21,
+        22
+      ],
+      "chunk_index": 8,
+      "text": "-0.13) \nSubjects (%) achieving \nHbA1c  7% \n44.7 \n19.1 \n26.9 \nBody weight (kg) \n \n \n \nBaseline (mean) \n92.13 \n90.87 \n89.12 \nChange from baseline a \n-3.55 \n-2.22 \n-1.56 \nMean difference in change \nfrom baseline between \ncombination and single \nmedicinal product (95% CI) \n \n-1.33* \n(-2.12, -0.55) \n-2.00* \n(-2.79, -1.20) \nQD=once daily, QW=once weekly, N=number of patients, CI=confidence interval.\n\n22 \naAdjusted least squares means (LS Means) and treatment group difference(s) in the change from baseline \nvalues at week 28 are modelled using a mixed model with repeated measures (MMRM) including treatment, \nregion, baseline HbA1c stratum (< 9.0% or ≥ 9.0%), week, and treatment by week interaction as fixed \nfactors, and baseline value as a covariate. \n*p < 0.001, **p < 0.01. \nP-values are all adjusted p-values for multiplicity. \nAnalyses exclude measurements post rescue therapy and post premature discontinuation of study medicinal \nproduct. \n \nFasting plasma glucose \nTreatment with dapagliflozin 10 mg as a monotherapy or as an add-on to either metformin, \nglimepiride, metformin and a sulphonylurea, sitagliptin (with or without metformin) or insulin resulted \nin statistically significant reductions in FPG (-1.90 to -1.20 mmol/L [-34.2 to -21.7 mg/dL]) compared \nto placebo (-0.33 to 0.21 mmol/L [-6.0 to 3.8 mg/dL]). This effect was observed at week 1 of \ntreatment and maintained in studies extended through week 104. \n \nCombination therapy of dapagliflozin 10 mg and prolonged-release exenatide resulted in significantly \ngreater reductions in FPG at week 28: -3.66 mmol/L (-65.8 mg/dL), compared to -2.73 mmol/L \n(-49.2 mg/dL) for dapagliflozin alone (p < 0.001) and -2.54 mmol/L (-45.8 mg/dL) for exenatide alone \n(p < 0.001). \n \nIn a dedicated study in diabetic patients with an eGFR ≥ 45 to < 60 mL/min/1.73 m2, treatment with \ndapagliflozin demonstrated reductions in FPG at week 24: -1.19 mmol/L (-21.46 mg/dL) compared to \n-0.27 mmol/L (-4.87 mg/dL) for placebo (p=0.001). \n \nPost-prandial glucose \nTreatment with dapagliflozin 10 mg as an add-on to glimepiride resulted in statistically significant \nreductions in 2-hour post-prandial glucose at 24 weeks that were maintained up to week 48. \n \nTreatment with dapagliflozin 10 mg as an add-on to sitagliptin (with or without metformin) resulted in \nreductions in 2-hour post-prandial glucose at 24 weeks that were maintained up to week 48. \n \nCombination therapy of dapagliflozin 10 mg and prolonged-release exenatide resulted in significantly \ngreater reductions in 2-hour post-prandial glucose at week 28 compared to either medicinal product \nalone. \n \nBody weight  \nDapagliflozin 10 mg as an add-on to metformin, glimepiride, metformin and a sulphonylurea, \nsitagliptin (with or without metformin) or insulin resulted in statistically significant body weight \nreduction at 24 weeks (p < 0.0001, Tables 4 and 5). These effects were sustained in longer-term \nstudies. At 48 weeks, the difference for dapagliflozin as add-on to sitagliptin (with or without \nmetformin) compared with placebo was -2.22 kg. At 102 weeks, the difference for dapagliflozin as \nadd-on to metformin compared with placebo, or as add-on to insulin compared with placebo was -2.14 \nand -2.88 kg, respectively."
+    },
+    {
+      "chunk_id": "forxiga_smpc_5_1_009",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "5.1",
+      "section_title": "Pharmacodynamic properties",
+      "pages": [
+        22,
+        23
+      ],
+      "chunk_index": 9,
+      "text": "(p < 0.0001, Tables 4 and 5). These effects were sustained in longer-term \nstudies. At 48 weeks, the difference for dapagliflozin as add-on to sitagliptin (with or without \nmetformin) compared with placebo was -2.22 kg. At 102 weeks, the difference for dapagliflozin as \nadd-on to metformin compared with placebo, or as add-on to insulin compared with placebo was -2.14 \nand -2.88 kg, respectively. \n \nAs an add-on therapy to metformin in an active-controlled non-inferiority study, dapagliflozin resulted \nin a statistically significant body weight reduction compared with glipizide of -4.65 kg at 52 weeks \n(p < 0.0001, Table 3) that was sustained at 104 and 208 weeks (-5.06 kg and –4.38 kg, respectively). \n \nThe combination of dapagliflozin 10 mg and prolonged-release exenatide demonstrated significantly \ngreater weight reductions compared to either medicinal product alone (Table 8). \n \nA 24-week study in 182 diabetic subjects using dual energy X-ray absorptiometry (DXA) to evaluate \nbody composition demonstrated reductions with dapagliflozin 10 mg plus metformin compared with \nplacebo plus metformin, respectively, in body weight and body fat mass as measured by DXA rather \nthan lean tissue or fluid loss. Treatment with Forxiga plus metformin showed a numerical decrease in \nvisceral adipose tissue compared with placebo plus metformin treatment in a magnetic resonance \nimaging substudy.\n\n23 \n \nBlood pressure \nIn a pre-specified pooled analysis of 13 placebo-controlled studies, treatment with dapagliflozin 10 mg \nresulted in a systolic blood pressure change from baseline of –3.7 mmHg and diastolic blood pressure \nof –1.8 mmHg versus –0.5 mmHg systolic and -0.5 mmHg diastolic blood pressure for placebo group \nat week 24. Similar reductions were observed up to 104 weeks. \n \nCombination therapy of dapagliflozin 10 mg and prolonged-release exenatide resulted in a \nsignificantly greater reduction in systolic blood pressure at week 28 (-4.3 mmHg) compared to \ndapagliflozin alone (-1.8 mmHg, p < 0.05) and prolonged-release exenatide alone (-1.2 mmHg, \np < 0.01). \n \nIn two 12-week, placebo-controlled studies a total of 1,062 patients with inadequately controlled \ntype 2 diabetes and hypertension (despite pre-existing stable treatment with an ACE-I or ARB in one \nstudy and an ACE-I or ARB plus one additional antihypertensive treatment in another study) were \ntreated with dapagliflozin 10 mg or placebo. At week 12 for both studies, dapagliflozin 10 mg plus \nusual antidiabetic treatment provided improvement in HbA1c and decreased the placebo-corrected \nsystolic blood pressure on average by 3.1 and 4.3 mmHg, respectively. \n \nIn a dedicated study in diabetic patients with an eGFR ≥ 45 to < 60 mL/min/1.73 m2, treatment with \ndapagliflozin demonstrated reductions in seated systolic blood pressure at week 24: -4.8 mmHg \ncompared to -1.7 mmHg for placebo (p < 0.05). \n \nGlycaemic control in patients with moderate renal impairment CKD 3A \n(eGFR ≥ 45 to < 60 mL/min/1.73 m2) \nThe efficacy of dapagliflozin was assessed in a dedicated study in diabetic patients with an eGFR ≥ 45 \nto < 60 mL/min/1.73 m2 who had inadequate glycaemic control on usual care. Treatment with \ndapagliflozin resulted in reductions in HbA1c and body weight compared with placebo (Table 9). \n \nTable 9."
+    },
+    {
+      "chunk_id": "forxiga_smpc_5_1_010",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "5.1",
+      "section_title": "Pharmacodynamic properties",
+      "pages": [
+        23,
+        24
+      ],
+      "chunk_index": 10,
+      "text": "control in patients with moderate renal impairment CKD 3A \n(eGFR ≥ 45 to < 60 mL/min/1.73 m2) \nThe efficacy of dapagliflozin was assessed in a dedicated study in diabetic patients with an eGFR ≥ 45 \nto < 60 mL/min/1.73 m2 who had inadequate glycaemic control on usual care. Treatment with \ndapagliflozin resulted in reductions in HbA1c and body weight compared with placebo (Table 9). \n \nTable 9. Results at week 24 of a placebo-controlled study of dapagliflozin in diabetic patients \nwith an eGFR ≥ 45 to < 60 mL/min/1.73 m2 \n \nDapagliflozina \n10 mg \nPlaceboa \nNb \n159 \n161 \nHbA1c (%) \n \n \nBaseline (mean) \n8.35 \n8.03 \nChange from baselineb \n-0.37 \n-0.03 \nDifference from placebob \n    (95% CI) \n-0.34* \n(-0.53, -0.15) \n \nBody weight (kg) \n \n \nBaseline (mean) \n92.51 \n88.30 \nPercent change from baselinec \n-3.42 \n-2.02 \nDifference in percent change from \nplaceboc \n    (95% CI) \n-1.43* \n(-2.15, -0.69) \n \na Metformin or metformin hydrochloride were part of the usual care in 69.4% and 64.0% of the patients for \nthe dapagliflozin and placebo groups, respectively. \nb Least squares mean adjusted for baseline value \nc Derived from least squares mean adjusted for baseline value \n* p<0.001 \n \nPatients with baseline HbA1c ≥ 9% \nIn a pre-specified analysis of subjects with baseline HbA1c ≥ 9.0%, treatment with \ndapagliflozin 10 mg resulted in statistically significant reductions in HbA1c at week 24 as a \nmonotherapy (adjusted mean change from baseline: -2.04% and 0.19% for dapagliflozin 10 mg and \nplacebo, respectively) and as an add-on to metformin (adjusted mean change from baseline: -1.32% \nand -0.53% for dapagliflozin and placebo, respectively).\n\n24 \n \nCardiovascular and renal outcomes \nDapagliflozin Effect on Cardiovascular Events (DECLARE) was an international, multicentre, \nrandomised, double-blind, placebo-controlled clinical study conducted to determine the effect of \ndapagliflozin compared with placebo on cardiovascular outcomes when added to current background \ntherapy. All patients had type 2 diabetes mellitus and either at least two additional cardiovascular risk \nfactors (age ≥ 55 years in men or ≥ 60 years in women and one or more of dyslipidaemia, hypertension \nor current tobacco use) or established cardiovascular disease. \n \nOf 17,160 randomised patients, 6,974 (40.6%) had established cardiovascular disease and \n10,186 (59.4%) did not have established cardiovascular disease. 8,582 patients were randomised to \ndapagliflozin 10 mg and 8,578 to placebo, and were followed for a median of 4.2 years. \n \nThe mean age of the study population was 63.9 years, 37.4% were female. In total, 22.4% had had \ndiabetes for ≤ 5 years, mean duration of diabetes was 11.9 years. Mean HbA1c was 8.3% and mean \nBMI was 32.1 kg/m2. \n \nAt baseline, 10.0% of patients had a history of heart failure. Mean eGFR was 85.2 mL/min/1.73 m2, \n7.4% of patients had eGFR < 60 mL/min/1.73 m2, and 30.3% of patients had micro- or \nmacroalbuminuria (UACR ≥ 30 to ≤ 300 mg/g or > 300 mg/g, respectively). \n \nMost patients (98%) used one or more diabetic medicinal products at baseline, including metformin \n(82%), insulin (41%) and sulfonylurea (43%). \n \nThe primary endpoints were time to first event of the composite of cardiovascular death, myocardial \ninfarction or ischaemic stroke (MACE) and time to first event of the composite of hospitalisation for \nheart failure or cardiovascular death. The secondary endpoints were a renal composite endpoint and \nall-cause mortality."
+    },
+    {
+      "chunk_id": "forxiga_smpc_5_1_011",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "5.1",
+      "section_title": "Pharmacodynamic properties",
+      "pages": [
+        24,
+        25
+      ],
+      "chunk_index": 11,
+      "text": "including metformin \n(82%), insulin (41%) and sulfonylurea (43%). \n \nThe primary endpoints were time to first event of the composite of cardiovascular death, myocardial \ninfarction or ischaemic stroke (MACE) and time to first event of the composite of hospitalisation for \nheart failure or cardiovascular death. The secondary endpoints were a renal composite endpoint and \nall-cause mortality. \n \nMajor adverse cardiovascular events \nDapagliflozin 10 mg demonstrated non-inferiority versus placebo for the composite of cardiovascular \ndeath, myocardial infarction or ischaemic stroke (one-sided p < 0.001). \n \nHeart failure or cardiovascular death \nDapagliflozin 10 mg demonstrated superiority versus placebo in preventing the composite of \nhospitalisation for heart failure or cardiovascular death (Figure 1). The difference in treatment effect \nwas driven by hospitalisation for heart failure, with no difference in cardiovascular death (Figure 2). \n \nThe treatment benefit of dapagliflozin over placebo was observed both in patients with and without \nestablished cardiovascular disease, with and without heart failure at baseline, and was consistent \nacross key subgroups, including age, gender, renal function (eGFR) and region.\n\n25 \nFigure 1: Time to first occurrence of hospitalisation for heart failure or cardiovascular death \n \nPatients at risk is the number of patients at risk at the beginning of the period.  \nHR=Hazard ratio CI=Confidence interval. \n \nResults on primary and secondary endpoints are displayed in Figure 2. Superiority of dapagliflozin \nover placebo was not demonstrated for MACE (p=0.172). The renal composite endpoint and all-cause \nmortality were therefore not tested as part of the confirmatory testing procedure. \n \nFigure 2: Treatment effects for the primary composite endpoints and their components, and the \nsecondary endpoints and components \n \nRenal composite endpoint defined as: sustained confirmed ≥ 40% decrease in eGFR to eGFR <60 mL/min/1.73 m2 and/or \nend-stage kidney disease (dialysis ≥ 90 days or kidney transplantation, sustained confirmed eGFR < 15 mL/min/1.73 m2) \nand/or renal or cardiovascular death. \n(N=8578)\n(N=8582)\n(95% CI)\nn (%) \nn (%)\np-value\nHazard Ratio\nPlacebo\nDapagliflozin \n0.005 \n0.172 \n<0.001 \n0.830 \n0.080 \n0.916 \n<0.001 \n<0.001 \n0.013 \n0.324 \n0.198 \n0.83 (0.73, 0.95)\n0.93 (0.84, 1.03)\n0.73 (0.61, 0.88)\n0.98 (0.82, 1.17)\n0.89 (0.77, 1.01)\n1.01 (0.84, 1.21)\n0.76 (0.67, 0.87)\n0.54 (0.43, 0.67)\n0.31 (0.13, 0.79)\n0.60 (0.22, 1.65)\n0.93 (0.82, 1.04)\n496 (5.8) \n803 (9.4) \n286 (3.3) \n249 (2.9) \n441 (5.1) \n231 (2.7) \n480 (5.6) \n221 (2.6) \n19 (0.2) \n10 (0.1) \n570( 6.6) \n417 (4.9)\n756 (8.8)\n212 (2.5)\n245 (2.9)\n393 (4.6)\n235 (2.7)\n370 (4.3)\n120 (1.4)\n6 (<0.1) \n6 (<0.1) \n529 (6.2)\n0.2 \n0.4\n0.6\n0.8 1 1.2 1.6 \nDapagliflozin Better\nPlacebo Better \nPrimary endpoints\nComposite of hospitalisation for \nheart failure/cardiovascular death \nComposite of cardiovascular death/ \nmyocardial infarction/ischaemic stroke \nSecondary endpoints\nRenal composite endpoint \nAll-cause mortality \nComponents of the composite endpoints \nRenal components:\nHospitalisation for heart failure \nCardiovascular death\nMyocardial infarction\nIschaemic stroke\nSustained eGFR decrease\nEnd-stage kidney disease\nRenal death"
+    },
+    {
+      "chunk_id": "forxiga_smpc_5_1_012",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "5.1",
+      "section_title": "Pharmacodynamic properties",
+      "pages": [
+        25,
+        26
+      ],
+      "chunk_index": 12,
+      "text": "for \nheart failure/cardiovascular death \nComposite of cardiovascular death/ \nmyocardial infarction/ischaemic stroke \nSecondary endpoints\nRenal composite endpoint \nAll-cause mortality \nComponents of the composite endpoints \nRenal components:\nHospitalisation for heart failure \nCardiovascular death\nMyocardial infarction\nIschaemic stroke\nSustained eGFR decrease\nEnd-stage kidney disease\nRenal death\n\n26 \np-values are two-sided. p-values for the secondary endpoints and for single components are nominal. Time to first event was \nanalysed in a Cox proportional hazards model. The number of first events for the single components are the actual number of \nfirst events for each component and does not add up to the number of events in the composite endpoint. \nCI=confidence interval. \n \nNephropathy \nDapagliflozin reduced the incidence of events of the composite of confirmed sustained eGFR \ndecrease, end-stage kidney disease, renal or cardiovascular death. The difference between groups was \ndriven by reductions in events of the renal components; sustained eGFR decrease, end-stage kidney \ndisease and renal death (Figure 2). \n \nThe hazard ratio (HR) for time to nephropathy (sustained eGFR decrease, end-stage kidney disease \nand renal death) was 0.53 (95% CI 0.43, 0.66) for dapagliflozin versus placebo. \n \nIn addition, dapagliflozin reduced the new onset of sustained albuminuria (HR 0.79 \n[95% CI 0.72, 0.87]) and led to greater regression of macroalbuminuria (HR 1.82 [95% CI 1.51, 2.20]) \ncompared with placebo. \n \nHeart failure \n \nDAPA-HF study: Heart failure with reduced ejection fraction (LVEF ≤ 40%) \nDapagliflozin And Prevention of Adverse outcomes in Heart Failure (DAPA-HF) was an international, \nmulticentre, randomised, double-blind, placebo-controlled study in patients with heart failure (New \nYork Heart Association [NYHA] functional class II-IV) with reduced ejection fraction (left ventricular \nejection fraction [LVEF] ≤ 40%) to determine the effect of dapagliflozin compared with placebo, \nwhen added to background standard of care therapy, on the incidence of cardiovascular death and \nworsening heart failure. \n \nOf 4,744 patients, 2,373 were randomised to dapagliflozin 10 mg and 2,371 to placebo and followed \nfor a median of 18 months. The mean age of the study population was 66 years, 77% were male. \n \nAt baseline, 67.5% of the patients were classified as NYHA class II, 31.6% class III and 0.9% \nclass IV, median LVEF was 32%, 56% of the heart failures were ischaemic, 36% were non-ischaemic \nand 8% were of unknown aetiology. In each treatment group, 42% of the patients had a history of \ntype 2 diabetes mellitus, and an additional 3% of the patients in each group were classified as having \ntype 2 diabetes mellitus based on a HbA1c ≥ 6.5% at both enrolment and randomisation. Patients were \non standard of care therapy; 94% of patients were treated with ACE-I, ARB or angiotensin receptor-\nneprilysin inhibitor (ARNI, 11%), 96% with beta-blocker, 71% with mineralocorticoid receptor \nantagonist (MRA), 93% with diuretic and 26% had an implantable device (with defibrillator function). \n \nPatients with eGFR ≥ 30 mL/min/1.73 m2 at enrolment were included in the study. The mean eGFR \nwas 66 mL/min/1.73 m2, 41% of patients had eGFR < 60mL/min/1.73 m2 and 15% had \neGFR < 45 mL/min/1.73 m2."
+    },
+    {
+      "chunk_id": "forxiga_smpc_5_1_013",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "5.1",
+      "section_title": "Pharmacodynamic properties",
+      "pages": [
+        26,
+        27,
+        28
+      ],
+      "chunk_index": 13,
+      "text": "neprilysin inhibitor (ARNI, 11%), 96% with beta-blocker, 71% with mineralocorticoid receptor \nantagonist (MRA), 93% with diuretic and 26% had an implantable device (with defibrillator function). \n \nPatients with eGFR ≥ 30 mL/min/1.73 m2 at enrolment were included in the study. The mean eGFR \nwas 66 mL/min/1.73 m2, 41% of patients had eGFR < 60mL/min/1.73 m2 and 15% had \neGFR < 45 mL/min/1.73 m2. \n \nCardiovascular death and worsening heart failure \nDapagliflozin was superior to placebo in preventing the primary composite endpoint of cardiovascular \ndeath, hospitalisation for heart failure or urgent heart failure visit (HR 0.74 [95% CI 0.65, 0.85], \np < 0.0001). The effect was observed early and was sustained throughout the duration of the study \n(Figure 3).\n\n27 \nFigure 3: Time to first occurrence of the composite of cardiovascular death, hospitalisation for \nheart failure or urgent heart failure visit \n \nAn urgent heart failure visit was defined as an urgent, unplanned, assessment by a physician, e.g. in an Emergency \nDepartment, and requiring treatment for worsening heart failure (other than just an increase in oral diuretics). \nPatients at risk is the number of patients at risk at the beginning of the period. \n \nAll three components of the primary composite endpoint individually contributed to the treatment \neffect (Figure 4). There were few urgent heart failure visits.\n\n28 \nFigure 4: Treatment effects for the primary composite endpoint, its components and all-cause \nmortality \n \n \nAn urgent heart failure visit was defined as an urgent, unplanned, assessment by a physician, e.g. in an Emergency \nDepartment, and requiring treatment for worsening heart failure (other than just an increase in oral diuretics). \nThe number of first events for the single components are the actual number of first events for each component and does not \nadd up to the number of events in the composite endpoint. \nEvent rates are presented as the number of subjects with event per 100 patient years of follow-up. \np-values for single components and all-cause mortality are nominal. \n \nDapagliflozin also reduced the total number of events of hospitalisations for heart failure (first and \nrecurrent) and cardiovascular death; there were 567 events in the dapagliflozin group versus \n742 events in the placebo group (Rate Ratio 0.75 [95% CI 0.65, 0.88]; p=0.0002). \n \nThe treatment benefit of dapagliflozin was observed in heart failure patients both with type 2 diabetes \nmellitus and without diabetes. Dapagliflozin reduced the primary composite endpoint of incidence of \ncardiovascular death and worsening heart failure with a HR of 0.75 (95% CI 0.63, 0.90) in patients \nwith diabetes and 0.73 (95% CI 0.60, 0.88) in patients without diabetes. \n \nThe treatment benefit of dapagliflozin over placebo on the primary endpoint was also consistent across \nother key subgroups, including concomitant heart failure therapy, renal function (eGFR), age, gender, \nand region. \n \nPatient reported outcome – heart failure symptoms \nThe treatment effect of dapagliflozin on heart failure symptoms was assessed by the Total Symptom \nScore of the Kansas City Cardiomyopathy Questionnaire (KCCQ-TSS), which quantifies heart failure \nsymptom frequency and severity, including fatigue, peripheral oedema, dyspnoea and orthopnoea. The \nscore ranges from 0 to 100, with higher scores representing better health status."
+    },
+    {
+      "chunk_id": "forxiga_smpc_5_1_014",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "5.1",
+      "section_title": "Pharmacodynamic properties",
+      "pages": [
+        28,
+        29
+      ],
+      "chunk_index": 14,
+      "text": "failure symptoms \nThe treatment effect of dapagliflozin on heart failure symptoms was assessed by the Total Symptom \nScore of the Kansas City Cardiomyopathy Questionnaire (KCCQ-TSS), which quantifies heart failure \nsymptom frequency and severity, including fatigue, peripheral oedema, dyspnoea and orthopnoea. The \nscore ranges from 0 to 100, with higher scores representing better health status.\n\n29 \nTreatment with dapagliflozin resulted in a statistically significant and clinically meaningful benefit \nover placebo in heart failure symptoms, as measured by change from baseline at month 8 in the \nKCCQ-TSS, (Win Ratio 1.18 [95% CI 1.11, 1.26]; p < 0.0001). Both symptom frequency and \nsymptom burden contributed to the results. Benefit was seen both in improving heart failure symptoms \nand in preventing deterioration of heart failure symptoms. \n \nIn responder analyses, the proportion of patients with a clinically meaningful improvement on the \nKCCQ-TSS from baseline at 8 months, defined as 5 points or more, was higher for the dapagliflozin \ntreatment group compared with placebo. The proportion of patients with a clinically meaningful \ndeterioration, defined as 5 points or more, was lower for the dapagliflozin treatment group compared \nto placebo. The benefits observed with dapagliflozin remained when applying more conservative cut-\noffs for larger clinically meaningful change (Table 10). \n \nTable 10. Number and percent of patients with clinically meaningful improvement and \ndeterioration on the KCCQ-TSS at 8 months \nChange from baseline at 8 months: \nDapagliflozin \n10 mg \nna=2086 \nPlacebo \nna=2062 \n \nImprovement \nn (%) \nimprovedb \nn (%) \nimprovedb \nOdds ratioc \n(95% CI) \np-valuef \n≥ 5 points \n933 (44.7) \n794 (38.5) \n1.14  \n(1.06, 1.22) \n0.0002 \n≥ 10 points \n689 (33.0) \n579 (28.1) \n1.13  \n(1.05, 1.22) \n0.0018 \n≥ 15 points \n474 (22.7) \n406 (19.7) \n1.10  \n(1.01, 1.19) \n0.0300 \nDeterioration \nn (%) \ndeterioratedd \nn (%) \ndeterioratedd \nOdds ratioe \n(95% CI) \np-valuef \n≥ 5 points \n537 (25.7) \n693 (33.6) \n0.84  \n(0.78, 0.89) \n<0.0001 \n≥ 10 points \n395 (18.9) \n506 (24.5) \n0.85  \n(0.79, 0.92) \n<0.0001 \na Number of patients with an observed KCCQ-TSS or who died prior to 8 months. \nb Number of patients who had an observed improvement of at least 5, 10 or 15 points from baseline. Patients who died \nprior to the given timepoint are counted as not improved. \nc For improvement, an odds ratio > 1 favours dapagliflozin 10 mg. \nd Number of patients who had an observed deterioration of at least 5 or 10 points from baseline. Patients who died prior \nto the given timepoint are counted as deteriorated. \ne For deterioration, an odds ratio < 1 favours dapagliflozin 10 mg. \nf p-values are nominal. \n \nNephropathy \nThere were few events of the renal composite endpoint (confirmed sustained ≥ 50% eGFR decrease, \nESKD, or renal death); the incidence was 1.2% in the dapagliflozin group and 1.6% in the placebo \ngroup. \n \nDELIVER study: Heart failure with left ventricular ejection fraction > 40% \nDapagliflozin Evaluation to Improve the LIVEs of Patients with PReserved Ejection Fraction Heart \nFailure (DELIVER) was an international, multicentre, randomised, double-blind, placebo-controlled \nstudy in patients aged ≥ 40 years with heart failure (NYHA class II-IV) with LVEF > 40% and \nevidence of structural heart disease, to determine the effect of dapagliflozin compared with placebo on \nthe incidence of cardiovascular death and worsening heart failure."
+    },
+    {
+      "chunk_id": "forxiga_smpc_5_1_015",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "5.1",
+      "section_title": "Pharmacodynamic properties",
+      "pages": [
+        29,
+        30
+      ],
+      "chunk_index": 15,
+      "text": "PReserved Ejection Fraction Heart \nFailure (DELIVER) was an international, multicentre, randomised, double-blind, placebo-controlled \nstudy in patients aged ≥ 40 years with heart failure (NYHA class II-IV) with LVEF > 40% and \nevidence of structural heart disease, to determine the effect of dapagliflozin compared with placebo on \nthe incidence of cardiovascular death and worsening heart failure. \n \nOf 6,263 patients, 3,131 were randomised to dapagliflozin 10 mg and 3,132 to placebo and followed \nfor a median of 28 months. The study included 654 (10%) subacute heart failure patients (defined as\n\n30 \nrandomised during hospitalisation for heart failure or within 30 days of discharge). The mean age of \nthe study population was 72 years and 56% were male. \n \nAt baseline, 75% patients were classified as NYHA class II, 24% class III and 0.3% class IV. Median \nLVEF was 54%, 34% of the patients had LVEF ≤ 49%, 36% had LVEF 50-59% and 30% had \nLVEF ≥ 60%. In each treatment group, 45% had a history of type 2 diabetes mellitus. Baseline therapy \nincluded ACEi/ARB/ARNI (77%), beta-blockers (83%) diuretics (98%) and MRA (43%). \n \nThe mean eGFR was 61 mL/min/1.73 m2, 49% of patients had eGFR < 60mL/min/1.73 m2, 23% had \neGFR < 45 mL/min/1.73 m2, and 3% had eGFR < 30 mL/min/1.73 m2. \n \nDapagliflozin was superior to placebo in reducing the incidence of the primary composite endpoint of \ncardiovascular death, hospitalisation for heart failure or urgent heart failure visit (HR 0.82 \n[95% CI 0.73, 0.92]; p=0.0008) (Figure 5). \n \nFigure 5: Time to first occurrence of the composite of cardiovascular death, hospitalisation for \nheart failure or urgent heart failure visit \n \n \n \nAn urgent heart failure visit was defined as an urgent, unplanned, assessment by a physician, e.g. in an Emergency \nDepartment, and requiring treatment for worsening heart failure (other than just an increase in oral diuretics). \nPatients at risk is the number of patients at risk at the beginning of the period. \n \nFigure 6 presents the contribution of the three components of the primary composite endpoint to the \ntreatment effect. \n \nDapagliflozin: \nPlacebo: \nPatients at risk \nMonths from randomisation \nPatients with event (%) \nPlacebo \nDapagliflozin \nDapagliflozin vs. Placebo \nHR (95% CI): 0.82 (0.73, 0.92)      P-value:   0.0008"
+    },
+    {
+      "chunk_id": "forxiga_smpc_5_1_016",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "5.1",
+      "section_title": "Pharmacodynamic properties",
+      "pages": [
+        30,
+        31
+      ],
+      "chunk_index": 16,
+      "text": "risk is the number of patients at risk at the beginning of the period. \n \nFigure 6 presents the contribution of the three components of the primary composite endpoint to the \ntreatment effect. \n \nDapagliflozin: \nPlacebo: \nPatients at risk \nMonths from randomisation \nPatients with event (%) \nPlacebo \nDapagliflozin \nDapagliflozin vs. Placebo \nHR (95% CI): 0.82 (0.73, 0.92)      P-value:   0.0008\n\n31 \nFigure 6: Treatment effects for the primary composite endpoint and its components \n \n \n \nAn urgent heart failure visit was defined as an urgent, unplanned, assessment by a physician, e.g. in an Emergency \nDepartment, and requiring treatment for worsening heart failure (other than just an increase in oral diuretics). \nThe number of first events for the single components are the actual number of first events for each component and does not \nadd up to the number of events in the composite endpoint.  \nEvent rates are presented as the number of subjects with event per 100 patient years of follow-up. \nCardiovascular death, here presented as a component of the primary endpoint, was also tested under formal Type 1 error \ncontrol as a secondary endpoint. \n \nDapagliflozin was superior to placebo in reducing the total number of heart failure events (defined as \nfirst and recurrent hospitalisation for heart failure or urgent heart failure visits) and cardiovascular \ndeath; there were 815 events in the dapagliflozin group versus 1057 events in the placebo group (Rate \nRatio 0.77 [95% CI 0.67, 0.89]; p=0.0003). \n \nThe treatment benefit of dapagliflozin over placebo on the primary endpoint was observed across \nsubgroups of patients with LVEF ≤ 49%, 50–59%, and ≥ 60%. Effects were also consistent across \nother key subgroups categorised by e.g. age, gender, NYHA class, NT-proBNP level, subacute status, \nand type 2 diabetes mellitus status. \n \nPatient reported outcome – heart failure symptoms \nTreatment with dapagliflozin resulted in a statistically significant benefit over placebo in heart failure \nsymptoms, as measured by change from baseline at month 8 in the KCCQ-TSS, (Win Ratio 1.11 \n[95% CI 1.03, 1.21]; p=0.0086). Both symptom frequency and symptom burden contributed to the \nresults. \n \nIn responder analyses, the proportion of patients who experienced a moderate (≥ 5 points) or large \n(≥ 14 points) deterioration on the KCCQ-TSS from baseline at 8 months was lower in the \ndapagliflozin treatment group; 24.1% of patients on dapagliflozin versus 29.1% on placebo \nexperienced a moderate deterioration (Odds Ratio 0.78 [95% CI 0.64, 0.95]) and 13.5% of patients on \ndapagliflozin versus 18.4% on placebo experienced a large deterioration (Odds Ratio 0.70 \n[95% CI 0.55, 0.88]). The proportion of patients with a small to moderate improvement (≥ 13 points) \nor a large improvement (≥ 17 points) did not differ between treatment groups. \n \nHeart failure across DAPA-HF and DELIVER studies \nIn a pooled analysis of DAPA-HF and DELIVER, the HR for dapagliflozin versus placebo on the \ncomposite endpoint of cardiovascular death, hospitalisation for heart failure or urgent heart failure"
+    },
+    {
+      "chunk_id": "forxiga_smpc_5_1_017",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "5.1",
+      "section_title": "Pharmacodynamic properties",
+      "pages": [
+        31,
+        32
+      ],
+      "chunk_index": 17,
+      "text": "of patients with a small to moderate improvement (≥ 13 points) \nor a large improvement (≥ 17 points) did not differ between treatment groups. \n \nHeart failure across DAPA-HF and DELIVER studies \nIn a pooled analysis of DAPA-HF and DELIVER, the HR for dapagliflozin versus placebo on the \ncomposite endpoint of cardiovascular death, hospitalisation for heart failure or urgent heart failure\n\n32 \nvisit was 0.78 (95% CI 0.72, 0.85), p < 0.0001. The treatment effect was consistent across the LVEF \nrange, without attenuation of effect by LVEF. \n \nIn a pre-specified subject level pooled analysis of the DAPA-HF and DELIVER studies, dapagliflozin \ncompared with placebo reduced the risk of cardiovascular death (HR 0.85 [95% CI 0.75, 0.96], \np=0.0115). Both studies contributed to the effect. \n \nChronic kidney disease \n \nThe Study to Evaluate the Effect of Dapagliflozin on Renal Outcomes and Cardiovascular Mortality in \nPatients with Chronic Kidney Disease (DAPA-CKD) was an international, multicentre, randomised, \ndouble-blind, placebo-controlled study in patients with chronic kidney disease (CKD) with \neGFR ≥ 25 to ≤ 75 mL/min/1.73 m2 and albuminuria (UACR ≥ 200 and ≤ 5000 mg/g) to determine the \neffect of dapagliflozin compared with placebo, when added to background standard of care therapy, on \nthe incidence of the composite endpoint of ≥ 50% sustained decline in eGFR, end-stage kidney disease \n(ESKD) (defined as sustained eGFR < 15 mL/min/1.73 m2, chronic dialysis treatment or receiving a \nrenal transplant), cardiovascular or renal death. \n \nOf 4,304 patients, 2,152 were randomised to dapagliflozin 10 mg and 2,152 to placebo and followed \nfor a median of 28.5 months. Treatment was continued if eGFR fell to levels below \n25 mL/min/1.73 m2 during the study and could be continued in cases when dialysis was needed. \n \nThe mean age of the study population was 61.8 years, 66.9% were male. At baseline, mean eGFR was \n43.1 mL/min/1.73 m2 and median UACR was 949.3 mg/g, 44.1% of patients had eGFR 30 to \n< 45 mL/min/1.73 m2 and 14.5% had eGFR < 30 mL/min/1.73 m2. 67.5% of the patients had type 2 \ndiabetes mellitus. Patients were on standard of care (SOC) therapy; 97.0% of patients were treated \nwith an angiotensin-converting enzyme inhibitor (ACEi) or angiotensin receptor blocker (ARB). \n \nThe study was stopped early for efficacy prior to the planned analysis based on a recommendation by \nthe independent Data Monitoring Committee. Dapagliflozin was superior to placebo in preventing the \nprimary composite endpoint of ≥ 50% sustained decline in eGFR, reaching end-stage kidney disease, \ncardiovascular or renal death. Based on the Kaplan-Meier plot for the time to first occurrence of the \nprimary composite endpoint, the treatment effect was evident beginning at 4 months and was \nmaintained through the end of study (Figure 7)."
+    },
+    {
+      "chunk_id": "forxiga_smpc_5_1_018",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "5.1",
+      "section_title": "Pharmacodynamic properties",
+      "pages": [
+        32,
+        33,
+        34
+      ],
+      "chunk_index": 18,
+      "text": "Dapagliflozin was superior to placebo in preventing the \nprimary composite endpoint of ≥ 50% sustained decline in eGFR, reaching end-stage kidney disease, \ncardiovascular or renal death. Based on the Kaplan-Meier plot for the time to first occurrence of the \nprimary composite endpoint, the treatment effect was evident beginning at 4 months and was \nmaintained through the end of study (Figure 7).\n\n33 \nFigure 7: Time to first occurrence of the primary composite endpoint, ≥ 50% sustained decline \nin eGFR, end-stage kidney disease, cardiovascular or renal death \n \nPatients at risk is the number of patients at risk at the beginning of the period. \n \nAll four components of the primary composite endpoint individually contributed to the treatment \neffect. Dapagliflozin also reduced the incidence of the composite endpoint of ≥ 50% sustained decline \nin eGFR, end-stage kidney disease or renal death and the composite endpoint of cardiovascular death \nand hospitalisation for heart failure. Treatment with dapagliflozin improved overall survival in chronic \nkidney disease patients with a significant reduction in all-cause mortality (Figure 8). \n \nHR (95%CI):\nP-value:\nPatients at risk \nDapagliflozin: \nPlacebo:\nDapagliflozin \nPlacebo \nMonths from randomisation \nPatients with event (%)\n\n34 \nFigure 8: Treatment effects for the primary and secondary composite endpoints, their individual \ncomponents, and all-cause mortality \n \nThe number of first events for the single components are the actual number of first events for each component and does not \nadd up to the number of events in the composite endpoint.  \nEvent rates are presented as the number of subjects with event per 100 patient years of follow-up. \nHazard ratio estimates are not presented for subgroups with less than 15 events in total, both arms combined. \n \nThe treatment benefit of dapagliflozin was consistent in chronic kidney disease patients with type 2 \ndiabetes mellitus and without diabetes. Dapagliflozin reduced the primary composite endpoint of \n≥ 50% sustained decline in eGFR, reaching end-stage kidney disease, cardiovascular or renal death \nwith a HR of 0.64 (95% CI 0.52, 0.79) in patients with type 2 diabetes mellitus and \n0.50 (95% CI 0.35, 0.72) in patients without diabetes. \n \nThe treatment benefit of dapagliflozin over placebo on the primary endpoint was also consistent across \nother key subgroups, including eGFR, age, gender, and region."
+    },
+    {
+      "chunk_id": "forxiga_smpc_5_1_019",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "5.1",
+      "section_title": "Pharmacodynamic properties",
+      "pages": [
+        34,
+        35
+      ],
+      "chunk_index": 19,
+      "text": "decline in eGFR, reaching end-stage kidney disease, cardiovascular or renal death \nwith a HR of 0.64 (95% CI 0.52, 0.79) in patients with type 2 diabetes mellitus and \n0.50 (95% CI 0.35, 0.72) in patients without diabetes. \n \nThe treatment benefit of dapagliflozin over placebo on the primary endpoint was also consistent across \nother key subgroups, including eGFR, age, gender, and region.\n\n35 \n \nPaediatric population \n \nType 2 diabetes mellitus \nIn a clinical study in children and adolescents aged 10-24 years with type 2 diabetes mellitus, \n39 patients were randomised to dapagliflozin 10 mg and 33 to placebo, as add-on to metformin, insulin \nor a combination of metformin and insulin. At randomisation, 74% of the patients were < 18 years of \nage. The adjusted mean change in HbA1c for dapagliflozin relative to placebo from baseline to \nweek 24 was -0.75% (95% CI -1.65, 0.15). In the age group < 18 years the adjusted mean change in \nHbA1c for dapagliflozin relative to placebo was -0.59% (95% CI -1.66, 0.48). In the age group \n≥ 18 years, the mean change from baseline in HbA1c was -1.52% in the dapagliflozin treated group \n(n=9) and 0.17% in the placebo treated group (n=6). Efficacy and safety were similar to that observed \nin the adult population treated with dapagliflozin. Safety and tolerability were further confirmed in a \n28-week safety extension of the study. \n \nHeart failure and chronic kidney disease \nThe European Medicines Agency has waived the obligation to submit the results of studies with \ndapagliflozin in all subsets of the paediatric population in the prevention of cardiovascular events in \npatients with chronic heart failure and in the treatment of chronic kidney disease (see section 4.2 for \ninformation on paediatric use)."
+    },
+    {
+      "chunk_id": "forxiga_smpc_5_2_001",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "5.2",
+      "section_title": "Pharmacokinetic properties",
+      "pages": [
+        35
+      ],
+      "chunk_index": 1,
+      "text": "Absorption \n \nDapagliflozin was rapidly and well absorbed after oral administration. Maximum dapagliflozin plasma \nconcentrations (Cmax) were usually attained within 2 hours after administration in the fasted state. \nGeometric mean steady-state dapagliflozin Cmax and AUCτ values following once daily 10 mg doses of \ndapagliflozin were 158 ng/mL and 628 ng h/mL, respectively. The absolute oral bioavailability of \ndapagliflozin following the administration of a 10 mg dose is 78%. Administration with a high-fat \nmeal decreased dapagliflozin Cmax by up to 50% and prolonged Tmax by approximately 1 hour, but did \nnot alter AUC as compared with the fasted state. These changes are not considered to be clinically \nmeaningful. Hence, Forxiga can be administered with or without food. \n \nDistribution \n \nDapagliflozin is approximately 91% protein bound. Protein binding was not altered in various disease \nstates (e.g. renal or hepatic impairment). The mean steady-state volume of distribution of dapagliflozin \nwas 118 liters. \n \nBiotransformation \n \nDapagliflozin is extensively metabolised, primarily to yield dapagliflozin 3-O-glucuronide, which is \nan inactive metabolite. Dapagliflozin 3-O-glucuronide or other metabolites do not contribute to the \nglucose-lowering effects. The formation of dapagliflozin 3-O-glucuronide is mediated by UGT1A9, an \nenzyme present in the liver and kidney, and CYP-mediated metabolism was a minor clearance \npathway in humans. \n \nElimination \n \nThe mean plasma terminal half-life (t1/2) for dapagliflozin was 12.9 hours following a single oral dose \nof dapagliflozin 10 mg to healthy subjects. The mean total systemic clearance of dapagliflozin \nadministered intravenously was 207 mL/min. Dapagliflozin and related metabolites are primarily \neliminated via urinary excretion with less than 2% as unchanged dapagliflozin. After administration of \na 50 mg [14C]-dapagliflozin dose, 96% was recovered, 75% in urine and 21% in faeces. In faeces, \napproximately 15% of the dose was excreted as parent drug."
+    },
+    {
+      "chunk_id": "forxiga_smpc_5_2_002",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "5.2",
+      "section_title": "Pharmacokinetic properties",
+      "pages": [
+        35,
+        36
+      ],
+      "chunk_index": 2,
+      "text": "total systemic clearance of dapagliflozin \nadministered intravenously was 207 mL/min. Dapagliflozin and related metabolites are primarily \neliminated via urinary excretion with less than 2% as unchanged dapagliflozin. After administration of \na 50 mg [14C]-dapagliflozin dose, 96% was recovered, 75% in urine and 21% in faeces. In faeces, \napproximately 15% of the dose was excreted as parent drug.\n\n36 \nLinearity \n \nDapagliflozin exposure increased proportional to the increment in dapagliflozin dose over the range of \n0.1 to 500 mg and its pharmacokinetics did not change with time upon repeated daily dosing for up to \n24 weeks. \n \nSpecial populations \n \nRenal impairment \nAt steady-state (20 mg once-daily dapagliflozin for 7 days), subjects with type 2 diabetes mellitus and \nmild, moderate or severe renal impairment (as determined by iohexol plasma clearance) had mean \nsystemic exposures of dapagliflozin of 32%, 60% and 87% higher, respectively, than those of subjects \nwith type 2 diabetes mellitus and normal renal function. The steady-state 24-hour urinary glucose \nexcretion was highly dependent on renal function and 85, 52, 18 and 11 g of glucose/day was excreted \nby subjects with type 2 diabetes mellitus and normal renal function or mild, moderate or severe renal \nimpairment, respectively. The impact of haemodialysis on dapagliflozin exposure is not known. The \neffect of reduced renal function on systemic exposure was evaluated in a population pharmacokinetic \nmodel. Consistent with previous results, model predicted AUC was higher in patients with chronic \nkidney disease compared with patients with normal renal function, and was not meaningfully different \nin chronic kidney disease patients with type 2 diabetes mellitus and without diabetes. \n \nHepatic impairment \nIn subjects with mild or moderate hepatic impairment (Child-Pugh classes A and B), mean Cmax and \nAUC of dapagliflozin were up to 12% and 36% higher, respectively, compared to healthy matched \ncontrol subjects. These differences were not considered to be clinically meaningful. In subjects with \nsevere hepatic impairment (Child-Pugh class C) mean Cmax and AUC of dapagliflozin were 40% and \n67% higher than matched healthy controls, respectively. \n \nElderly (≥ 65 years) \nThere is no clinically meaningful increase in exposure based on age alone in subjects up to \n70 years old. However, an increased exposure due to age-related decrease in renal function can be \nexpected. There are insufficient data to draw conclusions regarding exposure in patients \n> 70 years old. \n \nPaediatric population \nPharmacokinetics and pharmacodynamics (glucosuria) in children with type 2 diabetes mellitus aged \n10-17 years were similar to those observed in adults with type 2 diabetes mellitus. \n \nGender \nThe mean dapagliflozin AUCss in females was estimated to be about 22% higher than in males. \n \nRace \nThere were no clinically relevant differences in systemic exposures between White, Black or Asian \nraces. \n \nBody weight \nDapagliflozin exposure was found to decrease with increased weight. Consequently, low-weight \npatients may have somewhat increased exposure and patients with high weight somewhat decreased \nexposure. However, the differences in exposure were not considered clinically meaningful."
+    },
+    {
+      "chunk_id": "forxiga_smpc_5_3_001",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "5.3",
+      "section_title": "Preclinical safety data",
+      "pages": [
+        36,
+        37
+      ],
+      "chunk_index": 1,
+      "text": "Non-clinical data reveal no special hazard for humans based on conventional studies of safety \npharmacology, repeated dose toxicity, genotoxicity, carcinogenic potential and fertility. Dapagliflozin \ndid not induce tumours in either mice or rats at any of the doses evaluated in two-year carcinogenicity \nstudies.\n\n37 \nReproductive and developmental toxicity \n \nDirect administration of dapagliflozin to weanling juvenile rats and indirect exposure during late \npregnancy (time periods corresponding to the second and third trimesters of pregnancy with respect to \nhuman renal maturation) and lactation are each associated with increased incidence and/or severity of \nrenal pelvic and tubular dilatations in progeny. \n \nIn a juvenile toxicity study, when dapagliflozin was dosed directly to young rats from postnatal day 21 \nuntil postnatal day 90, renal pelvic and tubular dilatations were reported at all dose levels; pup \nexposures at the lowest dose tested were ≥ 15 times the maximum recommended human dose. These \nfindings were associated with dose-related increases in kidney weight and macroscopic kidney \nenlargement observed at all doses. The renal pelvic and tubular dilatations observed in juvenile \nanimals did not fully reverse within the approximate 1-month recovery period. \n \nIn a separate study of pre- and postnatal development, maternal rats were dosed from gestation day 6 \nthrough postnatal day 21, and pups were indirectly exposed in utero and throughout lactation. (A \nsatellite study was conducted to assess dapagliflozin exposures in milk and pups.) Increased incidence \nor severity of renal pelvic dilatation was observed in adult offspring of treated dams, although only at \nthe highest dose tested (associated maternal and pup dapagliflozin exposures were 1,415 times and \n137 times, respectively, the human values at the maximum recommended human dose). Additional \ndevelopmental toxicity was limited to dose-related reductions in pup body weights, and observed only \nat doses ≥ 15 mg/kg/day (associated with pup exposures that are ≥ 29 times the human values at the \nmaximum recommended human dose). Maternal toxicity was evident only at the highest dose tested, \nand limited to transient reductions in body weight and food consumption at dose. The no observed \nadverse effect level (NOAEL) for developmental toxicity, the lowest dose tested, is associated with a \nmaternal systemic exposure multiple that is approximately 19 times the human value at the maximum \nrecommended human dose. \n \nIn additional studies of embryo-foetal development in rats and rabbits, dapagliflozin was administered \nfor intervals coinciding with the major periods of organogenesis in each species. Neither maternal nor \ndevelopmental toxicities were observed in rabbits at any dose tested; the highest dose tested is \nassociated with a systemic exposure multiple of approximately 1,191 times the maximum \nrecommended human dose. In rats, dapagliflozin was neither embryolethal nor teratogenic at \nexposures up to 1,441 times the maximum recommended human dose."
+    },
+    {
+      "chunk_id": "forxiga_smpc_6_1_001",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "6.1",
+      "section_title": "List of excipients",
+      "pages": [
+        37,
+        38
+      ],
+      "chunk_index": 1,
+      "text": "Tablet core \n \nMicrocrystalline cellulose (E460i) \nLactose \nCrospovidone (E1202) \nSilicon dioxide (E551) \nMagnesium stearate (E470b) \n \nFilm-coating \n \nPolyvinyl alcohol (E1203) \nTitanium dioxide (E171) \nMacrogol 3350 (E1521) \nTalc (E553b) \nIron oxide yellow (E172)\n\n38"
+    },
+    {
+      "chunk_id": "forxiga_smpc_6_2_001",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "6.2",
+      "section_title": "Incompatibilities",
+      "pages": [
+        38
+      ],
+      "chunk_index": 1,
+      "text": "Not applicable."
+    },
+    {
+      "chunk_id": "forxiga_smpc_6_3_001",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "6.3",
+      "section_title": "Shelf life",
+      "pages": [
+        38
+      ],
+      "chunk_index": 1,
+      "text": "3 years"
+    },
+    {
+      "chunk_id": "forxiga_smpc_6_4_001",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "6.4",
+      "section_title": "Special precautions for storage",
+      "pages": [
+        38
+      ],
+      "chunk_index": 1,
+      "text": "This medicinal product does not require any special storage conditions."
+    },
+    {
+      "chunk_id": "forxiga_smpc_6_5_001",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "6.5",
+      "section_title": "Nature and contents of container",
+      "pages": [
+        38
+      ],
+      "chunk_index": 1,
+      "text": "Alu/Alu blister \n \nForxiga 5 mg film-coated tablets \n \nPack sizes of 14, 28 and 98 film-coated tablets in non-perforated calendar blisters. \nPack sizes of 30x1 and 90x1 film-coated tablets in perforated unit dose blisters. \n \nForxiga 10 mg film-coated tablets \n \nPack sizes of 14, 28 and 98 film-coated tablets in non-perforated calendar blisters. \nPack sizes of 10x1, 30x1 and 90x1 film-coated tablets in perforated unit dose blisters. \n \nNot all pack sizes may be marketed."
+    },
+    {
+      "chunk_id": "forxiga_smpc_6_6_001",
+      "drug": "Forxiga",
+      "active_substance": "dapagliflozin",
+      "source": "European Medicines Agency (EMA)",
+      "document_type": "Summary of Product Characteristics (SmPC)",
+      "source_file": "forxiga_product_information.pdf",
+      "section": "6.6",
+      "section_title": "Special precautions for disposal",
+      "pages": [
+        38,
+        39
+      ],
+      "chunk_index": 1,
+      "text": "Any unused medicinal product or waste material should be disposed of in accordance with local \nrequirements. \n \n \n7. \nMARKETING AUTHORISATION HOLDER \n \nAstraZeneca AB \nSE-151 85 Södertälje \nSweden \n \n \n8. \nMARKETING AUTHORISATION NUMBER(S) \n \nForxiga 5 mg film-coated tablets \n \nEU/1/12/795/001 14 film-coated tablets \nEU/1/12/795/002 28 film-coated tablets \nEU/1/12/795/003 98 film-coated tablets \nEU/1/12/795/004 30 x 1 (unit dose) film-coated tablets \nEU/1/12/795/005 90 x 1 (unit dose) film-coated tablets \n \nForxiga 10 mg film-coated tablets \n \nEU/1/12/795/006 14 film-coated tablets \nEU/1/12/795/007 28 film-coated tablets \nEU/1/12/795/008 98 film-coated tablets \nEU/1/12/795/009 30 x 1 (unit dose) film-coated tablets\n\n39 \nEU/1/12/795/010 90 x 1 (unit dose) film-coated tablets \nEU/1/12/795/011 10 x 1 (unit dose) film-coated tablets \n \n \n9. \nDATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION \n \nDate of first authorisation: 12 November 2012 \nDate of latest renewal: 28 August 2017 \n \n \n10. \nDATE OF REVISION OF THE TEXT \n \nDetailed information on this medicinal product is available on the website of the European Medicines \nAgency https://www.ema.europa.eu"
+    }
+  ]
+}
