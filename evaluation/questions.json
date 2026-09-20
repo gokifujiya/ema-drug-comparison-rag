@@ -1,0 +1,49 @@
+[
+    {
+      "id": "eval_001",
+      "section": "4.1",
+      "topic": "Therapeutic indications",
+      "question": "Compare the therapeutic indications of Jardiance and Forxiga.",
+      "reference_sections": {
+        "Jardiance": "4.1",
+        "Forxiga": "4.1"
+      },
+      "expected_points": [
+        "Both are indicated for type 2 diabetes mellitus.",
+        "For type 2 diabetes mellitus, both include adults and children aged 10 years and above.",
+        "Both may be used as monotherapy when metformin is considered inappropriate due to intolerance.",
+        "Both may be used in addition to other medicinal products for diabetes treatment.",
+        "Both are indicated in adults for symptomatic chronic heart failure.",
+        "Both are indicated in adults for chronic kidney disease.",
+        "No clinically substantive difference in therapeutic indications is apparent from the provided passages."
+      ]
+    },
+    {
+        "id": "eval_002",
+        "section": "4.2",
+        "topic": "Posology and renal impairment",
+        "question": "Compare the recommended doses of Jardiance and Forxiga for type 2 diabetes mellitus, heart failure, and chronic kidney disease, including the recommendations for renal impairment.",
+        "reference_sections": {
+          "Jardiance": "4.2",
+          "Forxiga": "4.2"
+        },
+        "expected_points": [
+          "For type 2 diabetes mellitus, the recommended starting dose of Jardiance is 10 mg empagliflozin once daily.",
+          "For type 2 diabetes mellitus, the recommended dose of Forxiga is 10 mg dapagliflozin once daily.",
+          "For Jardiance, the dose may be increased from 10 mg to 25 mg once daily in patients tolerating 10 mg who have an eGFR of at least 60 mL/min/1.73 m2 and need tighter glycaemic control.",
+          "The maximum daily dose of Jardiance is 25 mg.",
+          "The provided Forxiga passage does not describe a corresponding increase to 25 mg.",
+          "For heart failure, the recommended dose is 10 mg once daily for both Jardiance and Forxiga.",
+          "For chronic kidney disease, the recommended dose is 10 mg once daily for both Jardiance and Forxiga.",
+          "Jardiance initiation is not recommended in patients with an eGFR below 20 mL/min/1.73 m2 due to limited experience.",
+          "Forxiga initiation is not recommended in patients with GFR below 25 mL/min due to limited experience.",
+          "For Jardiance, the daily dose is 10 mg in patients with an eGFR below 60 mL/min/1.73 m2.",
+          "For Forxiga, no dose adjustment is required based on renal function.",
+          "For type 2 diabetes mellitus, the glucose-lowering efficacy of both medicines is reduced when renal function falls below 45 mL/min.",
+          "For both medicines, additional glucose-lowering treatment should be considered when renal function falls below 45 mL/min if further glycaemic control is needed.",
+          "When used with insulin or a sulphonylurea or insulin secretagogue, both SmPC passages allow consideration of lowering the dose of the concomitant glucose-lowering treatment to reduce the risk of hypoglycaemia."
+        ]
+      }
+  ]
+
+
