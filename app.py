@@ -97,40 +97,39 @@ def build_app() -> gr.Blocks:
         gr.Markdown(DISCLAIMER)
 
         chatbot = gr.Chatbot(
-            label="Conversation",
-            type="messages",
-            height=420,
+            label = "Conversation",
+            height = 420,
         )
         evidence = gr.HTML(
-            value=format_evidence_html(None),
-            label="EMA SmPC evidence (latest question)",
+            value = format_evidence_html(None),
+            label = "EMA SmPC evidence (latest question)",
         )
 
         with gr.Row():
             question = gr.Textbox(
-                label="Question",
-                placeholder="Compare the ketoacidosis warnings for Jardiance and Forxiga.",
-                scale=4,
+                label = "Question",
+                placeholder = "Compare the ketoacidosis warnings for Jardiance and Forxiga.",
+                scale = 4,
             )
             submit = gr.Button("Ask", variant="primary")
 
         clear = gr.Button("Clear / new conversation")
 
         submit.click(
-            fn=respond,
-            inputs=[question, chatbot],
-            outputs=[chatbot, evidence],
+            fn = respond,
+            inputs = [question, chatbot],
+            outputs = [chatbot, evidence],
         ).then(lambda: "", outputs=question)
 
         question.submit(
-            fn=respond,
-            inputs=[question, chatbot],
-            outputs=[chatbot, evidence],
+            fn = respond,
+            inputs = [question, chatbot],
+            outputs = [chatbot, evidence],
         ).then(lambda: "", outputs=question)
 
         clear.click(
-            fn=clear_conversation,
-            outputs=[chatbot, evidence],
+            fn = clear_conversation,
+            outputs = [chatbot, evidence],
         )
 
     return demo
