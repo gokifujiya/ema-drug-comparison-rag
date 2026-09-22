@@ -1,8 +1,8 @@
 {
   "summary": {
     "questions": 20,
-    "average_expected_point_coverage": 0.7631135531135531,
-    "perfect_answers": 10
+    "average_expected_point_coverage": 0.8561721611721612,
+    "perfect_answers": 11
   },
   "results": [
     {
@@ -10,7 +10,7 @@
       "section": "4.1",
       "topic": "Therapeutic indications",
       "question": "Compare the therapeutic indications of Jardiance and Forxiga.",
-      "answer": "Jardiance (empagliflozin) and Forxiga (dapagliflozin) have essentially the same therapeutic indications:\n\n- **Type 2 diabetes mellitus:** Both are indicated in adults and children aged **10 years and older** with insufficiently controlled type 2 diabetes, as an adjunct to diet and exercise:\n  - as monotherapy when metformin is inappropriate because of intolerance; or\n  - in addition to other diabetes medicines. [jardiance_1] [forxiga_1]\n- **Heart failure:** Both are indicated in adults for **symptomatic chronic heart failure**. [jardiance_1] [forxiga_1]\n- **Chronic kidney disease:** Both are indicated in adults for the treatment of **chronic kidney disease**. [jardiance_1] [forxiga_1]\n\n**Difference:** Based on the supplied SmPC evidence, there is no clinically meaningful difference between their listed therapeutic indications. The only minor wording variation is that Jardiance says “other medicinal products for the treatment of diabetes,” while Forxiga specifies “type 2 diabetes.” [jardiance_1] [forxiga_1]",
+      "answer": "Jardiance (empagliflozin) and Forxiga (dapagliflozin) have essentially the same therapeutic indications:\n\n- **Type 2 diabetes mellitus:** Both are indicated in adults and children aged **10 years and older** with insufficiently controlled type 2 diabetes, as an adjunct to diet and exercise:\n  - as monotherapy when metformin is inappropriate because of intolerance; or\n  - in addition to other diabetes medicines. [jardiance_1] [forxiga_1]\n- **Heart failure:** Both are indicated in adults for treatment of **symptomatic chronic heart failure**. [jardiance_1] [forxiga_1]\n- **Chronic kidney disease:** Both are indicated in adults for treatment of **chronic kidney disease**. [jardiance_1] [forxiga_1]\n\nBased on the supplied SmPC evidence, there are **no substantive differences in their therapeutic indications**. The principal difference is the active substance: empagliflozin in Jardiance and dapagliflozin in Forxiga. [jardiance_1] [forxiga_1]",
       "expected_points": [
         "Both are indicated for type 2 diabetes mellitus.",
         "For type 2 diabetes mellitus, both include adults and children aged 10 years and above.",
@@ -34,7 +34,7 @@
         "missing_points": [],
         "contradictions": [],
         "unsupported_claims": [],
-        "summary": "The answer accurately covers all expected indications, applicable age groups, diabetes treatment contexts, and the lack of a clinically substantive difference between the products' listed indications."
+        "summary": "The generated answer accurately covers all expected indications and correctly concludes that no clinically substantive differences are apparent from the supplied SmPC evidence."
       }
     },
     {
@@ -42,7 +42,7 @@
       "section": "4.2",
       "topic": "Posology and renal impairment",
       "question": "Compare the recommended doses of Jardiance and Forxiga for type 2 diabetes mellitus, heart failure, and chronic kidney disease, including the recommendations for renal impairment.",
-      "answer": "### Recommended doses\n\n| Indication | Jardiance (empagliflozin) | Forxiga (dapagliflozin) |\n|---|---|---|\n| **Type 2 diabetes mellitus** | Start with **10 mg once daily**. If 10 mg is tolerated, **eGFR is ≥60 mL/min/1.73 m²**, and tighter glycaemic control is needed, increase to **25 mg once daily**; maximum **25 mg/day**. [jardiance_1] | **10 mg once daily**; no glycaemic dose escalation is specified. [forxiga_1] |\n| **Heart failure** | **10 mg once daily**. [jardiance_1] | **10 mg once daily**. [forxiga_1] |\n| **Chronic kidney disease** | **10 mg once daily**. [jardiance_1] | **10 mg once daily**. [forxiga_1] |\n\n### Renal impairment\n\n- **Jardiance:** Do not initiate if **eGFR <20 mL/min/1.73 m²** because of limited experience. If eGFR is **<60 mL/min/1.73 m²**, the dose is limited to **10 mg once daily**. In type 2 diabetes, glucose-lowering efficacy is reduced below **45 mL/min/1.73 m²** and is likely absent below **30 mL/min/1.73 m²**; if eGFR falls below 45, additional glucose-lowering treatment should be considered if needed. [jardiance_1]\n\n- **Forxiga:** **No dose adjustment is required based on renal function**, but initiation is not recommended when **GFR <25 mL/min** because of limited experience. In type 2 diabetes, glucose-lowering efficacy is reduced below **45 mL/min** and is likely absent in severe renal impairment; if GFR falls below 45, additional glucose-lowering treatment should be considered when further glycaemic control is needed. [forxiga_1]\n\n**Key difference:** Both use **10 mg once daily** for heart failure and chronic kidney disease. For type 2 diabetes, only Jardiance has an increase to **25 mg**, restricted to patients with eGFR ≥60 mL/min/1.73 m² who need tighter control. The non-initiation threshold is lower for Jardiance (**eGFR <20**) than for Forxiga (**GFR <25**). [jardiance_1] [forxiga_1]",
+      "answer": "### Recommended doses\n\n| Indication | Jardiance (empagliflozin) | Forxiga (dapagliflozin) |\n|---|---|---|\n| **Type 2 diabetes mellitus** | Start **10 mg once daily**. If 10 mg is tolerated, **eGFR ≥60 mL/min/1.73 m²**, and tighter glycaemic control is needed, increase to **25 mg once daily**; maximum 25 mg/day. [jardiance_1] | **10 mg once daily**; no higher dose is recommended for glycaemic control. [forxiga_1] |\n| **Heart failure** | **10 mg once daily**. [jardiance_1] | **10 mg once daily**. [forxiga_1] |\n| **Chronic kidney disease** | **10 mg once daily**. [jardiance_1] | **10 mg once daily**. [forxiga_1] |\n\n### Renal impairment\n\n- **Jardiance:** Initiation is not recommended at **eGFR <20 mL/min/1.73 m²** because of limited experience. At **eGFR <60 mL/min/1.73 m²**, the daily dose is **10 mg**. In type 2 diabetes, glucose-lowering efficacy is reduced below **45 mL/min/1.73 m²** and likely absent below **30 mL/min/1.73 m²**; additional glucose-lowering treatment should therefore be considered if needed when eGFR falls below 45. [jardiance_1]\n- **Forxiga:** **No dose adjustment is required based on renal function**, but initiation is not recommended at **GFR <25 mL/min** because of limited experience. In type 2 diabetes, glucose-lowering efficacy is reduced below **45 mL/min** and is likely absent in severe renal impairment; additional glucose-lowering treatment should be considered if further glycaemic control is required. [forxiga_1]\n\n**Key difference:** Both use **10 mg once daily** for heart failure and chronic kidney disease. For type 2 diabetes, Jardiance may be increased to **25 mg** when renal function and glycaemic need permit, whereas Forxiga remains **10 mg once daily**. The non-initiation renal threshold is lower for Jardiance (**eGFR <20**) than for Forxiga (**GFR <25**). [jardiance_1] [forxiga_1]",
       "expected_points": [
         "For type 2 diabetes mellitus, the recommended starting dose of Jardiance is 10 mg empagliflozin once daily.",
         "For type 2 diabetes mellitus, the recommended dose of Forxiga is 10 mg dapagliflozin once daily.",
@@ -59,7 +59,7 @@
         "For both medicines, additional glucose-lowering treatment should be considered when renal function falls below 45 mL/min if further glycaemic control is needed.",
         "When used with insulin or a sulphonylurea or insulin secretagogue, both SmPC passages allow consideration of lowering the dose of the concomitant glucose-lowering treatment to reduce the risk of hypoglycaemia."
       ],
-      "coverage": 0.8571428571428571,
+      "coverage": 0.9285714285714286,
       "judgment": {
         "covered_points": [
           0,
@@ -69,6 +69,7 @@
           4,
           5,
           6,
+          7,
           8,
           9,
           10,
@@ -78,11 +79,9 @@
         "missing_points": [
           13
         ],
-        "contradictions": [
-          "For Jardiance at eGFR below 20 mL/min/1.73 m², the answer says \"Do not initiate,\" whereas the expected regulatory wording is that initiation is \"not recommended.\" The answer is inappropriately more absolute."
-        ],
+        "contradictions": [],
         "unsupported_claims": [],
-        "summary": "The answer accurately covers the indication-specific doses, dose escalation and maximum for Jardiance, renal initiation thresholds, renal dose guidance, reduced glycaemic efficacy, and consideration of additional glucose-lowering treatment. It omits guidance about considering a lower concomitant insulin, sulphonylurea, or insulin-secretagogue dose to reduce hypoglycaemia risk, and overstates the Jardiance renal initiation restriction."
+        "summary": "The answer accurately covers the recommended doses for all three indications and the renal impairment recommendations for both medicines. It omits the recommendation to consider reducing concomitant insulin, sulphonylurea, or insulin secretagogue doses to lower hypoglycaemia risk."
       }
     },
     {
@@ -90,7 +89,7 @@
       "section": "4.2",
       "topic": "Hepatic impairment, elderly and paediatric populations, and method of administration",
       "question": "Compare the recommendations for Jardiance and Forxiga in patients with hepatic impairment, elderly patients, and paediatric patients, and compare their methods of administration.",
-      "answer": "### Hepatic impairment\n- **Jardiance:** Empagliflozin exposure increases with hepatic impairment. Compared with normal hepatic function, AUC increased by approximately 23%, 47%, and 75% in mild, moderate, and severe impairment, respectively; Cmax increased by approximately 4%, 23%, and 48% [jardiance_1].\n- **Forxiga:** Clinical experience in hepatic impairment is limited, and dapagliflozin exposure is increased in severe hepatic impairment [forxiga_1].\n- **Comparison:** Both have increased exposure in hepatic impairment, but the supplied evidence does not provide formal dose-adjustment recommendations for either medicine.\n\n### Elderly patients\n- **Jardiance:** Patients aged **75 years and older** may have an increased risk of volume depletion. Particular attention should be paid to fluid intake, especially when co-administered medicines may cause volume depletion, such as diuretics or ACE inhibitors [jardiance_2]. Age itself did not have a clinically meaningful effect on empagliflozin pharmacokinetics [jardiance_1].\n- **Forxiga:** Patients aged **65 years and older** may be at greater risk of volume depletion and are more likely to receive diuretics or have impaired renal function. The same renal-function recommendations apply as for other patients [forxiga_2]. Caution is advised where a dapagliflozin-induced blood-pressure reduction could pose a risk, including in elderly patients [forxiga_1].\n- **Comparison:** Both require attention to volume depletion in older patients. Jardiance specifically identifies increased risk from age 75, whereas Forxiga’s elderly warning applies from age 65 and also emphasizes renal impairment and concomitant antihypertensive treatment.\n\n### Paediatric patients\n- **Jardiance:** It is indicated for type 2 diabetes in children aged **10 years and above**. Paediatric studies in patients aged 10–17 years found pharmacokinetic/pharmacodynamic responses and exposure-response relationships broadly comparable with adults [jardiance_3] [jardiance_1].\n- **Forxiga:** The supplied evidence contains no paediatric recommendation; therefore, a direct comparison of paediatric use is not possible.\n\n### Method of administration\n- **Jardiance:** The evidence describes **oral administration**, with paediatric studies using once-daily dosing [jardiance_1].\n- **Forxiga:** The supplied evidence does not state its method of administration. Consequently, the available evidence is insufficient for a complete comparison of administration methods.",
+      "answer": "| Population/aspect | Jardiance (empagliflozin) | Forxiga (dapagliflozin) | Comparison |\n|---|---|---|---|\n| **Hepatic impairment** | Exposure increases with severity: compared with normal hepatic function, AUC increased by approximately 23%, 47%, and 75% in mild, moderate, and severe impairment, respectively; Cmax increased by approximately 4%, 23%, and 48% [jardiance_1]. The supplied evidence does not provide a specific dose-adjustment recommendation. | Clinical experience in hepatic impairment is limited, and exposure is increased in severe hepatic impairment [forxiga_1]. The supplied evidence does not provide a specific dose-adjustment recommendation. | Both have increased exposure in hepatic impairment. Jardiance provides quantitative data across all severity levels, whereas Forxiga specifically highlights limited experience and increased exposure in severe impairment. Evidence is insufficient to compare dose adjustments. |\n| **Elderly patients** | Age has no clinically meaningful pharmacokinetic effect [jardiance_1]. However, patients aged **≥75 years** may have increased volume-depletion risk; hydration requires special attention, particularly with medicines that may cause volume depletion, such as diuretics or ACE inhibitors [jardiance_2]. | Patients aged **≥65 years** may have greater volume-depletion risk and are more likely to receive diuretics. They are also more likely to have impaired renal function or receive medicines affecting renal function; the same renal-function recommendations apply as in other patients [forxiga_2]. Caution is advised where a dapagliflozin-induced blood-pressure reduction could pose a risk [forxiga_1]. | Both require attention to volume depletion in elderly patients. Jardiance specifically emphasizes those ≥75 years, while Forxiga’s elderly warning begins at ≥65 years and additionally stresses renal function and concomitant therapies. |\n| **Paediatric patients** | Indicated for insufficiently controlled type 2 diabetes in children aged **≥10 years**, as adjunct to diet and exercise [jardiance_3]. In patients aged 10–17 years, pharmacokinetic/pharmacodynamic responses and exposure were generally comparable with adults [jardiance_1]. | The supplied evidence contains no paediatric indication, dosing, or administration recommendation. | A paediatric recommendation is supported for Jardiance from age 10 years; the available evidence is insufficient to compare this with Forxiga. |\n| **Method of administration** | The evidence confirms **oral administration** and describes once-daily dosing in paediatric pharmacokinetic studies, but does not provide complete general administration instructions [jardiance_1]. | No method-of-administration instructions are supplied. | The available evidence is insufficient for a full comparison of administration methods, including timing, food requirements, or tablet-handling instructions. |",
       "expected_points": [
         "Forxiga requires no dose adjustment in mild or moderate hepatic impairment.",
         "For severe hepatic impairment, Forxiga has a recommended starting dose of 5 mg, which may be increased to 10 mg if well tolerated.",
@@ -114,6 +113,9 @@
           5
         ],
         "missing_points": [
+          0,
+          1,
+          2,
           3,
           4,
           6,
@@ -127,11 +129,10 @@
           14
         ],
         "contradictions": [
-          "The answer states that no formal hepatic dose-adjustment recommendations are provided for either medicine, contradicting the recommendations that Forxiga needs no adjustment in mild or moderate impairment, starts at 5 mg in severe impairment, and Jardiance needs no hepatic dose adjustment.",
-          "The answer states that the supplied evidence contains no paediatric recommendation for Forxiga, contradicting the dosing information for children aged 10 years and above."
+          "The answer states that no paediatric indication or dosing recommendation is available for Forxiga, contrary to the expected dosing information for children aged 10 years and above."
         ],
         "unsupported_claims": [],
-        "summary": "The answer accurately covers Jardiance's increased volume-depletion risk in patients aged 75 years and older, but omits most required regulatory recommendations. It fails to provide the hepatic dosing guidance, age-based no-adjustment statement, detailed paediatric dosing and data limitations, and administration instructions. It also incorrectly says hepatic dose-adjustment and Forxiga paediatric recommendations are unavailable."
+        "summary": "The answer accurately notes Jardiance's increased volume-depletion risk in patients aged 75 years and older, but omits most requested recommendations. It does not provide the hepatic dose recommendations, age-based no-adjustment guidance, detailed paediatric dosing and data limitations, or administration instructions. It also incorrectly indicates that paediatric dosing information is unavailable for Forxiga."
       }
     },
     {
@@ -139,7 +140,7 @@
       "section": "4.4",
       "topic": "Ketoacidosis warnings and precautions",
       "question": "Compare the ketoacidosis warnings and precautions for Jardiance and Forxiga.",
-      "answer": "### Similarities\n\nBoth Jardiance (empagliflozin) and Forxiga (dapagliflozin) carry closely aligned ketoacidosis precautions:\n\n- **Serious and atypical presentation:** Life-threatening and fatal cases have been reported. Ketoacidosis may occur with only moderately elevated glucose, below 14 mmol/L (250 mg/dL). Forxiga characterises reported DKA cases as rare. [jardiance_1] [forxiga_2]\n- **Symptoms requiring immediate assessment:** Nausea, vomiting, anorexia, abdominal pain, excessive thirst, breathing difficulty, confusion, unusual fatigue or sleepiness should prompt immediate assessment, regardless of glucose level. [jardiance_1] [forxiga_1]\n- **Suspected or confirmed ketoacidosis:** The medicine should be stopped immediately. [jardiance_1] [forxiga_1]\n- **Surgery or acute serious illness:** Treatment should be interrupted in hospitalised patients undergoing major surgery or experiencing acute serious illness. Ketones should be monitored, preferably in blood rather than urine; treatment may restart once ketones are normal and the patient is stable. [jardiance_1] [forxiga_1]\n- **Higher-risk patients:** Caution is advised in patients with low beta-cell reserve, low C-peptide, LADA, previous pancreatitis, restricted food intake, severe dehydration, reduced insulin doses, or increased insulin requirements due to acute illness, surgery, or alcohol abuse. Predisposing history should be assessed before initiation. [jardiance_1] [forxiga_1]\n- **Prolonged ketoacidosis:** Both may be associated with prolonged ketoacidosis and glucosuria lasting longer after discontinuation than expected from their plasma half-lives; insulin deficiency may contribute. [jardiance_1] [forxiga_1]\n- **Restart after an episode:** Restarting an SGLT2 inhibitor after ketoacidosis during treatment is not recommended unless another clear precipitating factor has been identified and resolved. [jardiance_2] [forxiga_1]\n- **Type 1 diabetes:** Neither medicine should be used in patients with type 1 diabetes. Ketoacidosis occurred with common frequency in type 1 diabetes studies for both products. [jardiance_2] [forxiga_1]\n\n### Differences\n\n- **Jardiance specifically states** that ketoacidosis has also been reported in patients without diabetes, although it is less likely in this population, and that it is unknown whether risk increases with higher empagliflozin doses. [jardiance_1]\n- For Jardiance, the type 1 diabetes evidence specifically reports increased ketoacidosis with empagliflozin **10 mg and 25 mg as adjuncts to insulin versus placebo**. [jardiance_2]\n- The supplied Forxiga evidence reports common-frequency DKA in type 1 diabetes studies but does not provide the same dose-specific, adjunct-to-insulin comparison. [forxiga_1]\n\nOverall, the practical precautions and management recommendations are essentially the same, with Jardiance providing additional statements about cases in people without diabetes and dose uncertainty.",
+      "answer": "### Similarities\n\nBoth Jardiance (empagliflozin) and Forxiga (dapliflozin):\n\n- Warn of ketoacidosis, including life-threatening and fatal cases. Presentation may be atypical, with glucose below 14 mmol/L (250 mg/dL), so ketoacidosis should be considered regardless of blood glucose level. [jardiance_1] [forxiga_2]\n- Identify the same warning symptoms: nausea, vomiting, anorexia, abdominal pain, excessive thirst, difficulty breathing, confusion, unusual fatigue, or sleepiness. Patients with these symptoms should be assessed immediately. [jardiance_1] [forxiga_1]\n- Require immediate discontinuation if ketoacidosis is suspected or diagnosed. [jardiance_1] [forxiga_1]\n- Should be interrupted during hospitalisation for major surgery or acute serious illness. Blood ketone measurement is preferred to urine testing, and treatment may restart once ketones are normal and the patient is stable. [jardiance_1] [forxiga_1]\n- Advise assessment of predisposing factors before initiation and caution in patients with low beta-cell reserve, restricted food intake or severe dehydration, reduced insulin doses, or increased insulin requirements due to acute illness, surgery, or alcohol abuse. [jardiance_1] [forxiga_1]\n- Warn that ketoacidosis and glucosuria may persist after discontinuation longer than expected from the medicines’ plasma half-lives. [jardiance_1] [forxiga_1]\n- Do not recommend restarting an SGLT2 inhibitor after treatment-associated ketoacidosis unless another clear precipitating factor has been identified and resolved. [jardiance_2] [forxiga_1]\n- Should not be used in type 1 diabetes; studies in type 1 diabetes reported ketoacidosis at common frequency. [jardiance_2] [forxiga_1]\n\n### Differences in the supplied warnings\n\n- **Jardiance** additionally states that ketoacidosis has occurred in patients without diabetes, although it is less likely, and that it is unknown whether risk increases with higher empagliflozin doses. [jardiance_1]\n- Jardiance specifies that increased ketoacidosis occurred with **empagliflozin 10 mg and 25 mg as adjuncts to insulin** compared with placebo in its type 1 diabetes trial programme. [jardiance_2]\n- **Forxiga** characterises reported DKA cases as **rare**; the supplied Jardiance text does not assign an overall frequency to post-treatment ketoacidosis reports. [forxiga_2] [jardiance_1]\n\nOverall, the core recognition, interruption, monitoring, risk-factor, restart, and type 1 diabetes precautions are closely aligned.",
       "expected_points": [
         "Both Jardiance and Forxiga warn that ketoacidosis, including life-threatening and fatal cases, has been reported with SGLT2 inhibitor treatment.",
         "Both warn that ketoacidosis may present atypically with only moderately increased blood glucose values below 14 mmol/L (250 mg/dL).",
@@ -185,7 +186,7 @@
         "missing_points": [],
         "contradictions": [],
         "unsupported_claims": [],
-        "summary": "The answer accurately covers all expected shared warnings, symptoms, risk factors, interruption and monitoring guidance, restart criteria, and type 1 diabetes precautions. It also captures the specified Forxiga and Jardiance distinctions without contradiction or unsupported comparative conclusions."
+        "summary": "The answer accurately covers all expected shared warnings and precautions, including atypical presentation, symptoms, immediate assessment and discontinuation, perioperative or acute-illness interruption and ketone monitoring, restart criteria, persistence after discontinuation, risk factors, type 1 diabetes restrictions, and medicine-specific distinctions."
       }
     },
     {
@@ -193,7 +194,7 @@
       "section": "4.4",
       "topic": "Renal impairment warnings and monitoring",
       "question": "Compare the renal impairment warnings and precautions for Jardiance and Forxiga.",
-      "answer": "### Renal impairment precautions: Jardiance vs Forxiga\n\n| Issue | Jardiance (empagliflozin) | Forxiga (dapagliflozin) |\n|---|---|---|\n| **Initiation threshold** | Initiation is not recommended when **eGFR <20 mL/min/1.73 m²** because of limited experience. [jardiance_1] | Initiation is not recommended when **GFR <25 mL/min** because of limited experience. [forxiga_1] |\n| **Dose in renal impairment** | When **eGFR <60 mL/min/1.73 m²**, the daily dose is limited to **10 mg**. [jardiance_1] | No renal dose adjustment is specified in the supplied section 4.4 evidence. |\n| **Glucose-lowering efficacy** | Reduced at **eGFR <45 mL/min/1.73 m²** and likely absent below **30 mL/min/1.73 m²**. [jardiance_1] | Reduced at **GFR <45 mL/min** and likely absent in severe renal impairment; the supplied evidence does not give a numerical threshold for “severe.” [forxiga_1] |\n| **Renal monitoring** | Renal function should be assessed before initiation, at least annually during treatment, and before starting concomitant medicines that may adversely affect renal function. [jardiance_1] | No equally explicit routine renal-monitoring schedule is provided in the supplied evidence. |\n| **Renal-related adverse findings** | The supplied warnings do not describe a comparable renal-impairment study signal. | In patients with type 2 diabetes and **GFR <60 mL/min**, dapagliflozin was associated with more increases in creatinine, phosphorus and PTH, and more hypotension than placebo. [forxiga_1] Increased-creatinine/renal-related reactions were particularly frequent with baseline eGFR 30–<60, although creatinine increases were generally transient or reversible after discontinuation. [forxiga_3] |\n| **Volume depletion** | Osmotic diuresis may lower blood pressure. Caution is advised in at-risk patients; volume status and electrolytes should be monitored during fluid-loss illnesses, with temporary interruption considered until corrected. Patients ≥75 years require particular attention. [jardiance_1] | Increased diuresis may lower blood pressure. Caution is advised in at-risk patients; volume status, haematocrit and electrolytes should be monitored during intercurrent volume-depleting illness, and treatment should be temporarily interrupted if volume depletion develops. Elderly patients may be at greater risk. [forxiga_1] [forxiga_2] |\n| **Chronic kidney disease caveat** | Patients with albuminuria may benefit more. [jardiance_2] | There is no experience treating CKD in patients without diabetes who do not have albuminuria; patients with albuminuria may benefit more. [forxiga_2] |\n\n**Overall:** Both medicines have renal-function-dependent glucose-lowering efficacy and similar volume-depletion precautions. Jardiance has the lower non-initiation threshold and an explicit renal-function monitoring schedule and dose restriction below eGFR 60. Forxiga’s warning additionally highlights renal laboratory abnormalities and hypotension observed in patients with moderate renal impairment. [jardiance_1] [forxiga_1]",
+      "answer": "### Renal impairment: Jardiance vs Forxiga\n\n| Issue | Jardiance (empagliflozin) | Forxiga (dapagliflozin) |\n|---|---|---|\n| **Initiation threshold** | Initiation is not recommended when **eGFR <20 mL/min/1.73 m²** due to limited experience. [jardiance_1] | Initiation is not recommended when **GFR <25 mL/min** due to limited experience. [forxiga_1] |\n| **Dose in renal impairment** | With **eGFR <60 mL/min/1.73 m²**, the daily dose is limited to **10 mg**. [jardiance_1] | No renal dose adjustment is specified in the supplied section 4.4 evidence. |\n| **Glucose-lowering efficacy** | Efficacy is reduced at **eGFR <45 mL/min/1.73 m²** and is likely absent at **eGFR <30 mL/min/1.73 m²**. [jardiance_1] | Efficacy is reduced at **GFR <45 mL/min** and is likely absent in **severe renal impairment**; the supplied evidence does not define that term numerically. [forxiga_1] |\n| **Renal-function monitoring** | Renal function should be assessed **before initiation**, **at least yearly during treatment**, and before starting any concomitant medicine that may adversely affect renal function. [jardiance_1] | Comparable routine renal-function monitoring instructions are not included in the supplied evidence. |\n| **Renal-impairment safety observations** | No comparable renal-impairment study warning is provided in the supplied section 4.4 evidence. | In a study of patients with type 2 diabetes and **GFR <60 mL/min**, dapagliflozin was associated with more increases in creatinine, phosphorus and PTH, and more hypotension than placebo. [forxiga_1] |\n| **Elderly patients** | Patients aged ≥75 years may have increased volume-depletion risk; special attention to fluid intake is advised, particularly with medicines such as diuretics or ACE inhibitors. [jardiance_1] | Elderly patients are more likely to have impaired renal function and to receive medicines that may alter renal function, including ACE inhibitors and ARBs; the same renal recommendations apply as for other patients. [forxiga_2] |\n\n**Overall:** Both medicines have renal-function-dependent glucose-lowering efficacy that decreases below approximately **45 mL/min**. Jardiance permits initiation down to a lower stated threshold (**eGFR 20**) than Forxiga (**GFR 25**) and provides explicit dose limitation and renal-monitoring instructions. Forxiga additionally reports specific laboratory abnormalities and hypotension in patients with moderate renal impairment. [jardiance_1] [forxiga_1]",
       "expected_points": [
         "Due to limited experience, initiation of Forxiga is not recommended in patients with GFR below 25 mL/min.",
         "Due to limited experience, initiation of Jardiance is not recommended in patients with eGFR below 20 mL/min/1.73 m2.",
@@ -221,7 +222,7 @@
         "missing_points": [],
         "contradictions": [],
         "unsupported_claims": [],
-        "summary": "The answer accurately covers all expected renal impairment warnings and precautions for Jardiance and Forxiga, including initiation thresholds, Jardiance dosing, renal-function-dependent efficacy, study findings for Forxiga, and Jardiance renal monitoring recommendations."
+        "summary": "The answer accurately covers all expected renal impairment thresholds, dosing, efficacy limitations, monitoring recommendations, and Forxiga study safety observations without contradictory or unsupported comparative conclusions."
       }
     },
     {
@@ -229,7 +230,7 @@
       "section": "4.4",
       "topic": "Risk of volume depletion and hypotension",
       "question": "Compare the warnings and precautions for volume depletion and hypotension with Jardiance and Forxiga.",
-      "answer": "### Comparison\n\n- **Both medicines are associated with volume-depletion events that include hypotension.**  \n  - For Jardiance, the composite includes decreased blood pressure, dehydration, hypotension, hypovolaemia, orthostatic hypotension and syncope. Overall rates were 0.6% with empagliflozin 10 mg, 0.4% with 25 mg and 0.3% with placebo. [jardiance_1]  \n  - For Forxiga, reactions including dehydration, hypovolaemia or hypotension occurred in 1.1% with dapagliflozin 10 mg versus 0.7% with placebo; serious reactions were below 0.2% and balanced between groups. [forxiga_2]\n\n- **Older patients are highlighted for both, but at different age thresholds in the supplied evidence.**  \n  - With Jardiance, volume-depletion events increased in patients aged **75 years or older**: 2.3% with 10 mg and 4.3% with 25 mg versus 2.1% with placebo. [jardiance_1]  \n  - Forxiga specifically warns that patients aged **65 years or older** may be at greater risk of volume depletion and are more likely to receive diuretics. It also notes greater likelihood of impaired renal function and use of antihypertensives such as ACE inhibitors or ARBs that may alter renal function. [forxiga_1]\n\n- Rates vary by population. In Jardiance heart-failure studies, volume depletion occurred in 11.4% versus 9.7% with placebo. [jardiance_3] For Forxiga, rates were 7.2% versus 6.5% in DAPA-HF and 5.6% versus 3.9% in DAPA-CKD. [forxiga_2]\n\n**Evidence limitation:** The supplied Jardiance evidence does not include SmPC section 4.4, and the supplied Forxiga section does not contain detailed management instructions for volume depletion or hypotension. Therefore, an exact comparison of precautions such as monitoring, temporary interruption, or correction of hypovolaemia cannot be made from the available evidence.",
+      "answer": "### Volume depletion and hypotension: Jardiance vs Forxiga\n\n| Aspect | Jardiance (empagliflozin) | Forxiga (dapliflozin) |\n|---|---|---|\n| **Mechanism and BP effect** | Osmotic diuresis accompanying glucosuria may cause a modest decrease in blood pressure. [jardiance_1] | Increased diuresis may cause a modest decrease in blood pressure; this may be more pronounced with very high blood glucose concentrations. [forxiga_1] |\n| **Patients requiring caution** | Caution in patients for whom a BP reduction could pose a risk, particularly those with known cardiovascular disease, those receiving antihypertensives with a history of hypotension, and patients aged ≥75 years. [jardiance_1] | Caution where a BP reduction could pose a risk, including patients receiving antihypertensives with a history of hypotension and elderly patients. [forxiga_1] |\n| **Elderly patients** | Patients aged ≥75 years may have increased volume-depletion risk. Attention should be paid to fluid intake when medicines that may cause volume depletion, such as diuretics or ACE inhibitors, are co-administered. [jardiance_1] | Patients aged ≥65 years may be at greater risk of volume depletion and are more likely to receive diuretics. [forxiga_2] |\n| **During fluid-losing illness** | With conditions causing fluid loss, such as gastrointestinal illness, monitor volume status by examination, BP, haematocrit and electrolytes. Temporary interruption **should be considered** until fluid loss is corrected. [jardiance_1] | During conditions that may cause volume depletion, such as gastrointestinal illness, monitor volume status by examination, BP, haematocrit and electrolytes. Temporary interruption is **recommended** if volume depletion develops, until corrected. [forxiga_1] |\n| **Renal impairment-related signal** | The provided warning does not identify a specific renal-impairment study showing increased hypotension. | In one study of type 2 diabetes with GFR <60 mL/min, hypotension occurred more often with dapagliflozin than placebo. [forxiga_1] |\n\n**Overall:** Both medicines have closely similar precautions because their diuretic effects can reduce circulating volume and blood pressure. The main differences are that Jardiance specifically highlights cardiovascular disease and uses an elderly threshold of ≥75 years, whereas Forxiga identifies elderly patients from ≥65 years and notes potentially greater BP reduction with very high glucose. For established volume depletion, Forxiga recommends interruption, while Jardiance says interruption should be considered. [jardiance_1] [forxiga_1] [forxiga_2]",
       "expected_points": [
         "Both medicines may cause a modest decrease in blood pressure as a consequence of their diuretic effect associated with SGLT2 inhibition.",
         "For both medicines, caution is advised in patients for whom a treatment-induced decrease in blood pressure could pose a risk.",
@@ -242,15 +243,13 @@
         "Forxiga treatment should be temporarily interrupted in patients who develop volume depletion until the depletion is corrected.",
         "For Jardiance, temporary interruption should be considered until the fluid loss is corrected."
       ],
-      "coverage": 0.1,
+      "coverage": 1.0,
       "judgment": {
         "covered_points": [
-          3
-        ],
-        "missing_points": [
           0,
           1,
           2,
+          3,
           4,
           5,
           6,
@@ -258,9 +257,10 @@
           8,
           9
         ],
+        "missing_points": [],
         "contradictions": [],
         "unsupported_claims": [],
-        "summary": "The answer correctly identifies elderly patients as a Forxiga risk group and notes the age-75 threshold for Jardiance, but it omits most requested precautions. It does not describe the modest diuretic-related blood-pressure decrease, key at-risk groups such as patients with prior hypotension on antihypertensives or cardiovascular disease, the effect of very high glucose with Forxiga, monitoring during fluid loss, or the distinct temporary-interruption recommendations."
+        "summary": "The answer accurately covers all expected warnings and precautions, including at-risk groups, monitoring during fluid loss, and the distinct regulatory wording for interruption: recommended for Forxiga when volume depletion develops versus should be considered for Jardiance until fluid loss is corrected."
       }
     },
     {
@@ -268,7 +268,7 @@
       "section": "4.4",
       "topic": "Necrotising fasciitis of the perineum (Fournier's gangrene)",
       "question": "Compare the warnings for Fournier's gangrene with Jardiance and Forxiga.",
-      "answer": "### Comparison\n\nThe Fournier’s gangrene warnings for **Jardiance (empagliflozin)** and **Forxiga (dapagliflozin)** are essentially the same:\n\n- Cases have been reported in **both female and male patients** taking SGLT2 inhibitors, including the respective medicine. Both SmPCs describe Fournier’s gangrene as **rare, serious, and potentially life-threatening**, requiring urgent surgery and antibiotics. Forxiga specifically characterises its reports as **postmarketing**. [jardiance_1] [forxiga_3]\n- For both medicines, patients should seek medical attention for **pain, tenderness, redness (erythema), or swelling in the genital/perineal area accompanied by fever or malaise**. [jardiance_1] [forxiga_3]\n- Both warn that a **urogenital infection or perineal abscess may precede** the necrotising fasciitis. [jardiance_1] [forxiga_3]\n- If Fournier’s gangrene is suspected, **discontinue the medicine and promptly start treatment, including antibiotics and surgical debridement**. [jardiance_1] [forxiga_3]\n\n### Notable difference in supporting adverse-event information\n\nForxiga’s SmPC provides trial data from DECLARE: among 17,160 patients with type 2 diabetes followed for a median of 48 months, there were **six cases—one with dapagliflozin and five with placebo**. It also states that cases have been reported postmarketing. [forxiga_1]\n\nThe supplied Jardiance evidence does not provide comparable case-count data, so a numerical comparison between the medicines cannot be made.",
+      "answer": "### Comparison\n\nThe Fournier’s gangrene warnings for **Jardiance (empagliflozin)** and **Forxiga (dapagliflozin)** are essentially the same:\n\n- Both report cases in **women and men taking SGLT2 inhibitors** and describe Fournier’s gangrene as **rare, serious, and potentially life-threatening**, requiring urgent surgery and antibiotics. Forxiga specifically characterises the reported cases as **postmarketing**. [jardiance_1] [forxiga_3]\n- For both medicines, patients should seek medical attention for **pain, tenderness, erythema, or swelling in the genital/perineal area accompanied by fever or malaise**. [jardiance_1] [forxiga_3]\n- Both warn that a **urogenital infection or perineal abscess may precede** the condition. [jardiance_1] [forxiga_3]\n- If Fournier’s gangrene is suspected, both medicines should be **discontinued**, with prompt treatment including **antibiotics and surgical debridement**. [jardiance_1] [forxiga_3]\n\n### Notable difference in supporting safety data\n\nThe supplied Forxiga evidence provides additional numerical trial data: in the DECLARE study, there were **6 cases among 17,160 patients**—1 with dapagliflozin and 5 with placebo—over a median exposure of 48 months. It also confirms postmarketing reports with dapagliflozin. [forxiga_1] Comparable numerical trial data for Jardiance are not provided in the supplied evidence.",
       "expected_points": [
         "Both SmPCs report cases of necrotising fasciitis of the perineum, also known as Fournier's gangrene, in female and male patients taking SGLT2 inhibitors.",
         "Both describe Fournier's gangrene as a rare but serious and potentially life-threatening event.",
@@ -294,7 +294,7 @@
         "missing_points": [],
         "contradictions": [],
         "unsupported_claims": [],
-        "summary": "The answer accurately covers all expected similarities in the Fournier’s gangrene warnings and appropriately concludes that there is no clinically substantive difference. The additional Forxiga trial data are presented as supporting adverse-event information rather than as evidence of comparative safety."
+        "summary": "The answer accurately covers all expected similarities in the Fournier’s gangrene warnings, including affected sexes, severity, symptoms requiring medical attention, possible preceding infections, discontinuation, and urgent antibiotic and surgical treatment. It also correctly concludes that there is no clinically substantive difference in the warnings."
       }
     },
     {
@@ -302,7 +302,7 @@
       "section": "4.4",
       "topic": "Urinary tract infections",
       "question": "Compare the urinary tract infection warnings and precautions for Jardiance and Forxiga.",
-      "answer": "- **Jardiance (empagliflozin):** Complicated urinary tract infections, including **pyelonephritis and urosepsis**, have been reported. Temporary interruption of empagliflozin should be considered in patients with a complicated UTI. [jardiance_1]\n\n- **Forxiga (dapagliflozin):** The SmPC states that **urinary glucose excretion may increase the risk of UTI**. Temporary interruption should be considered while treating **pyelonephritis or urosepsis**. [forxiga_1] [forxiga_2]\n\n**Comparison:** Both recommend considering temporary treatment interruption for serious upper or systemic UTIs such as pyelonephritis or urosepsis. Jardiance frames this precaution broadly around “complicated UTIs” and notes reported cases, whereas Forxiga explicitly links urinary glucose excretion with a potentially increased UTI risk and specifies interruption during treatment of pyelonephritis or urosepsis. [jardiance_1] [forxiga_1]",
+      "answer": "- **Jardiance (empagliflozin):** Complicated urinary tract infections, including **pyelonephritis and urosepsis**, have been reported. Temporary interruption of empagliflozin should be considered in patients with a complicated UTI. [jardiance_1]\n\n- **Forxiga (dapagliflozin):** The SmPC states that urinary glucose excretion may be associated with an **increased risk of UTI**. Temporary interruption should be considered while treating **pyelonephritis or urosepsis**. [forxiga_1] [forxiga_2]\n\n**Comparison:** Both recommend considering temporary treatment interruption for serious upper or systemic UTIs such as pyelonephritis or urosepsis. Jardiance frames the warning around reported “complicated UTIs,” whereas Forxiga explicitly links urinary glucose excretion to a potentially increased UTI risk. [jardiance_1] [forxiga_1]",
       "expected_points": [
         "The Forxiga passage states that urinary glucose excretion may be associated with an increased risk of urinary tract infection.",
         "The Forxiga passage states that temporary interruption of dapagliflozin should be considered when treating pyelonephritis or urosepsis.",
@@ -324,7 +324,7 @@
         "missing_points": [],
         "contradictions": [],
         "unsupported_claims": [],
-        "summary": "The answer accurately covers all expected warnings and precautions, including each drug's interruption guidance, the reported complicated UTIs with Jardiance, Forxiga's urinary glucose excretion risk statement, and the differences in framing."
+        "summary": "The answer accurately covers all expected warnings and precautions, including Forxiga's increased UTI risk linked to urinary glucose excretion, both products' temporary-interruption guidance, and the differing framing around pyelonephritis, urosepsis, and complicated UTIs."
       }
     },
     {
@@ -332,7 +332,7 @@
       "section": "4.4",
       "topic": "Elderly patients and volume depletion",
       "question": "Compare the warnings and precautions for elderly patients treated with Jardiance and Forxiga.",
-      "answer": "### Comparison in elderly patients\n\n- **Volume depletion is the principal elderly-specific concern for both medicines.**\n  - **Jardiance (empagliflozin):** The warning specifically applies to patients **≥75 years**, who may have an increased risk of volume depletion. More volume-depletion adverse reactions occurred with empagliflozin than placebo in this age group. Special attention should be paid to fluid intake, particularly with medicines that can cause volume depletion, such as **diuretics or ACE inhibitors**. Caution is also advised because osmotic diuresis may lower blood pressure. [jardiance_1]\n  - **Forxiga (dapagliflozin):** The warning applies more broadly to patients **≥65 years**, who may be at greater risk of volume depletion and are more likely to receive diuretics. [forxiga_1]\n\n- **Renal function and interacting treatment:**\n  - **Forxiga:** Elderly patients are more likely to have impaired renal function or to receive antihypertensives that may alter renal function, including **ACE inhibitors and ARBs**. The same renal-function recommendations apply as for other patients. [forxiga_1]\n  - **Jardiance:** Its elderly-specific warning emphasizes hydration and concomitant volume-depleting medicines. Separately, renal function should be assessed before initiation, at least annually during treatment, and before starting medicines that may adversely affect renal function. [jardiance_1]\n\n**Key distinction:** Forxiga identifies elderly patients from **≥65 years** and explicitly highlights both volume depletion and age-associated renal impairment. Jardiance identifies a higher-risk group from **≥75 years**, with stronger emphasis on hydration, blood-pressure/volume effects, and concomitant volume-depleting therapy. [forxiga_1] [jardiance_1]",
+      "answer": "### Key similarities\n\n- **Volume depletion/hypotension:** Both medicines can increase diuresis and lower blood pressure. Elderly patients, particularly those receiving antihypertensives or medicines causing fluid loss, require caution and monitoring. During illnesses causing fluid loss, volume status, blood pressure, haematocrit and electrolytes should be monitored; temporary treatment interruption may be appropriate until fluid loss is corrected. [forxiga_2] [jardiance_1]\n- **Concomitant medicines:** Both SmPCs highlight increased concern with **diuretics and ACE inhibitors** because of potential volume depletion; Forxiga additionally explicitly mentions ARBs in relation to renal-function changes. [forxiga_1] [jardiance_1]\n\n### Important differences\n\n- **Age threshold:**  \n  - **Forxiga:** The elderly warning applies from **≥65 years**. These patients may have greater risk of volume depletion and are more likely to use diuretics. [forxiga_1]  \n  - **Jardiance:** The specific heightened warning applies from **≥75 years**. In this group, volume-depletion adverse reactions occurred more often with empagliflozin than placebo. [jardiance_1]\n\n- **Renal-function emphasis:**  \n  - **Forxiga:** Elderly patients are noted to be more likely to have impaired renal function or to receive ACE inhibitors/ARBs that may alter renal function; the same renal recommendations apply as for other patients. [forxiga_1]  \n  - **Jardiance:** Its general precautions require renal-function assessment before initiation, at least annually during treatment, and before starting concomitant medicines that may adversely affect renal function; the supplied evidence does not identify a separate elderly-specific renal monitoring schedule. [jardiance_1]\n\nOverall, both require vigilance for dehydration and hypotension, but Forxiga frames this concern from age 65, whereas Jardiance identifies a specifically increased risk from age 75.",
       "expected_points": [
         "Both passages identify volume depletion as an important consideration in elderly patients.",
         "The Forxiga passage states that elderly patients aged 65 years and above may be at greater risk of volume depletion.",
@@ -361,8 +361,10 @@
         ],
         "missing_points": [],
         "contradictions": [],
-        "unsupported_claims": [],
-        "summary": "The answer accurately covers all expected distinctions for elderly patients, including the age thresholds, volume-depletion risks, renal-function considerations, concomitant diuretic and antihypertensive use, and Jardiance-specific hydration precautions."
+        "unsupported_claims": [
+          "The answer suggests that Forxiga highlights ACE inhibitors specifically because they may cause volume depletion; the expected information links ACE inhibitors and ARBs to possible renal-function effects in elderly Forxiga patients."
+        ],
+        "summary": "All expected comparison points are covered. The only concern is a slight conflation of Forxiga's renal-function warning for ACE inhibitors/ARBs with Jardiance's warning about medicines contributing to volume depletion."
       }
     },
     {
@@ -370,7 +372,7 @@
       "section": "4.4",
       "topic": "Lower limb amputations",
       "question": "Compare the warnings about lower limb amputations for Jardiance and Forxiga.",
-      "answer": "- **Jardiance (empagliflozin):** The SmPC warns that increased lower-limb amputations, primarily involving the toe, were observed in long-term studies with **another SGLT2 inhibitor**. It states that whether this is a class effect is unknown and advises routine preventive foot care, as for all patients with diabetes. It does **not** state that an increased risk was observed specifically with empagliflozin. [jardiance_1]\n\n- **Forxiga (dapagliflozin):** The supplied SmPC evidence does not contain a warning or data concerning lower-limb amputations. Therefore, its amputation warning cannot be directly compared with Jardiance from the available evidence. [forxiga_1] [forxiga_2] [forxiga_3]\n\n**Key difference:** A precautionary lower-limb amputation warning and foot-care advice are provided for Jardiance, whereas no corresponding warning is present in the supplied Forxiga excerpts. This does not establish that Forxiga has no such warning; the evidence supplied is insufficient to determine that.",
+      "answer": "- **Jardiance (empagliflozin):** The warning states that increased lower-limb amputations—primarily toe amputations—were observed in long-term studies with **another SGLT2 inhibitor**. Whether this is a class effect is unknown. Routine preventive foot care should be advised for all patients with diabetes. [jardiance_1]\n\n- **Forxiga (dapagliflozin):** The warning similarly reports increased lower-limb amputations, primarily of the toe, in long-term studies in patients with type 2 diabetes involving **SGLT2 inhibitors**. It is also unknown whether this represents a class effect, and patients with diabetes should receive counselling on routine preventive foot care. [forxiga_1]\n\n**Key difference:** Jardiance explicitly attributes the observed increase to **another SGLT2 inhibitor**, whereas Forxiga describes the finding more generally across studies **with SGLT2 inhibitors**. Neither warning states that an increased amputation risk was established specifically for empagliflozin or dapagliflozin. [jardiance_1] [forxiga_1]",
       "expected_points": [
         "Both passages state that an increase in lower limb amputations, primarily involving the toe, has been observed in long-term clinical studies involving SGLT2 inhibitor treatment.",
         "The Forxiga passage describes the observation as occurring in long-term clinical studies in type 2 diabetes mellitus with SGLT2 inhibitors.",
@@ -379,24 +381,20 @@
         "Both passages emphasize routine preventative foot care for patients with diabetes.",
         "Neither passage establishes that Jardiance or Forxiga itself has a greater lower limb amputation risk than the other."
       ],
-      "coverage": 0.3333333333333333,
+      "coverage": 1.0,
       "judgment": {
         "covered_points": [
-          2,
-          5
-        ],
-        "missing_points": [
           0,
           1,
+          2,
           3,
-          4
+          4,
+          5
         ],
-        "contradictions": [
-          "The answer says the Forxiga evidence contains no lower-limb amputation warning, but the expected Forxiga passage reports increased amputations, primarily of the toe, in long-term type 2 diabetes studies with SGLT2 inhibitors.",
-          "The answer says no corresponding Forxiga class-effect statement or preventive foot-care advice is present, whereas the Forxiga passage includes both."
-        ],
+        "missing_points": [],
+        "contradictions": [],
         "unsupported_claims": [],
-        "summary": "The Jardiance warning and the lack of evidence for a direct comparative risk are accurately described. However, the answer incorrectly states that the Forxiga passages contain no amputation warning, omitting and contradicting Forxiga's observation, unknown-class-effect language, and preventive foot-care advice."
+        "summary": "The answer accurately covers both warnings, including the toe-predominant amputations observed in long-term studies, the distinct Jardiance and Forxiga wording, uncertainty about a class effect, preventive foot-care advice, and the absence of an established comparative risk between the two medicines."
       }
     },
     {
@@ -404,7 +402,7 @@
       "section": "4.5",
       "topic": "Pharmacodynamic interactions with diuretics, insulin, and insulin secretagogues",
       "question": "Compare the pharmacodynamic interactions of Jardiance and Forxiga with diuretics, insulin, and insulin secretagogues.",
-      "answer": "### Diuretics\n- **Jardiance (empagliflozin)** and **Forxiga (dapagliflozin)** may both add to the diuretic effect of thiazide and loop diuretics, potentially increasing the risk of dehydration and hypotension. [jardiance_1] [forxiga_1]\n\n### Insulin and insulin secretagogues\n- With **Jardiance**, insulin and insulin secretagogues such as sulphonylureas may increase the risk of hypoglycaemia. A lower dose of insulin or the secretagogue may therefore be required when used with empagliflozin. [jardiance_1]\n- With **Forxiga**, insulin and insulin secretagogues such as sulphonylureas cause hypoglycaemia; a lower dose may be required to reduce this risk when combined with dapagliflozin **in patients with type 2 diabetes mellitus**. [forxiga_1]\n\n**Overall:** The pharmacodynamic interaction advice is essentially the same for both medicines. The main wording difference is that Forxiga’s dose-reduction recommendation is explicitly limited to patients with type 2 diabetes mellitus in the cited SmPC text. [jardiance_1] [forxiga_1]",
+      "answer": "### Comparison of pharmacodynamic interactions\n\n| Concomitant medicine | Jardiance (empagliflozin) | Forxiga (dapagliflozin) |\n|---|---|---|\n| **Thiazide or loop diuretics** | May add to their diuretic effect, potentially increasing the risk of dehydration and hypotension. [jardiance_1] | Same interaction: may add to their diuretic effect and increase the risk of dehydration and hypotension. [forxiga_1] |\n| **Insulin or insulin secretagogues (e.g., sulphonylureas)** | These agents may increase the risk of hypoglycaemia; a lower insulin or secretagogue dose may therefore be required when combined with empagliflozin. [jardiance_1] | These agents cause hypoglycaemia; a lower insulin or secretagogue dose may be required to reduce hypoglycaemia risk when combined with dapagliflozin **in patients with type 2 diabetes mellitus**. [forxiga_1] |\n\n**Overall:** The interactions are essentially the same. Both medicines can enhance thiazide/loop diuresis and can require reduction of concomitant insulin or insulin-secretagogue doses because of hypoglycaemia risk. The notable wording difference is that Forxiga’s dose-reduction advice is explicitly limited in the cited SmPC text to patients with type 2 diabetes mellitus, whereas Jardiance’s statement is not similarly qualified. [jardiance_1] [forxiga_1]",
       "expected_points": [
         "Both Jardiance and Forxiga may add to the diuretic effect of thiazide and loop diuretics.",
         "For both medicines, concomitant use with thiazide or loop diuretics may increase the risk of dehydration and hypotension.",
@@ -426,7 +424,7 @@
         "missing_points": [],
         "contradictions": [],
         "unsupported_claims": [],
-        "summary": "The answer accurately covers the additive diuretic effects and associated dehydration and hypotension risks for both medicines, as well as hypoglycaemia risk and possible dose reduction with insulin or insulin secretagogues. It also correctly notes the type 2 diabetes limitation in the Forxiga wording and concludes that there is no clinically substantive difference between the described interactions."
+        "summary": "The answer accurately covers all expected pharmacodynamic interactions and preserves the Forxiga-specific type 2 diabetes qualification. It appropriately concludes that there is no clinically substantive difference between the medicines for these interactions."
       }
     },
     {
@@ -434,7 +432,7 @@
       "section": "4.5",
       "topic": "Pharmacokinetic interactions and metabolism",
       "question": "Compare the pharmacokinetic interaction information for Jardiance and Forxiga, including their metabolism and the interaction mechanisms described in the SmPC passages.",
-      "answer": "### Metabolism\n\n- **Jardiance (empagliflozin):** Primarily metabolised by glucuronidation through **UGT2B7, UGT1A3, UGT1A8 and UGT1A9**. No major plasma metabolite was identified; the main metabolites are three glucuronide conjugates, each representing less than 10% of total drug-related material. Empagliflozin is also a substrate of **OAT3, OATP1B1, OATP1B3, P-gp and BCRP**, but not OAT1 or OCT2. [jardiance_1] [jardiance_2]\n- **Forxiga (dapagliflozin):** Extensively metabolised, mainly to inactive **dapagliflozin 3-O-glucuronide**, formed by **UGT1A9** in the liver and kidney. CYP-mediated metabolism is only a minor clearance pathway. [forxiga_2]\n\nThus, both medicines undergo UGT-mediated glucuronidation, but the cited passages identify several UGT enzymes for empagliflozin versus predominantly UGT1A9 for dapagliflozin. [jardiance_1] [jardiance_2] [forxiga_2]\n\n### Pharmacokinetic interactions and mechanisms\n\n**Jardiance**\n\n- The UGT/OAT3 inhibitor **probenecid** increased empagliflozin Cmax by 26% and AUC by 53%; this was not considered clinically meaningful. [jardiance_1]\n- The OAT3 and OATP1B1/1B3 inhibitor **gemfibrozil** increased Cmax by 15% and AUC by 59%, while OATP1B1/1B3 inhibition with **rifampicin** increased Cmax by 75% and AUC by 35%; neither change was considered clinically meaningful. [jardiance_1]\n- **Verapamil**, a P-gp inhibitor, did not meaningfully alter exposure, indicating no clinically relevant effect from P-gp inhibition. [jardiance_1]\n- The effect of **UGT induction** has not been studied. Co-treatment with known UGT inducers such as rifampicin or phenytoin is not recommended because of a potential reduction in efficacy; if unavoidable, glycaemic control should be monitored. [jardiance_1]\n- Empagliflozin pharmacokinetics were not influenced by the listed co-medications, including metformin, several glucose-lowering agents, warfarin, ramipril, simvastatin and selected diuretics. In vitro, empagliflozin did not inhibit, inactivate or induce CYP450 isoforms and did not inhibit the listed UGT enzymes. [jardiance_1]\n- Empagliflozin may increase **renal lithium excretion**, potentially lowering blood lithium concentrations; more frequent serum lithium monitoring is advised after initiation or dose changes. [jardiance_1]\n\n**Forxiga**\n\n- The available passage states that an increase in **simvastatin and simvastatin-acid exposure** was not considered clinically relevant, but it does not provide the magnitude or interaction mechanism. [forxiga_1]\n- It also describes interference with the **1,5-anhydroglucitol assay**: measurements are unreliable during SGLT2-inhibitor treatment, so another method of monitoring glycaemic control is advised. This is an assay interference rather than a pharmacokinetic drug interaction. [forxiga_1]\n- Interaction studies were performed only in adults. [forxiga_1]\n\nOverall, the supplied Jardiance evidence gives detailed transporter- and UGT-based interaction mechanisms. The supplied Forxiga evidence establishes UGT1A9-dominant metabolism but is insufficient for a similarly comprehensive comparison of its pharmacokinetic drug-interaction profile because most of its section 4.5 interaction information is not included.",
+      "answer": "### Metabolism\n\n- **Jardiance (empagliflozin):** Primarily metabolised by glucuronidation through several UGT enzymes—UGT2B7, UGT1A3, UGT1A8 and UGT1A9. No major plasma metabolite was identified; the principal metabolites are 2-, 3- and 6-O-glucuronides, each representing less than 10% of total drug-related material. Empagliflozin is also a substrate of OAT3, OATP1B1, OATP1B3, P-gp and BCRP, but not OAT1 or OCT2. [jardiance_1] [jardiance_2]\n- **Forxiga (dapagliflozin):** Extensively metabolised mainly by UGT1A9-mediated glucuronidation to inactive dapagliflozin 3-O-glucuronide; CYP-mediated metabolism is a minor clearance pathway. [forxiga_1] [forxiga_3]\n\nThus, both medicines are cleared mainly through glucuronidation, but dapagliflozin is principally linked to **UGT1A9**, whereas empagliflozin involves **multiple UGT enzymes** and has more explicitly described transporter pathways.\n\n### Effects of other medicines\n\n**Jardiance**\n\n- Probenecid, through inhibition of UGT enzymes and OAT3, increased empagliflozin Cmax by 26% and AUC by 53%; this was not clinically meaningful. [jardiance_1]\n- Gemfibrozil, an OAT3/OATP1B1/1B3 inhibitor, increased Cmax by 15% and AUC by 59%; rifampicin-mediated OATP1B1/1B3 inhibition increased Cmax by 75% and AUC by 35%. Neither change was considered clinically meaningful. [jardiance_1]\n- P-gp inhibition with verapamil had no clinically relevant effect. [jardiance_1]\n- UGT induction has not been studied. Because of a potential decrease in efficacy, co-treatment with known UGT inducers such as rifampicin or phenytoin is not recommended; if unavoidable, glycaemic response should be monitored. [jardiance_1]\n- Empagliflozin pharmacokinetics were not affected by metformin, glimepiride, pioglitazone, sitagliptin, linagliptin, warfarin, verapamil, ramipril, simvastatin, torasemide or hydrochlorothiazide. [jardiance_1]\n\n**Forxiga**\n\n- Rifampicin, described as an inducer of active transporters and drug-metabolising enzymes, reduced dapagliflozin AUC by 22%, without a clinically meaningful effect on 24-hour urinary glucose excretion; no dose adjustment is recommended. Clinically relevant effects from other inducers such as carbamazepine, phenytoin or phenobarbital are not expected. [forxiga_1]\n- Mefenamic acid, a UGT1A9 inhibitor, increased dapagliflozin AUC by 55%, again without a clinically meaningful effect on urinary glucose excretion; no dose adjustment is recommended. [forxiga_1]\n- Dapagliflozin pharmacokinetics were not altered by metformin, pioglitazone, sitagliptin, glimepiride, voglibose, hydrochlorothiazide, bumetanide, valsartan or simvastatin. [forxiga_1]\n\nA key difference is that the Jardiance SmPC advises against known UGT inducers because their effect has not been studied and reduced efficacy is possible, whereas the Forxiga SmPC reports a rifampicin study and does not recommend dose adjustment. [jardiance_1] [forxiga_1]\n\n### Effects on other medicines\n\n- **Jardiance:** In vitro, empagliflozin does not inhibit, inactivate or induce CYP450 isoforms and does not inhibit UGT1A1, UGT1A3, UGT1A8, UGT1A9 or UGT2B7. [jardiance_1]\n- **Forxiga:** Dapagliflozin neither inhibited CYP1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2D6 or 3A4, nor induced CYP1A2, 2B6 or 3A4; it is therefore not expected to alter clearance of medicines metabolised by these enzymes. [forxiga_1]\n- Dapagliflozin did not materially alter the pharmacokinetics of several tested medicines, including digoxin and warfarin. It increased simvastatin AUC by 19% and simvastatin-acid AUC by 31%, but these increases were not clinically relevant. [forxiga_1]\n- Both empagliflozin and dapagliflozin may increase renal lithium excretion and reduce blood lithium concentrations; more frequent lithium monitoring is advised after initiation and dose changes. [jardiance_1] [forxiga_1]\n\nThe supplied Jardiance passage is truncated after its in-vitro UGT findings, so it is insufficient to provide a complete comparison of all studied effects of empagliflozin on coadministered medicines.",
       "expected_points": [
         "Both dapagliflozin and empagliflozin are described as undergoing glucuronidation involving UDP-glucuronosyltransferase enzymes.",
         "Dapagliflozin metabolism is described as occurring primarily through glucuronide conjugation mediated by UGT1A9.",
@@ -447,25 +445,24 @@
         "The Jardiance passage states that empagliflozin is a substrate of P-glycoprotein and breast cancer resistance protein.",
         "The provided passages describe different aspects of pharmacokinetic interactions and do not by themselves support a conclusion that either medicine has a greater overall pharmacokinetic interaction potential."
       ],
-      "coverage": 0.7,
+      "coverage": 1.0,
       "judgment": {
         "covered_points": [
           0,
           1,
           2,
           3,
+          4,
+          5,
+          6,
           7,
           8,
           9
         ],
-        "missing_points": [
-          4,
-          5,
-          6
-        ],
+        "missing_points": [],
         "contradictions": [],
         "unsupported_claims": [],
-        "summary": "The answer accurately compares UGT-mediated glucuronidation, identifies UGT1A9 as common to both medicines, and covers empagliflozin's OAT/OATP, P-gp, and BCRP substrate status. It appropriately avoids concluding that either medicine has greater overall interaction potential. However, it omits the Forxiga statements that dapagliflozin does not inhibit the specified CYP enzymes, does not induce CYP1A2, CYP2B6, or CYP3A4, and is therefore not expected to alter the metabolic clearance of medicines metabolised by those enzymes."
+        "summary": "The answer accurately covers both medicines’ UGT-mediated glucuronidation, the specific UGT enzymes involved, dapagliflozin’s CYP inhibition and induction findings, and empagliflozin’s transporter substrate profile. It appropriately describes differences in the available interaction information without concluding that either medicine has greater overall pharmacokinetic interaction potential."
       }
     },
     {
@@ -473,7 +470,7 @@
       "section": "4.5",
       "topic": "Effects of other medicinal products on dapagliflozin and empagliflozin",
       "question": "Compare the effects of other medicinal products on the pharmacokinetics of Jardiance and Forxiga.",
-      "answer": "### Jardiance (empagliflozin)\n\nOther medicines have shown the following effects on empagliflozin pharmacokinetics:\n\n- **Probenecid** increased empagliflozin **Cmax by 26%** and **AUC by 53%**; these changes were not clinically meaningful. [jardiance_1]\n- **Gemfibrozil** increased **Cmax by 15%** and **AUC by 59%**, also without clinically meaningful effect. [jardiance_1]\n- **Rifampicin**, through OATP1B1/1B3 inhibition, increased **Cmax by 75%** and **AUC by 35%**; these changes were not clinically meaningful. [jardiance_1]\n- **Verapamil**, a P-gp inhibitor, did not produce a clinically relevant change in exposure. [jardiance_1]\n- Empagliflozin pharmacokinetics were not influenced by co-administration with **metformin, glimepiride, pioglitazone, sitagliptin, linagliptin, warfarin, ramipril, simvastatin, torasemide, hydrochlorothiazide, or verapamil**. [jardiance_1]\n- The effect of **UGT inducers**, such as rifampicin or phenytoin, has not been studied. Because of a potential reduction in efficacy, co-treatment with known UGT inducers is not recommended; if unavoidable, glycaemic control should be monitored. [jardiance_1]\n\n### Forxiga (dapagliflozin)\n\nDapagliflozin is metabolised mainly by **UGT1A9** to inactive dapagliflozin 3-O-glucuronide, while CYP-mediated metabolism is a minor clearance pathway. [forxiga_1] However, the supplied evidence does not report studies evaluating how other medicinal products affect dapagliflozin exposure or pharmacokinetics.\n\n### Direct comparison\n\nThe available evidence provides quantitative and clinical interaction data for **Jardiance**, showing several increases in empagliflozin exposure that were considered not clinically meaningful, plus an unresolved concern with UGT inducers. [jardiance_1] Equivalent interaction data are not supplied for **Forxiga**, so a direct comparison of the magnitude or clinical significance of other medicines’ effects on the two drugs cannot be completed.",
+      "answer": "### Jardiance (empagliflozin)\n\nOther medicines have the following effects on empagliflozin pharmacokinetics:\n\n- **Probenecid** increased empagliflozin **Cmax by 26%** and **AUC by 53%**; these changes were not considered clinically meaningful. [jardiance_1]\n- **Gemfibrozil** increased **Cmax by 15%** and **AUC by 59%**; these changes were not considered clinically meaningful. [jardiance_1]\n- **Rifampicin**, through OATP1B1/1B3 inhibition, increased **Cmax by 75%** and **AUC by 35%**; these changes were not considered clinically meaningful. [jardiance_1]\n- **Verapamil**, a P-gp inhibitor, did not meaningfully alter empagliflozin exposure. [jardiance_1]\n- Empagliflozin pharmacokinetics were not influenced by co-administration with **metformin, glimepiride, pioglitazone, sitagliptin, linagliptin, warfarin, ramipril, simvastatin, torasemide, or hydrochlorothiazide**. [jardiance_1]\n- The effects of **UGT inducers**, such as rifampicin or phenytoin, have not been studied. Co-treatment is not recommended because of a potential risk of reduced efficacy; if unavoidable, glycaemic response should be monitored. [jardiance_1]\n\n### Forxiga (dapagliflozin)\n\nThe supplied Forxiga evidence does not describe how other medicinal products affect dapagliflozin pharmacokinetics. It only states that interaction studies were performed in adults. [forxiga_2]\n\n**Comparison:** A detailed interaction profile is available for Jardiance, showing several modest exposure increases that were judged not clinically meaningful and no effect from numerous commonly co-administered medicines. The available evidence is insufficient to make a corresponding direct pharmacokinetic comparison with Forxiga.",
       "expected_points": [
         "Interaction studies indicate that several commonly coadministered medicines do not meaningfully alter the pharmacokinetics of either dapagliflozin or empagliflozin.",
         "For dapagliflozin, coadministration with rifampicin decreased systemic exposure measured by AUC by 22%, but this had no clinically meaningful effect on 24-hour urinary glucose excretion and no dose adjustment is recommended.",
@@ -506,11 +503,11 @@
           3,
           11
         ],
-        "contradictions": [
-          "The answer states that interaction studies affecting dapagliflozin exposure were not supplied and that a direct comparison cannot be completed, contrary to the expected rifampicin and mefenamic acid interaction data and associated recommendations."
+        "contradictions": [],
+        "unsupported_claims": [
+          "The answer claims that the available Forxiga evidence does not describe effects of other medicinal products on dapagliflozin pharmacokinetics and is insufficient for comparison, despite the expected evidence detailing interactions with rifampicin and mefenamic acid and expectations for other inducers."
         ],
-        "unsupported_claims": [],
-        "summary": "The empagliflozin interaction findings and UGT-inducer precautions are accurately covered. However, the answer omits all key dapagliflozin interaction findings, including the 22% AUC decrease with rifampicin, the 55% AUC increase with mefenamic acid, the lack of clinically meaningful effect on urinary glucose excretion, and the no-dose-adjustment recommendations. It therefore also misses the requested contrast between the products' recommendations concerning enzyme inducers."
+        "summary": "The empagliflozin interaction effects and UGT-inducer recommendations are accurately covered. However, the answer omits all substantive dapagliflozin interaction findings, including the rifampicin and mefenamic acid AUC changes, their lack of clinically meaningful pharmacodynamic effect, the no-dose-adjustment recommendation, and the expected lack of relevant effects from other listed inducers. It therefore also misses the key comparison between the products' differing inducer recommendations."
       }
     },
     {
@@ -518,7 +515,7 @@
       "section": "4.5",
       "topic": "Effects of dapagliflozin and empagliflozin on other medicinal products",
       "question": "Compare the effects of Jardiance and Forxiga on other medicinal products, including their interactions with lithium and other coadministered medicines.",
-      "answer": "### Jardiance (empagliflozin)\n\n- **Lithium:** Serum lithium concentrations should be monitored more frequently after starting empagliflozin and after empagliflozin dose changes; the patient should be referred to the lithium prescriber for monitoring. The supplied excerpt does not specify the direction or magnitude of any change in lithium concentration. [jardiance_1]\n- **Metabolic enzymes and transporters:** Empagliflozin does not inhibit, inactivate, or induce CYP450 isoforms and does not inhibit the listed UGT enzymes. It also does not inhibit P-gp at therapeutic doses or the uptake transporters OAT3, OATP1B1, and OATP1B3 at clinically relevant concentrations. Interactions with substrates of these pathways are therefore considered unlikely. [jardiance_1]\n- **Digoxin:** Coadministration increased digoxin AUC by 6% and Cmax by 14%, but these changes were not considered clinically meaningful. [jardiance_1]\n- **Other medicines:** Studies in healthy adults found no clinically relevant effect on the pharmacokinetics of metformin, glimepiride, pioglitazone, sitagliptin, linagliptin, simvastatin, warfarin, ramipril, digoxin, diuretics, or oral contraceptives. Interaction studies were performed only in adults. [jardiance_1]\n- When combined with a sulphonylurea and/or insulin, patients should take precautions to avoid hypoglycaemia while driving or using machines. [jardiance_3]\n\n### Forxiga (dapagliflozin)\n\nThe supplied Forxiga evidence does **not** include SmPC section 4.5 or information about lithium, CYP/UGT enzymes, transporters, or effects on the pharmacokinetics of coadministered medicines. Therefore, a direct interaction comparison with Jardiance is not possible from the available evidence.\n\nThe evidence only shows that dapagliflozin has been used as add-on therapy with metformin, glimepiride, metformin plus a sulphonylurea, sitagliptin with or without metformin, insulin, and prolonged-release exenatide, with reported improvements in glucose measures and/or body weight. These findings demonstrate combination use but do not establish absence or presence of pharmacokinetic drug interactions. [forxiga_1]\n\n**Overall:** Detailed interaction information—including lithium-monitoring advice and generally low interaction potential across several enzyme and transporter pathways—is available for Jardiance. Equivalent interaction evidence for Forxiga was not supplied, so no conclusion about comparative interaction risk can be made.",
+      "answer": "### Comparison of interactions\n\n| Interaction | Jardiance (empagliflozin) | Forxiga (dapagliflozin) |\n|---|---|---|\n| **Lithium** | May increase renal lithium excretion and decrease blood lithium concentrations. Serum lithium should be monitored more frequently after starting empagliflozin and after dose changes, in coordination with the lithium prescriber. [jardiance_2] | The supplied evidence is insufficient to determine its interaction with lithium or any monitoring recommendations. |\n| **Diuretics** | May add to the effect of thiazide and loop diuretics, increasing the risk of dehydration and hypotension. [jardiance_2] | Insufficient evidence supplied for comparison. |\n| **Insulin and insulin secretagogues** | Concomitant insulin or sulphonylureas may increase hypoglycaemia risk; a lower dose of insulin or the secretagogue may be required. [jardiance_2] | Insufficient evidence supplied for comparison. |\n| **Other medicines affected by the drug** | Empagliflozin had no clinically relevant effect on the pharmacokinetics of metformin, glimepiride, pioglitazone, sitagliptin, linagliptin, simvastatin, warfarin, ramipril, digoxin, diuretics or oral contraceptives. [jardiance_1] Digoxin AUC increased by 6% and Cmax by 14%, but these changes were not clinically meaningful. [jardiance_1] | The available evidence states that increases in simvastatin and simvastatin-acid exposure were not considered clinically relevant, but provides insufficient detail on other coadministered medicines. [forxiga_1] |\n| **Enzyme/transporter interaction potential** | Empagliflozin does not inhibit, inactivate or induce CYP450 isoforms; does not inhibit the listed UGT isoforms or P-gp at therapeutic doses; and does not inhibit OAT3, OATP1B1 or OATP1B3 at clinically relevant concentrations. Interactions with substrates of these systems are therefore considered unlikely. [jardiance_1] | No corresponding evidence was supplied. |\n| **Effects of other medicines on the drug** | Probenecid, gemfibrozil and rifampicin increased empagliflozin exposure, but the observed changes were not clinically meaningful. Verapamil had no clinically relevant effect. [jardiance_2] Known UGT inducers such as rifampicin or phenytoin are not recommended because of a potential reduction in efficacy; if unavoidable, glycaemic response should be monitored. [jardiance_2] | No corresponding evidence was supplied. |\n\nFor Forxiga, the 1,5-anhydroglucitol assay is unreliable for monitoring glycaemic control during treatment, so alternative monitoring methods are advised. [forxiga_1]\n\nFor both medicines, the supplied SmPC evidence states that interaction studies were performed only in adults. [jardiance_1] [forxiga_1]",
       "expected_points": [
         "Both dapagliflozin and empagliflozin may increase renal lithium excretion and thereby decrease blood lithium concentrations.",
         "For both medicines, serum lithium concentrations should be monitored more frequently after initiation and after dose changes.",
@@ -534,7 +531,7 @@
         "The Jardiance passage states that empagliflozin had no clinically relevant effect on the pharmacokinetics of the listed coadministered medicines, including metformin, glimepiride, pioglitazone, sitagliptin, simvastatin, warfarin, and digoxin.",
         "The provided passages do not establish that either medicine has a greater overall drug-drug interaction potential than the other."
       ],
-      "coverage": 0.5384615384615384,
+      "coverage": 0.46153846153846156,
       "judgment": {
         "covered_points": [
           6,
@@ -542,8 +539,7 @@
           8,
           9,
           10,
-          11,
-          12
+          11
         ],
         "missing_points": [
           0,
@@ -551,14 +547,15 @@
           2,
           3,
           4,
-          5
+          5,
+          12
         ],
         "contradictions": [
-          "The answer states that the supplied Forxiga evidence lacks lithium and coadministered-medicine interaction information, whereas the expected Forxiga passage provides lithium-monitoring advice and multiple pharmacokinetic interaction findings.",
-          "The answer says the Jardiance excerpt does not specify the direction of the lithium change, whereas the expected information states that empagliflozin may increase renal lithium excretion and decrease blood lithium concentrations."
+          "The answer says the supplied evidence is insufficient to determine Forxiga's lithium interaction and monitoring recommendations, whereas dapagliflozin may increase renal lithium excretion and requires more frequent serum lithium monitoring after initiation and dose changes, coordinated with the lithium prescriber.",
+          "The answer says insufficient detail was supplied for Forxiga's effects on other coadministered medicines, although the passage provides specific interaction-study results for multiple medicines."
         ],
         "unsupported_claims": [],
-        "summary": "The Jardiance enzyme, transporter, digoxin, and coadministered-medicine points are accurately covered, and the answer appropriately avoids claiming that either drug has greater overall interaction potential. However, it omits essentially all expected Forxiga interaction information and the shared mechanism of increased renal lithium excretion with reduced lithium concentrations."
+        "summary": "The Jardiance enzyme, transporter, digoxin, and coadministered-medicine points are covered well. The answer omits or incorrectly characterizes the available Forxiga evidence, especially the lithium recommendations, the listed pharmacokinetic studies, warfarin INR findings, and the quantitative simvastatin AUC increases. It also does not explicitly state that the passages establish no overall interaction-potential advantage for either medicine."
       }
     },
     {
@@ -566,7 +563,7 @@
       "section": "4.6",
       "topic": "Pregnancy",
       "question": "Compare the recommendations for the use of Jardiance and Forxiga during pregnancy.",
-      "answer": "- **Jardiance (empagliflozin):** As a precaution, it is preferable to avoid use **throughout pregnancy**. There are no human pregnancy data; animal studies found adverse effects on postnatal development. [jardiance_1]\n\n- **Forxiga (dapagliflozin):** Use is **not recommended during the second and third trimesters**, based on rat findings of toxicity to the developing kidney. If pregnancy is detected, dapagliflozin treatment should be discontinued. [forxiga_1]\n\n**Key difference:** Jardiance carries a general precaution to avoid it during pregnancy, whereas Forxiga specifically advises against use in the second and third trimesters and requires discontinuation once pregnancy is detected. Both lack data from pregnant women. [jardiance_1] [forxiga_1]",
+      "answer": "- **Jardiance (empagliflozin):** As a precaution, it is preferable to avoid use **throughout pregnancy**. There are no data in pregnant women; animal studies found adverse effects on postnatal development. [jardiance_1]\n\n- **Forxiga (dapagliflozin):** Use is **not recommended during the second and third trimesters**, based on rat findings of toxicity to the developing kidney. If pregnancy is detected, dapagliflozin treatment should be discontinued. [forxiga_1]\n\n**Key difference:** Jardiance carries a general recommendation to avoid use during pregnancy, whereas Forxiga explicitly identifies the second and third trimesters and directs discontinuation once pregnancy is detected. Both lack pregnancy data in women. [jardiance_1] [forxiga_1]",
       "expected_points": [
         "There are no data from the use of either dapagliflozin or empagliflozin in pregnant women.",
         "Forxiga is not recommended during the second and third trimesters of pregnancy.",
@@ -594,10 +591,8 @@
           5
         ],
         "contradictions": [],
-        "unsupported_claims": [
-          "The phrase that Forxiga \"requires discontinuation\" overstates the source wording that treatment \"should be discontinued\" when pregnancy is detected."
-        ],
-        "summary": "The answer accurately compares the pregnancy recommendations and covers the absence of human data, Forxiga's second- and third-trimester restriction, rat kidney toxicity, discontinuation advice, and Jardiance's precautionary avoidance and postnatal animal findings. It omits the Jardiance findings on very limited placental transfer in late gestation and lack of harmful effects on early embryonic development."
+        "unsupported_claims": [],
+        "summary": "The answer accurately compares the pregnancy recommendations and includes the lack of human data, Forxiga's developing-kidney toxicity findings and discontinuation advice, and Jardiance's postnatal-development findings. It omits that empagliflozin crosses the placenta to a very limited extent in late gestation and that animal studies did not show harmful effects on early embryonic development."
       }
     },
     {
@@ -605,7 +600,7 @@
       "section": "4.6",
       "topic": "Breast-feeding",
       "question": "Compare the recommendations for the use of Jardiance and Forxiga during breast-feeding.",
-      "answer": "Both medicines **should not be used during breast-feeding**, because a risk to the newborn or infant cannot be excluded. [jardiance_1] [forxiga_1]\n\n- **Jardiance (empagliflozin):** No human data are available on excretion into breast milk, but animal data show that empagliflozin is excreted in milk. [jardiance_1]\n- **Forxiga (dapagliflozin):** It is unknown whether dapagliflozin or its metabolites are excreted in human milk. Animal data show excretion into milk and pharmacologically mediated effects in nursing offspring. [forxiga_1]\n\nThus, the clinical recommendation is the same, although the animal evidence described for Forxiga additionally includes effects in nursing offspring.",
+      "answer": "- **Jardiance (empagliflozin):** Should not be used during breast-feeding. Human milk-excretion data are unavailable; animal data show empagliflozin is excreted in milk, and risk to the newborn/infant cannot be excluded. [jardiance_1]\n- **Forxiga (dapagliflozin):** Should not be used while breast-feeding. It is unknown whether dapagliflozin or its metabolites enter human milk; animal data show milk excretion and pharmacologically mediated effects in nursing offspring, so risk to the newborn/infant cannot be excluded. [forxiga_1]\n\n**Comparison:** The recommendation is the same for both medicines: **do not use during breast-feeding**. Forxiga’s SmPC additionally reports animal evidence of effects in nursing offspring. [jardiance_1] [forxiga_1]",
       "expected_points": [
         "Human data on excretion into breast milk are unavailable for both dapagliflozin and empagliflozin.",
         "For dapagliflozin, it is unknown whether dapagliflozin and/or its metabolites are excreted in human milk.",
@@ -634,7 +629,7 @@
         ],
         "contradictions": [],
         "unsupported_claims": [],
-        "summary": "The answer accurately states that human excretion data are unavailable, animal data show milk excretion, risk to infants cannot be excluded, and both medicines should not be used during breast-feeding. It also notes effects in nursing offspring for Forxiga, but does not explicitly state that dapagliflozin metabolites were excreted in animal milk."
+        "summary": "The answer accurately states that human milk-excretion data are unavailable, animal milk excretion occurs, infant risk cannot be excluded, and both medicines should not be used during breast-feeding. It also correctly notes pharmacologically mediated effects in nursing offspring for Forxiga, but does not explicitly state that dapagliflozin metabolites were also excreted in animal milk."
       }
     },
     {
@@ -642,7 +637,7 @@
       "section": "4.6",
       "topic": "Fertility",
       "question": "Compare the fertility information for Jardiance and Forxiga.",
-      "answer": "- **Jardiance (empagliflozin):** No studies have evaluated its effect on fertility in humans. Animal studies found no direct or indirect harmful effects on fertility. [jardiance_1]\n- **Forxiga (dapagliflozin):** Its effect on human fertility has likewise not been studied. In male and female rats, no effects on fertility were observed at any dose tested. [forxiga_2]\n\n**Comparison:** The fertility information is broadly similar: neither medicine has human fertility data, while animal studies did not indicate impaired fertility. Forxiga’s SmPC is more specific, stating that both male and female rats were unaffected at all tested doses. [jardiance_1] [forxiga_2]",
+      "answer": "- **Human fertility:** Neither Jardiance (empagliflozin) nor Forxiga (dapagliflozin) has been studied for effects on fertility in humans. [jardiance_1] [forxiga_2]\n- **Animal findings:**  \n  - For **Jardiance**, animal studies showed no direct or indirect harmful effects on fertility; no adverse effects on fertility or early embryonic development occurred at exposures sufficiently above therapeutic human exposure. [jardiance_1] [jardiance_2]\n  - For **Forxiga**, no effects on fertility were observed in male or female rats at any dose tested. [forxiga_2]\n\n**Overall:** The fertility information is similar: human effects are unknown because no human fertility studies have been conducted, while animal studies did not indicate impaired fertility for either medicine. [jardiance_1] [forxiga_2]",
       "expected_points": [
         "The effect of dapagliflozin on fertility in humans has not been studied.",
         "No studies on the effect of Jardiance on human fertility have been conducted.",
@@ -666,7 +661,7 @@
         "missing_points": [],
         "contradictions": [],
         "unsupported_claims": [],
-        "summary": "The answer accurately covers the absence of human fertility studies for both medicines, the reassuring animal fertility findings for empagliflozin and dapagliflozin, and the lack of a clinically substantive difference between them."
+        "summary": "The answer accurately covers the lack of human fertility studies for both medicines, the absence of adverse fertility findings in animal studies, and the conclusion that no clinically substantive difference is apparent."
       }
     },
     {
@@ -674,7 +669,7 @@
       "section": "4.7",
       "topic": "Effects on ability to drive and use machines",
       "question": "Compare the effects of Jardiance and Forxiga on the ability to drive and use machines.",
-      "answer": "- **Jardiance (empagliflozin):** Has a **minor influence** on the ability to drive and use machines. Patients should take precautions to avoid hypoglycaemia, particularly when it is combined with a sulphonylurea and/or insulin. [jardiance_1]\n- **Forxiga (dapagliflozin):** Has **no or negligible influence** on the ability to drive and use machines. Patients should nevertheless be alert to hypoglycaemia when it is combined with a sulphonylurea or insulin. [forxiga_1]\n\n**Comparison:** Forxiga is described as having less influence on driving and machine use than Jardiance. Both carry a driving-related precaution concerning hypoglycaemia when used with a sulphonylurea or insulin. [jardiance_1] [forxiga_1]",
+      "answer": "- **Jardiance (empagliflozin):** Has a **minor influence** on the ability to drive and use machines. Patients should take precautions to avoid hypoglycaemia, particularly when it is combined with a sulphonylurea and/or insulin. [jardiance_1]\n- **Forxiga (dapagliflozin):** Has **no or negligible influence** on the ability to drive and use machines. Patients should nevertheless be alert to hypoglycaemia when it is combined with a sulphonylurea or insulin. [forxiga_1]\n\n**Comparison:** Jardiance is described as having slightly more potential influence on driving and machine use than Forxiga. Both require attention to the risk of hypoglycaemia when used with sulphonylureas or insulin. [jardiance_1] [forxiga_1]",
       "expected_points": [
         "Forxiga is described as having no or negligible influence on the ability to drive and use machines.",
         "Jardiance is described as having minor influence on the ability to drive and use machines.",
@@ -696,7 +691,7 @@
         "missing_points": [],
         "contradictions": [],
         "unsupported_claims": [],
-        "summary": "The answer accurately covers both medicines’ formal influence classifications and the hypoglycaemia-related precautions, including their relevance when combined with a sulphonylurea or insulin."
+        "summary": "The answer accurately states each medicine's formal influence on driving and machine use, includes the relevant hypoglycaemia precautions with sulphonylureas or insulin, and correctly contrasts Forxiga's no or negligible influence with Jardiance's minor influence."
       }
     },
     {
@@ -704,7 +699,7 @@
       "section": "4.8",
       "topic": "Safety profile in type 2 diabetes mellitus",
       "question": "Compare the safety profiles of Jardiance and Forxiga in patients with type 2 diabetes mellitus based on the provided SmPC passages.",
-      "answer": "### Overall safety\n\n- **Jardiance (empagliflozin):** In six 18–24-week placebo-controlled trials, the overall incidence of adverse events was similar to placebo. The most frequently reported adverse reaction was hypoglycaemia when empagliflozin was combined with a sulphonylurea or insulin. [jardiance_1]\n- **Forxiga (dapagliflozin):** Across its clinical studies, the most frequently reported adverse reactions were genital infections. The supplied passage does not state that its overall adverse-event incidence was similar to placebo. [forxiga_1]\n\n### Important adverse effects\n\n| Safety issue | Jardiance | Forxiga |\n|---|---|---|\n| **Genital infections** | Vaginal moniliasis, vulvovaginitis, balanitis and other genital infections are listed adverse reactions. [jardiance_1] | Genital infections were the most frequently reported adverse reactions across clinical studies. [forxiga_1] |\n| **Hypoglycaemia** | Very common when used with a sulphonylurea or insulin and the most frequently reported reaction in that combination setting. [jardiance_1] | The supplied evidence does not provide corresponding hypoglycaemia data. |\n| **Urinary tract infection (UTI)** | UTI, including pyelonephritis and urosepsis, is listed as an adverse reaction. [jardiance_1] | UTIs occurred more often with dapagliflozin than placebo in the 13-study pool: 4.7% versus 3.5%. Most were mild to moderate, rarely caused discontinuation, were more frequent in women, and were more likely to recur in patients with a prior history. In DECLARE, serious UTIs were less frequent with dapagliflozin than placebo: 0.9% versus 1.3%. [forxiga_2] |\n| **Ketoacidosis** | Ketoacidosis is listed as an adverse reaction. [jardiance_1] | DKA events occurred in dapagliflozin studies; among 27 dapagliflozin-treated patients with DKA in the partially reported dataset, 22 were receiving concomitant insulin. DKA was also reported in dapagliflozin-treated patients with type 2 diabetes in DAPA-HF and DELIVER. [forxiga_2] |\n| **Volume depletion** | Volume depletion is listed as an adverse reaction. [jardiance_1] | The supplied passages describe osmotic diuresis and an average increase in urinary volume of approximately 375 mL/day, but do not provide a type 2 diabetes adverse-reaction rate for volume depletion. [forxiga_3] |\n| **Other listed reactions** | Thirst, constipation, pruritus, rash, urticaria, angioedema, dysuria and rare necrotising fasciitis of the perineum (Fournier’s gangrene) are included in the supplied adverse-reaction table. [jardiance_1] | Corresponding adverse-reaction information is not included in the supplied Forxiga passages. |\n\n### Interpretation\n\nBoth medicines have safety concerns involving **genital infections, UTIs and ketoacidosis**, based on the supplied passages. Jardiance additionally has explicit evidence highlighting **hypoglycaemia with sulphonylurea or insulin**, whereas genital infections are the leading reported adverse reaction for Forxiga. [jardiance_1] [forxiga_1] Direct comparative rates cannot be established because these are not head-to-head data and the supplied passages provide different levels of detail for each medicine.",
+      "answer": "### Safety comparison in type 2 diabetes\n\n- **Overall evidence base:** Both medicines have safety data from more than 15,000 patients with type 2 diabetes. Jardiance was evaluated in 15,582 patients, including 10,004 exposed to empagliflozin; Forxiga had more than 15,000 dapagliflozin-treated patients, with additional long-term data from DECLARE [jardiance_1] [forxiga_1].\n\n- **Overall adverse-event burden:** In six short-term placebo-controlled Jardiance trials, the overall incidence of adverse events was similar to placebo [jardiance_1]. The supplied Forxiga passage does not provide an equivalent overall adverse-event comparison, so this aspect cannot be directly compared.\n\n- **Most frequent adverse reaction:**\n  - **Jardiance:** Hypoglycaemia was most frequently reported when empagliflozin was used with a sulphonylurea or insulin [jardiance_1].\n  - **Forxiga:** Genital infections were the most frequently reported adverse reactions across clinical studies [forxiga_1].\n\n- **Genital and urinary infections:** Genital infections and urinary tract infections, including pyelonephritis and urosepsis, are listed adverse reactions for Jardiance [jardiance_1]. With Forxiga, urinary tract infections occurred more often than with placebo in the 13-study pool (4.7% versus 3.5%); most were mild to moderate, rarely led to discontinuation, and were more frequent in females and patients with prior urinary infections [forxiga_3]. In DECLARE, however, serious urinary tract infections were less frequent with Forxiga than placebo (0.9% versus 1.3%) [forxiga_3]. Comparable numerical UTI rates are not supplied for Jardiance.\n\n- **Ketoacidosis:** Ketoacidosis is listed for Jardiance [jardiance_1]. DKA was also reported with Forxiga; among 27 dapagliflozin-treated patients with DKA events in the described dataset, 22 were receiving concomitant insulin. DKA events also occurred in dapagliflozin-treated patients with type 2 diabetes in DAPA-HF and DELIVER [forxiga_3]. The excerpts do not allow a reliable comparison of incidence between the two medicines.\n\n- **Other Jardiance-listed risks:** The Jardiance passage additionally lists volume depletion, thirst, constipation, dysuria, pruritus, rash, urticaria, angioedema, and the rare serious infection necrotising fasciitis of the perineum (Fournier’s gangrene) [jardiance_1]. The available Forxiga passages do not address these reactions, so their absence from the supplied evidence should not be interpreted as absence of risk.\n\n**Conclusion:** Both medicines have prominent infection-related safety concerns and evidence of ketoacidosis. The key difference in the supplied summaries is that Jardiance’s most frequent reaction was treatment-dependent hypoglycaemia with sulphonylurea or insulin, whereas Forxiga’s was genital infection [jardiance_1] [forxiga_1]. No head-to-head safety study is provided, and the differing datasets prevent a definitive comparison of relative event rates.",
       "expected_points": [
         "Both safety profiles are supported by clinical study experience involving large numbers of patients with type 2 diabetes mellitus.",
         "Forxiga clinical studies included more than 15,000 patients treated with dapagliflozin.",
@@ -719,27 +714,27 @@
         "The most frequently reported adverse reactions differ in the provided passages: genital infections for Forxiga versus hypoglycaemia when used with a sulphonylurea or insulin for Jardiance.",
         "The provided study populations and study designs are not identical, so the passages do not by themselves support a direct comparison of overall adverse-event incidence or a conclusion that one medicine is safer than the other."
       ],
-      "coverage": 0.4166666666666667,
+      "coverage": 0.6666666666666666,
       "judgment": {
         "covered_points": [
+          0,
+          1,
           5,
+          6,
           8,
           9,
           10,
           11
         ],
         "missing_points": [
-          0,
-          1,
           2,
           3,
           4,
-          6,
           7
         ],
         "contradictions": [],
         "unsupported_claims": [],
-        "summary": "The answer accurately identifies the most frequently reported reactions for each medicine, notes that empagliflozin's overall adverse-event incidence was similar to placebo, and appropriately avoids a direct safety ranking. However, it omits the expected study population, treatment allocation, exposure duration, and patient-year figures for both products."
+        "summary": "The answer accurately describes the large safety evidence bases, total Jardiance enrollment and exposure, similar overall Jardiance adverse-event incidence versus placebo, the differing most frequent adverse reactions, and the limitations of indirect comparison. It omits the detailed pooled Forxiga cohort numbers, DECLARE treatment-group sizes, median exposure and patient-years, and the detailed six-trial Jardiance group sizes."
       }
     },
     {
@@ -747,7 +742,7 @@
       "section": "4.8",
       "topic": "Safety profile in heart failure",
       "question": "Compare the safety profiles of Jardiance and Forxiga in patients with heart failure based on the provided SmPC passages.",
-      "answer": "### Safety in heart failure populations\n\n| Aspect | Jardiance (empagliflozin) | Forxiga (dapagliflozin) |\n|---|---|---|\n| Heart-failure safety database | EMPEROR-Reduced and EMPEROR-Preserved included 3,726 and 5,985 patients, respectively; approximately half had type 2 diabetes. [jardiance_1] | DAPA-HF included 2,368 patients per arm with median exposure of 18 months; DELIVER included 3,126 dapagliflozin and 3,127 placebo patients with median exposure of 27 months. Both included patients with and without type 2 diabetes. [forxiga_1] |\n| Main HF-specific safety finding | In pooled EMPEROR studies, the most frequent adverse reaction was **volume depletion**, occurring in 11.4% with empagliflozin 10 mg versus 9.7% with placebo. [jardiance_1] | No individual adverse reaction or placebo-comparative rate is provided for the HF studies. The SmPC states that the overall HF safety profile was consistent with the known safety profile of dapagliflozin. [forxiga_1] |\n| Overall consistency | The overall empagliflozin safety profile was generally consistent across studied indications. [jardiance_1] | The overall dapagliflozin safety profile in HF was consistent with its known safety profile. [forxiga_1] |\n\n**Conclusion:** Both medicines had safety profiles in heart failure that were described as consistent with their established profiles. For Jardiance, volume depletion was specifically identified as the most frequent HF adverse reaction and was more frequent than with placebo. The provided Forxiga passage does not give corresponding HF-specific adverse-event rates, so a reliable direct comparison of the incidence of volume depletion, genital infections, or other individual adverse reactions—and therefore a conclusion that one medicine is safer—cannot be made from the available evidence. [jardiance_1] [forxiga_1]",
+      "answer": "### Heart-failure safety comparison\n\n- **Overall profile:** Both medicines had heart-failure safety profiles consistent with their established safety profiles. This was reported for dapagliflozin in DAPA-HF and DELIVER and for empagliflozin across its studied indications, including the EMPEROR heart-failure studies. [forxiga_2] [jardiance_1]\n\n- **Volume depletion:** This was the most frequent adverse reaction in the pooled Jardiance EMPEROR studies, occurring in **11.4% with empagliflozin 10 mg versus 9.7% with placebo**. Forxiga also lists volume depletion as an adverse reaction, but the supplied passages provide no heart-failure-specific incidence; therefore, a numerical comparison between the medicines is not possible. [jardiance_1] [forxiga_1]\n\n- **Shared labelled risks:** Both adverse-reaction tables include:\n  - genital infections and urinary tract infections;\n  - hypoglycaemia when used with a sulphonylurea or insulin;\n  - ketoacidosis;\n  - necrotising fasciitis of the perineum (Fournier’s gangrene);\n  - thirst, constipation, rash/angioedema, and dysuria.  \n  [forxiga_1] [jardiance_1]\n\n- **Heart-failure evidence base:** Forxiga was assessed in patients with reduced and preserved/mildly reduced ejection fraction, with or without type 2 diabetes, including patients with baseline eGFR down to **25 mL/min/1.73 m²** in DELIVER. [forxiga_2] Jardiance was assessed in reduced and preserved ejection-fraction heart failure; approximately half had type 2 diabetes, and EMPEROR-Preserved included patients with eGFR down to **20–<30 mL/min/1.73 m²**. [jardiance_1] [jardiance_2]\n\n**Conclusion:** The supplied SmPC evidence suggests broadly similar established safety profiles. Jardiance provides a quantified heart-failure-specific signal for volume depletion, while the Forxiga passages do not provide corresponding heart-failure event rates. Because there is no direct head-to-head safety study or matched adverse-event data in the supplied evidence, it is insufficient to conclude that either medicine is overall safer in heart failure.",
       "expected_points": [
         "The Forxiga heart failure safety information includes the DAPA-HF and DELIVER studies.",
         "In DAPA-HF, 2,368 patients received dapagliflozin 10 mg and 2,368 received placebo, with a median exposure time of 18 months.",
@@ -762,26 +757,27 @@
         "In the pooled EMPEROR studies, volume depletion was reported in 11.4% of patients receiving empagliflozin 10 mg and 9.7% receiving placebo.",
         "The provided passages summarize different heart failure trial programs and do not by themselves support a direct conclusion that one medicine has a safer overall profile than the other."
       ],
-      "coverage": 1.0,
+      "coverage": 0.75,
       "judgment": {
         "covered_points": [
           0,
-          1,
           2,
-          3,
           4,
           5,
           6,
-          7,
           8,
           9,
           10,
           11
         ],
-        "missing_points": [],
+        "missing_points": [
+          1,
+          3,
+          7
+        ],
         "contradictions": [],
         "unsupported_claims": [],
-        "summary": "The answer accurately covers both heart failure trial programs, their patient numbers, diabetes status, exposure durations, overall safety findings, and the EMPEROR volume-depletion rates. It also appropriately avoids concluding that either medicine is safer overall."
+        "summary": "The answer accurately covers the relevant trial programs, diabetes status of the populations, overall dapagliflozin safety conclusion, EMPEROR ejection-fraction groups, approximate diabetes prevalence, volume-depletion findings, and the lack of evidence for declaring either medicine safer overall. It omits the DAPA-HF and DELIVER treatment-group sizes and median exposure durations, as well as the EMPEROR reduced- and preserved-ejection-fraction patient counts."
       }
     }
   ]
