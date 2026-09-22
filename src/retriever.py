@@ -91,6 +91,51 @@ def retrieve_candidates(
     return candidates
 
 
+def retrieve_candidates_per_drug(
+    query: str,
+    chunks: list[dict],
+    embeddings: np.ndarray,
+    model: SentenceTransformer,
+    candidate_k_per_drug: int = CANDIDATE_K,
+) -> list[dict]:
+
+    query_embedding = model.encode(
+        query,
+        normalize_embeddings = True,
+    )
+
+    scores = embeddings @ query_embedding
+
+    candidates = []
+
+    drugs = sorted(set(chunk["drug"] for chunk in chunks))
+
+    for drug in drugs:
+        drug_indices = [
+            index
+            for index, chunk in enumerate(chunks)
+            if chunk["drug"] == drug
+        ]
+
+        ranked_indices = sorted(
+            drug_indices,
+            key = lambda index: scores[index],
+            reverse = True,
+        )
+
+        top_indices = ranked_indices[:candidate_k_per_drug]
+
+        for index in top_indices:
+            candidates.append(
+                {
+                    "chunk": chunks[index],
+                    "bi_score": float(scores[index]),
+                }
+            )
+
+    return candidates
+
+
 def rerank(
     query: str,
     candidates: list[dict],
@@ -156,12 +201,12 @@ def retrieve(
     bi_encoder = get_bi_encoder()
     cross_encoder = get_cross_encoder() 
 
-    candidates = retrieve_candidates(
+    candidates = retrieve_candidates_per_drug(
         query = query,
         chunks = chunks,
         embeddings = embeddings,
         model = bi_encoder,
-        candidate_k = candidate_k,
+        candidate_k_per_drug = candidate_k,
     )
 
     reranked = rerank(
