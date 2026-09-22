@@ -20,3 +20,4 @@ Thumbs.db
 
 # Model/cache files
 .cache/
+.pytest_cache/
