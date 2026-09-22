@@ -1,0 +1,1223 @@
+{
+  "questions": 20,
+  "supported_points": 185,
+  "expected_points": 199,
+  "overall_evidence_coverage": 0.9296482412060302,
+  "results": [
+    {
+      "id": "eval_001",
+      "topic": "Therapeutic indications",
+      "supported_points": 7,
+      "expected_points": 7,
+      "coverage": 1.0,
+      "judgment": {
+        "points": [
+          {
+            "point": 1,
+            "supported": true,
+            "reason": "Both section 4.1 passages explicitly indicate the medicines for treatment of type 2 diabetes mellitus."
+          },
+          {
+            "point": 2,
+            "supported": true,
+            "reason": "Both passages specify adults and children aged 10 years and above for type 2 diabetes mellitus."
+          },
+          {
+            "point": 3,
+            "supported": true,
+            "reason": "Both passages state that the medicine may be used as monotherapy when metformin is considered inappropriate due to intolerance."
+          },
+          {
+            "point": 4,
+            "supported": true,
+            "reason": "Both passages permit use in addition to other medicinal products for diabetes treatment."
+          },
+          {
+            "point": 5,
+            "supported": true,
+            "reason": "Both passages explicitly indicate treatment of symptomatic chronic heart failure in adults."
+          },
+          {
+            "point": 6,
+            "supported": true,
+            "reason": "Both passages explicitly indicate treatment of chronic kidney disease in adults."
+          },
+          {
+            "point": 7,
+            "supported": true,
+            "reason": "The section 4.1 indications are substantively aligned across the supplied passages, with no clinically substantive difference apparent."
+          }
+        ]
+      }
+    },
+    {
+      "id": "eval_002",
+      "topic": "Posology and renal impairment",
+      "supported_points": 14,
+      "expected_points": 14,
+      "coverage": 1.0,
+      "judgment": {
+        "points": [
+          {
+            "point": 1,
+            "supported": true,
+            "reason": "Jardiance section 4.2 states that the recommended starting dose for type 2 diabetes is 10 mg empagliflozin once daily."
+          },
+          {
+            "point": 2,
+            "supported": true,
+            "reason": "Forxiga section 4.2 states that the recommended dose for type 2 diabetes is 10 mg dapagliflozin once daily."
+          },
+          {
+            "point": 3,
+            "supported": true,
+            "reason": "Jardiance may be increased from 10 mg to 25 mg once daily when 10 mg is tolerated, eGFR is at least 60 mL/min/1.73 m2, and tighter glycaemic control is needed."
+          },
+          {
+            "point": 4,
+            "supported": true,
+            "reason": "The Jardiance passage explicitly states that the maximum daily dose is 25 mg."
+          },
+          {
+            "point": 5,
+            "supported": true,
+            "reason": "The supplied Forxiga posology recommends 10 mg once daily and contains no corresponding increase to 25 mg."
+          },
+          {
+            "point": 6,
+            "supported": true,
+            "reason": "Both Jardiance and Forxiga section 4.2 passages recommend 10 mg once daily for heart failure."
+          },
+          {
+            "point": 7,
+            "supported": true,
+            "reason": "Both Jardiance and Forxiga section 4.2 passages recommend 10 mg once daily for chronic kidney disease."
+          },
+          {
+            "point": 8,
+            "supported": true,
+            "reason": "Jardiance initiation is not recommended at eGFR below 20 mL/min/1.73 m2 due to limited experience."
+          },
+          {
+            "point": 9,
+            "supported": true,
+            "reason": "Forxiga initiation is not recommended at GFR below 25 mL/min due to limited experience."
+          },
+          {
+            "point": 10,
+            "supported": true,
+            "reason": "The Jardiance passage specifies a daily empagliflozin dose of 10 mg when eGFR is below 60 mL/min/1.73 m2."
+          },
+          {
+            "point": 11,
+            "supported": true,
+            "reason": "The Forxiga passage explicitly states that no dose adjustment is required based on renal function."
+          },
+          {
+            "point": 12,
+            "supported": true,
+            "reason": "Both passages state that glucose-lowering efficacy in type 2 diabetes is reduced when renal function is below 45 mL/min."
+          },
+          {
+            "point": 13,
+            "supported": true,
+            "reason": "Both passages advise considering additional glucose-lowering treatment below the 45 mL/min renal-function threshold when further glycaemic control is needed."
+          },
+          {
+            "point": 14,
+            "supported": true,
+            "reason": "Jardiance allows consideration of a lower sulphonylurea or insulin dose, while Forxiga allows a lower insulin or insulin-secretagogue dose, including sulphonylureas, to reduce hypoglycaemia risk."
+          }
+        ]
+      }
+    },
+    {
+      "id": "eval_003",
+      "topic": "Hepatic impairment, elderly and paediatric populations, and method of administration",
+      "supported_points": 1,
+      "expected_points": 15,
+      "coverage": 0.06666666666666667,
+      "judgment": {
+        "points": [
+          {
+            "point": 1,
+            "supported": false,
+            "reason": "The evidence does not state that Forxiga requires no dose adjustment in mild or moderate hepatic impairment."
+          },
+          {
+            "point": 2,
+            "supported": false,
+            "reason": "No Forxiga starting dose or dose-escalation recommendation for severe hepatic impairment is provided."
+          },
+          {
+            "point": 3,
+            "supported": false,
+            "reason": "The evidence describes Jardiance pharmacokinetics in hepatic impairment but does not state that no dose adjustment is required."
+          },
+          {
+            "point": 4,
+            "supported": false,
+            "reason": "Increased Jardiance exposure in severe hepatic impairment is supported, but limited therapeutic experience and a recommendation against use are not stated."
+          },
+          {
+            "point": 5,
+            "supported": false,
+            "reason": "Jardiance age-related pharmacokinetics and elderly warnings are provided, but no-age-based dose-adjustment recommendations for both medicines are not established."
+          },
+          {
+            "point": 6,
+            "supported": true,
+            "reason": "The Jardiance evidence states that patients aged 75 years and older may have an increased risk of volume depletion."
+          },
+          {
+            "point": 7,
+            "supported": false,
+            "reason": "Use in type 2 diabetes from age 10 is documented, but dosing information for children aged 10 years and above is not provided for both medicines."
+          },
+          {
+            "point": 8,
+            "supported": false,
+            "reason": "The evidence does not state that no Forxiga dose adjustment is required in children aged 10 years and above with type 2 diabetes."
+          },
+          {
+            "point": 9,
+            "supported": false,
+            "reason": "A Jardiance paediatric study used 10 mg with possible escalation to 25 mg, but the retrieved evidence does not give the full recommended dosing criteria based on tolerance and need for additional glycaemic control."
+          },
+          {
+            "point": 10,
+            "supported": false,
+            "reason": "The evidence does not state that no data are available below 10 years of age for either medicine."
+          },
+          {
+            "point": 11,
+            "supported": false,
+            "reason": "No statement is provided about absence of Jardiance paediatric data in children with eGFR below 60 mL/min/1.73 m2."
+          },
+          {
+            "point": 12,
+            "supported": false,
+            "reason": "Jardiance heart failure and chronic kidney disease indications are limited to adults, but the explicit under-18 safety and efficacy statement is absent, and corresponding Forxiga evidence is not supplied."
+          },
+          {
+            "point": 13,
+            "supported": false,
+            "reason": "Jardiance may be administered with or without food, but the corresponding Forxiga administration information is absent."
+          },
+          {
+            "point": 14,
+            "supported": false,
+            "reason": "The evidence does not provide Forxiga instructions regarding once-daily oral administration, time of day, or swallowing tablets whole."
+          },
+          {
+            "point": 15,
+            "supported": false,
+            "reason": "The evidence does not state that Jardiance tablets should be swallowed whole with water."
+          }
+        ]
+      }
+    },
+    {
+      "id": "eval_004",
+      "topic": "Ketoacidosis warnings and precautions",
+      "supported_points": 18,
+      "expected_points": 18,
+      "coverage": 1.0,
+      "judgment": {
+        "points": [
+          {
+            "point": 1,
+            "supported": true,
+            "reason": "Both SmPCs report ketoacidosis cases, including life-threatening and fatal cases, during SGLT2 inhibitor treatment."
+          },
+          {
+            "point": 2,
+            "supported": true,
+            "reason": "Both state that presentation may be atypical, with blood glucose below 14 mmol/L (250 mg/dL)."
+          },
+          {
+            "point": 3,
+            "supported": true,
+            "reason": "Both list nausea, vomiting, anorexia, abdominal pain, excessive thirst, difficulty breathing, confusion, unusual fatigue, and sleepiness."
+          },
+          {
+            "point": 4,
+            "supported": true,
+            "reason": "Both require immediate assessment for ketoacidosis when suggestive symptoms occur, regardless of blood glucose level."
+          },
+          {
+            "point": 5,
+            "supported": true,
+            "reason": "Both instruct that treatment be stopped or discontinued immediately when ketoacidosis is suspected or diagnosed."
+          },
+          {
+            "point": 6,
+            "supported": true,
+            "reason": "Both recommend interrupting treatment during hospitalisation for major surgery or acute serious medical illness."
+          },
+          {
+            "point": 7,
+            "supported": true,
+            "reason": "Both recommend ketone monitoring during these interruptions and prefer blood ketone measurement over urine measurement."
+          },
+          {
+            "point": 8,
+            "supported": true,
+            "reason": "Both allow treatment to restart when ketone values are normal and the patient's condition has stabilised."
+          },
+          {
+            "point": 9,
+            "supported": true,
+            "reason": "Both report prolonged ketoacidosis and glucosuria and state that ketoacidosis may persist after discontinuation longer than expected from plasma half-life."
+          },
+          {
+            "point": 10,
+            "supported": true,
+            "reason": "Both identify the listed risk factors: low beta-cell reserve or C-peptide, LADA, pancreatitis history, restricted intake, severe dehydration, reduced insulin, and increased insulin needs from illness, surgery, or alcohol abuse."
+          },
+          {
+            "point": 11,
+            "supported": true,
+            "reason": "Both state that SGLT2 inhibitors should be used with caution in higher-risk patients."
+          },
+          {
+            "point": 12,
+            "supported": true,
+            "reason": "Both advise against restarting an SGLT2 inhibitor after treatment-associated ketoacidosis unless another clear precipitating factor is identified and resolved."
+          },
+          {
+            "point": 13,
+            "supported": true,
+            "reason": "Both SmPCs state that the medicine should not be used in patients with type 1 diabetes mellitus."
+          },
+          {
+            "point": 14,
+            "supported": true,
+            "reason": "The Forxiga SmPC explicitly describes reported DKA cases as rare."
+          },
+          {
+            "point": 15,
+            "supported": true,
+            "reason": "The Forxiga SmPC states that DKA was reported with common frequency in type 1 diabetes studies."
+          },
+          {
+            "point": 16,
+            "supported": true,
+            "reason": "The Jardiance SmPC states that ketoacidosis is less likely without diabetes mellitus but that cases have occurred in such patients."
+          },
+          {
+            "point": 17,
+            "supported": true,
+            "reason": "The Jardiance SmPC states that it is unknown whether ketoacidosis is more likely with higher empagliflozin doses."
+          },
+          {
+            "point": 18,
+            "supported": true,
+            "reason": "The Jardiance SmPC reports increased ketoacidosis with common frequency in a type 1 diabetes trial program using empagliflozin 10 mg or 25 mg adjunctive to insulin versus placebo."
+          }
+        ]
+      }
+    },
+    {
+      "id": "eval_005",
+      "topic": "Renal impairment warnings and monitoring",
+      "supported_points": 9,
+      "expected_points": 9,
+      "coverage": 1.0,
+      "judgment": {
+        "points": [
+          {
+            "point": 1,
+            "supported": true,
+            "reason": "Forxiga section 4.4 states that, due to limited experience, dapagliflozin initiation is not recommended when GFR is below 25 mL/min."
+          },
+          {
+            "point": 2,
+            "supported": true,
+            "reason": "Jardiance section 4.4 states that, due to limited experience, empagliflozin initiation is not recommended when eGFR is below 20 mL/min/1.73 m2."
+          },
+          {
+            "point": 3,
+            "supported": true,
+            "reason": "Jardiance section 4.4 specifies a daily empagliflozin dose of 10 mg for patients with eGFR below 60 mL/min/1.73 m2."
+          },
+          {
+            "point": 4,
+            "supported": true,
+            "reason": "The evidence for both medicines states that glucose-lowering efficacy depends on renal function and is reduced below GFR/eGFR 45 mL/min (per 1.73 m2 for Jardiance)."
+          },
+          {
+            "point": 5,
+            "supported": true,
+            "reason": "Forxiga section 4.4 states that dapagliflozin's glucose-lowering efficacy is likely absent in severe renal impairment."
+          },
+          {
+            "point": 6,
+            "supported": true,
+            "reason": "Jardiance section 4.4 states that empagliflozin's glucose-lowering efficacy is likely absent at eGFR below 30 mL/min/1.73 m2."
+          },
+          {
+            "point": 7,
+            "supported": true,
+            "reason": "The Forxiga passage reports that in patients with type 2 diabetes and moderate renal impairment (GFR below 60 mL/min), increased creatinine, phosphorus, PTH, and hypotension occurred in a higher proportion with dapagliflozin than placebo."
+          },
+          {
+            "point": 8,
+            "supported": true,
+            "reason": "Jardiance section 4.4 recommends renal-function assessment before initiation and periodically during treatment, at least yearly."
+          },
+          {
+            "point": 9,
+            "supported": true,
+            "reason": "Jardiance section 4.4 recommends renal-function assessment before initiating any concomitant medicine that may negatively affect renal function."
+          }
+        ]
+      }
+    },
+    {
+      "id": "eval_006",
+      "topic": "Risk of volume depletion and hypotension",
+      "supported_points": 10,
+      "expected_points": 10,
+      "coverage": 1.0,
+      "judgment": {
+        "points": [
+          {
+            "point": 1,
+            "supported": true,
+            "reason": "Both SmPCs state that SGLT2-related diuresis may lead to a modest decrease in blood pressure."
+          },
+          {
+            "point": 2,
+            "supported": true,
+            "reason": "Both advise caution where a treatment-induced decrease in blood pressure could pose a risk."
+          },
+          {
+            "point": 3,
+            "supported": true,
+            "reason": "Both specifically mention patients receiving antihypertensive therapy who have a history of hypotension."
+          },
+          {
+            "point": 4,
+            "supported": true,
+            "reason": "Forxiga specifically identifies elderly patients as requiring caution and notes their greater risk of volume depletion."
+          },
+          {
+            "point": 5,
+            "supported": true,
+            "reason": "Jardiance specifically identifies patients aged 75 years and older and patients with known cardiovascular disease as at-risk groups."
+          },
+          {
+            "point": 6,
+            "supported": true,
+            "reason": "Forxiga states that the blood pressure decrease may be more pronounced in patients with very high blood glucose concentrations."
+          },
+          {
+            "point": 7,
+            "supported": true,
+            "reason": "Both recommend careful volume-status monitoring during conditions causing fluid or volume loss, with gastrointestinal illness given as an example."
+          },
+          {
+            "point": 8,
+            "supported": true,
+            "reason": "For both medicines, monitoring includes physical examination, blood pressure measurements, haematocrit, and electrolytes."
+          },
+          {
+            "point": 9,
+            "supported": true,
+            "reason": "Forxiga recommends temporary treatment interruption in patients who develop volume depletion until it is corrected."
+          },
+          {
+            "point": 10,
+            "supported": true,
+            "reason": "Jardiance states that temporary interruption should be considered until fluid loss is corrected."
+          }
+        ]
+      }
+    },
+    {
+      "id": "eval_007",
+      "topic": "Necrotising fasciitis of the perineum (Fournier's gangrene)",
+      "supported_points": 8,
+      "expected_points": 8,
+      "coverage": 1.0,
+      "judgment": {
+        "points": [
+          {
+            "point": 1,
+            "supported": true,
+            "reason": "Both section 4.4 passages report necrotising fasciitis of the perineum, also called Fournier's gangrene, in female and male patients taking SGLT2 inhibitors."
+          },
+          {
+            "point": 2,
+            "supported": true,
+            "reason": "Both passages explicitly describe the event as rare, serious, and potentially life-threatening."
+          },
+          {
+            "point": 3,
+            "supported": true,
+            "reason": "Both passages state that the event requires urgent surgical intervention and antibiotic treatment."
+          },
+          {
+            "point": 4,
+            "supported": true,
+            "reason": "Both advise seeking medical attention for pain, tenderness, erythema, or swelling in the genital or perineal area when accompanied by fever or malaise."
+          },
+          {
+            "point": 5,
+            "supported": true,
+            "reason": "Both state that a uro-genital infection or perineal abscess may precede necrotising fasciitis."
+          },
+          {
+            "point": 6,
+            "supported": true,
+            "reason": "The Jardiance and Forxiga passages each direct discontinuation of the respective medicine if Fournier's gangrene is suspected."
+          },
+          {
+            "point": 7,
+            "supported": true,
+            "reason": "Both require prompt treatment and explicitly include antibiotics and surgical debridement."
+          },
+          {
+            "point": 8,
+            "supported": true,
+            "reason": "The supplied section 4.4 warnings are substantively the same regarding description, symptoms, preceding infection or abscess, discontinuation, and urgent treatment; the minor wording difference that Forxiga specifies postmarketing cases is not clinically substantive to the warning."
+          }
+        ]
+      }
+    },
+    {
+      "id": "eval_008",
+      "topic": "Urinary tract infections",
+      "supported_points": 6,
+      "expected_points": 6,
+      "coverage": 1.0,
+      "judgment": {
+        "points": [
+          {
+            "point": 1,
+            "supported": true,
+            "reason": "Forxiga section 4.4 explicitly states that urinary glucose excretion may be associated with an increased risk of urinary tract infection."
+          },
+          {
+            "point": 2,
+            "supported": true,
+            "reason": "Forxiga section 4.4 explicitly advises considering temporary interruption of dapagliflozin when treating pyelonephritis or urosepsis."
+          },
+          {
+            "point": 3,
+            "supported": true,
+            "reason": "Jardiance section 4.4 states that complicated urinary tract infections, including pyelonephritis and urosepsis, have been reported in patients treated with empagliflozin."
+          },
+          {
+            "point": 4,
+            "supported": true,
+            "reason": "Jardiance section 4.4 explicitly advises considering temporary interruption of empagliflozin in patients with complicated urinary tract infections."
+          },
+          {
+            "point": 5,
+            "supported": true,
+            "reason": "Both SmPC passages recommend considering temporary treatment interruption for the specified clinically significant urinary tract infections: complicated UTIs for Jardiance and pyelonephritis or urosepsis for Forxiga."
+          },
+          {
+            "point": 6,
+            "supported": true,
+            "reason": "Both passages explicitly mention pyelonephritis and urosepsis; Forxiga frames them as infections being treated, while Jardiance lists them as examples of reported complicated UTIs."
+          }
+        ]
+      }
+    },
+    {
+      "id": "eval_009",
+      "topic": "Elderly patients and volume depletion",
+      "supported_points": 10,
+      "expected_points": 10,
+      "coverage": 1.0,
+      "judgment": {
+        "points": [
+          {
+            "point": 1,
+            "supported": true,
+            "reason": "Both SmPC passages identify volume depletion as a concern in elderly patients."
+          },
+          {
+            "point": 2,
+            "supported": true,
+            "reason": "Forxiga states that elderly patients aged 65 years and above may be at greater risk of volume depletion."
+          },
+          {
+            "point": 3,
+            "supported": true,
+            "reason": "Forxiga states that elderly patients are more likely to be treated with diuretics."
+          },
+          {
+            "point": 4,
+            "supported": true,
+            "reason": "Forxiga states that elderly patients are more likely to have impaired renal function."
+          },
+          {
+            "point": 5,
+            "supported": true,
+            "reason": "Forxiga states that elderly patients may receive antihypertensives that can change renal function, including ACE inhibitors and angiotensin II type 1 receptor blockers."
+          },
+          {
+            "point": 6,
+            "supported": true,
+            "reason": "Forxiga explicitly states that the same renal-function recommendations apply to elderly patients as to all patients."
+          },
+          {
+            "point": 7,
+            "supported": true,
+            "reason": "Jardiance states that patients aged 75 years and older may have an increased risk of volume depletion."
+          },
+          {
+            "point": 8,
+            "supported": true,
+            "reason": "Jardiance states that more patients aged 75 years and older treated with empagliflozin had volume-depletion-related adverse reactions than those receiving placebo."
+          },
+          {
+            "point": 9,
+            "supported": true,
+            "reason": "Jardiance advises special attention to volume intake when co-administered medicines may lead to volume depletion."
+          },
+          {
+            "point": 10,
+            "supported": true,
+            "reason": "Jardiance gives diuretics and ACE inhibitors as examples of co-administered medicines that may cause volume depletion."
+          }
+        ]
+      }
+    },
+    {
+      "id": "eval_010",
+      "topic": "Lower limb amputations",
+      "supported_points": 6,
+      "expected_points": 6,
+      "coverage": 1.0,
+      "judgment": {
+        "points": [
+          {
+            "point": 1,
+            "supported": true,
+            "reason": "Both passages report increased lower limb amputations, primarily of the toe, in long-term clinical studies involving SGLT2 inhibitor treatment."
+          },
+          {
+            "point": 2,
+            "supported": true,
+            "reason": "The Forxiga passage explicitly refers to long-term clinical studies in type 2 diabetes mellitus with SGLT2 inhibitors."
+          },
+          {
+            "point": 3,
+            "supported": true,
+            "reason": "The Jardiance passage explicitly states that the increase was observed in long-term clinical studies with another SGLT2 inhibitor."
+          },
+          {
+            "point": 4,
+            "supported": true,
+            "reason": "Both passages state that it is unknown whether the observed increase constitutes a class effect."
+          },
+          {
+            "point": 5,
+            "supported": true,
+            "reason": "Both passages advise counseling patients with diabetes about routine preventative foot care."
+          },
+          {
+            "point": 6,
+            "supported": true,
+            "reason": "Neither passage provides a direct comparison or establishes that Jardiance or Forxiga has a greater amputation risk than the other."
+          }
+        ]
+      }
+    },
+    {
+      "id": "eval_011",
+      "topic": "Pharmacodynamic interactions with diuretics, insulin, and insulin secretagogues",
+      "supported_points": 6,
+      "expected_points": 6,
+      "coverage": 1.0,
+      "judgment": {
+        "points": [
+          {
+            "point": 1,
+            "supported": true,
+            "reason": "Both SmPC passages explicitly state that empagliflozin or dapagliflozin may add to the diuretic effect of thiazide and loop diuretics."
+          },
+          {
+            "point": 2,
+            "supported": true,
+            "reason": "Both passages explicitly state that the additive diuretic effect may increase the risk of dehydration and hypotension."
+          },
+          {
+            "point": 3,
+            "supported": true,
+            "reason": "Both passages identify insulin and insulin secretagogues, including sulphonylureas, as associated with hypoglycaemia."
+          },
+          {
+            "point": 4,
+            "supported": true,
+            "reason": "Both passages state that a lower dose of insulin or an insulin secretagogue may be required to reduce hypoglycaemia risk during combination treatment."
+          },
+          {
+            "point": 5,
+            "supported": true,
+            "reason": "The Forxiga passage expressly limits the dose-reduction statement to patients with type 2 diabetes mellitus."
+          },
+          {
+            "point": 6,
+            "supported": true,
+            "reason": "The two section 4.5 passages describe materially the same additive diuretic risks and hypoglycaemia-related dose-reduction advice; no clinically substantive difference is stated."
+          }
+        ]
+      }
+    },
+    {
+      "id": "eval_012",
+      "topic": "Pharmacokinetic interactions and metabolism",
+      "supported_points": 10,
+      "expected_points": 10,
+      "coverage": 1.0,
+      "judgment": {
+        "points": [
+          {
+            "point": 1,
+            "supported": true,
+            "reason": "The passages describe both dapagliflozin and empagliflozin as primarily metabolised through glucuronidation involving UDP/uridine diphosphoglucuronosyltransferases."
+          },
+          {
+            "point": 2,
+            "supported": true,
+            "reason": "The Forxiga passages explicitly state that dapagliflozin metabolism is primarily via glucuronide conjugation mediated by UGT1A9."
+          },
+          {
+            "point": 3,
+            "supported": true,
+            "reason": "The Jardiance passages identify glucuronidation by UGT1A3, UGT1A8, UGT1A9, and UGT2B7 as empagliflozin's primary metabolic route."
+          },
+          {
+            "point": 4,
+            "supported": true,
+            "reason": "UGT1A9 is explicitly identified in the metabolism of both dapagliflozin and empagliflozin."
+          },
+          {
+            "point": 5,
+            "supported": true,
+            "reason": "The Forxiga passage states that dapagliflozin did not inhibit CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, or CYP3A4 in vitro."
+          },
+          {
+            "point": 6,
+            "supported": true,
+            "reason": "The Forxiga passage states that dapagliflozin did not induce CYP1A2, CYP2B6, or CYP3A4 in vitro."
+          },
+          {
+            "point": 7,
+            "supported": true,
+            "reason": "The passage explicitly concludes that dapagliflozin is not expected to alter the metabolic clearance of coadministered medicines metabolised by the listed CYP enzymes."
+          },
+          {
+            "point": 8,
+            "supported": true,
+            "reason": "The Jardiance passage states that empagliflozin is a substrate of OAT3, OATP1B1, and OATP1B3, but not OAT1 or OCT2."
+          },
+          {
+            "point": 9,
+            "supported": true,
+            "reason": "The Jardiance passage explicitly identifies empagliflozin as a substrate of P-glycoprotein and breast cancer resistance protein."
+          },
+          {
+            "point": 10,
+            "supported": true,
+            "reason": "The passages discuss differing enzyme and transporter interaction details but provide no head-to-head or overall assessment establishing greater pharmacokinetic interaction potential for either medicine."
+          }
+        ]
+      }
+    },
+    {
+      "id": "eval_013",
+      "topic": "Effects of other medicinal products on dapagliflozin and empagliflozin",
+      "supported_points": 12,
+      "expected_points": 12,
+      "coverage": 1.0,
+      "judgment": {
+        "points": [
+          {
+            "point": 1,
+            "supported": true,
+            "reason": "Both SmPCs list multiple coadministered medicines that did not alter the pharmacokinetics of dapagliflozin or empagliflozin."
+          },
+          {
+            "point": 2,
+            "supported": true,
+            "reason": "The Forxiga evidence states that rifampicin decreased dapagliflozin AUC by 22%, without a clinically meaningful effect on 24-hour urinary glucose excretion, and that no dose adjustment is recommended."
+          },
+          {
+            "point": 3,
+            "supported": true,
+            "reason": "The Forxiga evidence states that clinically relevant effects with carbamazepine, phenytoin, or phenobarbital are not expected."
+          },
+          {
+            "point": 4,
+            "supported": true,
+            "reason": "The Forxiga evidence states that mefenamic acid, a UGT1A9 inhibitor, increased dapagliflozin AUC by 55%, without a clinically meaningful effect on 24-hour urinary glucose excretion, and that no dose adjustment is recommended."
+          },
+          {
+            "point": 5,
+            "supported": true,
+            "reason": "The Jardiance evidence reports that probenecid increased empagliflozin Cmax by 26% and AUC by 53%, with the changes considered not clinically meaningful."
+          },
+          {
+            "point": 6,
+            "supported": true,
+            "reason": "The Jardiance evidence explicitly states that the effect of UGT induction on empagliflozin has not been studied."
+          },
+          {
+            "point": 7,
+            "supported": true,
+            "reason": "The Jardiance evidence states that co-treatment with known UGT enzyme inducers is not recommended because of a potential risk of decreased efficacy."
+          },
+          {
+            "point": 8,
+            "supported": true,
+            "reason": "The Jardiance evidence advises monitoring glycaemic control to assess response if a UGT enzyme inducer must be coadministered."
+          },
+          {
+            "point": 9,
+            "supported": true,
+            "reason": "The Jardiance evidence reports that gemfibrozil increased empagliflozin Cmax by 15% and AUC by 59%, with the changes considered not clinically meaningful."
+          },
+          {
+            "point": 10,
+            "supported": true,
+            "reason": "The Jardiance evidence states that OATP1B1/1B3 inhibition by rifampicin increased empagliflozin Cmax by 75% and AUC by 35%, without clinically meaningful changes."
+          },
+          {
+            "point": 11,
+            "supported": true,
+            "reason": "The Jardiance evidence states that empagliflozin exposure was similar with and without verapamil, indicating no clinically relevant effect from P-gp inhibition."
+          },
+          {
+            "point": 12,
+            "supported": true,
+            "reason": "The evidence supports the contrast: Forxiga recommends no dose adjustment after rifampicin and expects no clinically relevant effect from other listed inducers, whereas Jardiance does not recommend known UGT inducers because of possible decreased efficacy."
+          }
+        ]
+      }
+    },
+    {
+      "id": "eval_014",
+      "topic": "Effects of dapagliflozin and empagliflozin on other medicinal products",
+      "supported_points": 13,
+      "expected_points": 13,
+      "coverage": 1.0,
+      "judgment": {
+        "points": [
+          {
+            "point": 1,
+            "supported": true,
+            "reason": "Both SmPC passages state that the respective medicine may increase renal lithium excretion and decrease blood lithium levels."
+          },
+          {
+            "point": 2,
+            "supported": true,
+            "reason": "Both passages recommend more frequent serum lithium monitoring after treatment initiation and dose changes."
+          },
+          {
+            "point": 3,
+            "supported": true,
+            "reason": "Both passages instruct referral to the lithium-prescribing doctor for serum lithium monitoring."
+          },
+          {
+            "point": 4,
+            "supported": true,
+            "reason": "The Forxiga passage explicitly states that dapagliflozin did not alter the pharmacokinetics of all the listed medicines."
+          },
+          {
+            "point": 5,
+            "supported": true,
+            "reason": "The Forxiga passage states that dapagliflozin did not alter warfarin's anticoagulant effects as measured by INR."
+          },
+          {
+            "point": 6,
+            "supported": true,
+            "reason": "The evidence reports increases of 19% in simvastatin AUC and 31% in simvastatin acid AUC and states that they were not clinically relevant."
+          },
+          {
+            "point": 7,
+            "supported": true,
+            "reason": "The Jardiance passage states that in vitro empagliflozin does not inhibit, inactivate, or induce CYP450 isoforms."
+          },
+          {
+            "point": 8,
+            "supported": true,
+            "reason": "The Jardiance passage lists the UGT enzymes not inhibited and concludes that interactions involving major CYP450 and UGT isoforms are unlikely."
+          },
+          {
+            "point": 9,
+            "supported": true,
+            "reason": "The Jardiance passage states that empagliflozin does not inhibit P-gp at therapeutic doses and is unlikely to interact with P-gp substrates."
+          },
+          {
+            "point": 10,
+            "supported": true,
+            "reason": "The evidence reports a 6% increase in digoxin AUC and a 14% increase in Cmax, with neither considered clinically meaningful."
+          },
+          {
+            "point": 11,
+            "supported": true,
+            "reason": "The Jardiance passage states that empagliflozin does not inhibit OAT3, OATP1B1, or OATP1B3 at clinically relevant concentrations and that interactions with their substrates are unlikely."
+          },
+          {
+            "point": 12,
+            "supported": true,
+            "reason": "The Jardiance passage states that empagliflozin had no clinically relevant pharmacokinetic effect on the listed coadministered medicines, including all medicines named in the point."
+          },
+          {
+            "point": 13,
+            "supported": true,
+            "reason": "The passages describe individual interaction findings but provide no overall comparative assessment establishing that either medicine has greater drug-drug interaction potential."
+          }
+        ]
+      }
+    },
+    {
+      "id": "eval_015",
+      "topic": "Pregnancy",
+      "supported_points": 9,
+      "expected_points": 9,
+      "coverage": 1.0,
+      "judgment": {
+        "points": [
+          {
+            "point": 1,
+            "supported": true,
+            "reason": "Both section 4.6 passages explicitly state that there are no data from the use of empagliflozin or dapagliflozin in pregnant women."
+          },
+          {
+            "point": 2,
+            "supported": true,
+            "reason": "The Forxiga passage explicitly states that dapagliflozin is not recommended during the second and third trimesters of pregnancy."
+          },
+          {
+            "point": 3,
+            "supported": true,
+            "reason": "The Forxiga passage states that rat studies showed toxicity to the developing kidney during the period corresponding to the second and third trimesters of human pregnancy."
+          },
+          {
+            "point": 4,
+            "supported": true,
+            "reason": "The Forxiga passage explicitly states that dapagliflozin treatment should be discontinued when pregnancy is detected."
+          },
+          {
+            "point": 5,
+            "supported": true,
+            "reason": "The Jardiance passage states that animal studies showed empagliflozin crosses the placenta during late gestation to a very limited extent."
+          },
+          {
+            "point": 6,
+            "supported": true,
+            "reason": "The Jardiance passage states that animal studies did not indicate direct or indirect harmful effects on early embryonic development."
+          },
+          {
+            "point": 7,
+            "supported": true,
+            "reason": "The Jardiance passage explicitly reports adverse effects on postnatal development in animal studies."
+          },
+          {
+            "point": 8,
+            "supported": true,
+            "reason": "The Jardiance passage states that, as a precautionary measure, it is preferable to avoid Jardiance during pregnancy."
+          },
+          {
+            "point": 9,
+            "supported": true,
+            "reason": "The evidence supports the wording distinction: Forxiga is specifically not recommended during the second and third trimesters, while Jardiance is preferably avoided throughout pregnancy as a precaution."
+          }
+        ]
+      }
+    },
+    {
+      "id": "eval_016",
+      "topic": "Breast-feeding",
+      "supported_points": 9,
+      "expected_points": 9,
+      "coverage": 1.0,
+      "judgment": {
+        "points": [
+          {
+            "point": 1,
+            "supported": true,
+            "reason": "Jardiance states that no human data are available on empagliflozin excretion into milk, while Forxiga states that excretion of dapagliflozin and/or its metabolites in human milk is unknown."
+          },
+          {
+            "point": 2,
+            "supported": true,
+            "reason": "The Forxiga SmPC explicitly states that it is unknown whether dapagliflozin and/or its metabolites are excreted in human milk."
+          },
+          {
+            "point": 3,
+            "supported": true,
+            "reason": "The Jardiance SmPC explicitly states that no human data are available on excretion of empagliflozin into milk."
+          },
+          {
+            "point": 4,
+            "supported": true,
+            "reason": "Animal data cited for each medicine show excretion into milk: empagliflozin for Jardiance and dapagliflozin/metabolites for Forxiga."
+          },
+          {
+            "point": 5,
+            "supported": true,
+            "reason": "The Forxiga SmPC reports excretion of dapagliflozin/metabolites in animal milk and pharmacologically mediated effects in nursing offspring."
+          },
+          {
+            "point": 6,
+            "supported": true,
+            "reason": "Both SmPC passages state that a risk to newborns/infants cannot be excluded."
+          },
+          {
+            "point": 7,
+            "supported": true,
+            "reason": "The Forxiga SmPC states that dapagliflozin should not be used while breast-feeding."
+          },
+          {
+            "point": 8,
+            "supported": true,
+            "reason": "The Jardiance SmPC states that Jardiance should not be used during breast-feeding."
+          },
+          {
+            "point": 9,
+            "supported": true,
+            "reason": "Both products carry the same practical recommendation not to use them during breast-feeding, despite somewhat more detailed animal findings being provided for Forxiga."
+          }
+        ]
+      }
+    },
+    {
+      "id": "eval_017",
+      "topic": "Fertility",
+      "supported_points": 7,
+      "expected_points": 7,
+      "coverage": 1.0,
+      "judgment": {
+        "points": [
+          {
+            "point": 1,
+            "supported": true,
+            "reason": "Forxiga section 4.6 explicitly states that the effect of dapagliflozin on fertility in humans has not been studied."
+          },
+          {
+            "point": 2,
+            "supported": true,
+            "reason": "Jardiance section 4.6 explicitly states that no studies on the effect on human fertility have been conducted."
+          },
+          {
+            "point": 3,
+            "supported": true,
+            "reason": "Forxiga section 4.6 states that dapagliflozin showed no effects on fertility in male and female rats at any dose tested."
+          },
+          {
+            "point": 4,
+            "supported": true,
+            "reason": "Jardiance section 4.6 states that animal studies do not indicate direct or indirect harmful effects with respect to fertility."
+          },
+          {
+            "point": 5,
+            "supported": true,
+            "reason": "The passages for both medicines explicitly state that human fertility has not been studied, so no human fertility study data are provided."
+          },
+          {
+            "point": 6,
+            "supported": true,
+            "reason": "Dapagliflozin had no effect on fertility in male or female rats, while empagliflozin animal studies indicated no direct or indirect harmful fertility effects."
+          },
+          {
+            "point": 7,
+            "supported": true,
+            "reason": "Both medicines have the same overall fertility profile in the passages: no human studies and no indication of harmful effects in animal fertility studies."
+          }
+        ]
+      }
+    },
+    {
+      "id": "eval_018",
+      "topic": "Effects on ability to drive and use machines",
+      "supported_points": 6,
+      "expected_points": 6,
+      "coverage": 1.0,
+      "judgment": {
+        "points": [
+          {
+            "point": 1,
+            "supported": true,
+            "reason": "Forxiga section 4.7 explicitly states that it has no or negligible influence on the ability to drive and use machines."
+          },
+          {
+            "point": 2,
+            "supported": true,
+            "reason": "Jardiance section 4.7 explicitly states that it has minor influence on the ability to drive and use machines."
+          },
+          {
+            "point": 3,
+            "supported": true,
+            "reason": "Both section 4.7 passages identify hypoglycaemia as a concern when the respective medicine is combined with a sulphonylurea or insulin."
+          },
+          {
+            "point": 4,
+            "supported": true,
+            "reason": "Forxiga section 4.7 explicitly says patients should be alerted to hypoglycaemia risk when dapagliflozin is used with a sulphonylurea or insulin."
+          },
+          {
+            "point": 5,
+            "supported": true,
+            "reason": "Jardiance section 4.7 advises precautions to avoid hypoglycaemia while driving or using machines, particularly with a sulphonylurea and/or insulin."
+          },
+          {
+            "point": 6,
+            "supported": true,
+            "reason": "The two section 4.7 passages directly establish the contrast: no or negligible influence for Forxiga versus minor influence for Jardiance."
+          }
+        ]
+      }
+    },
+    {
+      "id": "eval_019",
+      "topic": "Safety profile in type 2 diabetes mellitus",
+      "supported_points": 12,
+      "expected_points": 12,
+      "coverage": 1.0,
+      "judgment": {
+        "points": [
+          {
+            "point": 1,
+            "supported": true,
+            "reason": "Both SmPC passages describe safety experience from clinical studies involving over 15,000 patients with type 2 diabetes."
+          },
+          {
+            "point": 2,
+            "supported": true,
+            "reason": "The Forxiga passage states that more than 15,000 patients were treated with dapagliflozin."
+          },
+          {
+            "point": 3,
+            "supported": true,
+            "reason": "Forxiga's prespecified pooled analysis covered 13 studies, with 2,360 patients receiving dapagliflozin 10 mg and 2,295 receiving placebo."
+          },
+          {
+            "point": 4,
+            "supported": true,
+            "reason": "The DECLARE study included 8,574 dapagliflozin-treated and 8,569 placebo-treated patients, with median exposure of 48 months."
+          },
+          {
+            "point": 5,
+            "supported": true,
+            "reason": "The Forxiga passage explicitly reports 30,623 patient-years of dapagliflozin exposure in DECLARE."
+          },
+          {
+            "point": 6,
+            "supported": true,
+            "reason": "The Forxiga passage identifies genital infections as the most frequently reported adverse reactions across the clinical studies."
+          },
+          {
+            "point": 7,
+            "supported": true,
+            "reason": "The Jardiance passage reports 15,582 patients with type 2 diabetes in safety studies, of whom 10,004 received empagliflozin."
+          },
+          {
+            "point": 8,
+            "supported": true,
+            "reason": "The Jardiance passage reports six placebo-controlled trials lasting 18–24 weeks with 3,534 patients: 1,183 on placebo and 2,351 on empagliflozin."
+          },
+          {
+            "point": 9,
+            "supported": true,
+            "reason": "The Jardiance passage explicitly states that overall adverse-event incidence with empagliflozin was similar to placebo."
+          },
+          {
+            "point": 10,
+            "supported": true,
+            "reason": "The Jardiance passage identifies hypoglycaemia as the most frequently reported adverse reaction when empagliflozin was used with a sulphonylurea or insulin."
+          },
+          {
+            "point": 11,
+            "supported": true,
+            "reason": "The passages support the contrast: genital infections for Forxiga versus hypoglycaemia with sulphonylurea or insulin for Jardiance."
+          },
+          {
+            "point": 12,
+            "supported": true,
+            "reason": "The evidence describes different study pools, sample sizes, durations, and designs, with no direct head-to-head comparison; therefore it does not establish comparative overall adverse-event incidence or that one drug is safer."
+          }
+        ]
+      }
+    },
+    {
+      "id": "eval_020",
+      "topic": "Safety profile in heart failure",
+      "supported_points": 12,
+      "expected_points": 12,
+      "coverage": 1.0,
+      "judgment": {
+        "points": [
+          {
+            "point": 1,
+            "supported": true,
+            "reason": "Forxiga section 4.8 presents heart failure safety data from both DAPA-HF and DELIVER."
+          },
+          {
+            "point": 2,
+            "supported": true,
+            "reason": "The passage states that DAPA-HF included 2,368 patients on dapagliflozin 10 mg and 2,368 on placebo, with median exposure of 18 months."
+          },
+          {
+            "point": 3,
+            "supported": true,
+            "reason": "The DAPA-HF population is explicitly described as including patients with and without type 2 diabetes mellitus."
+          },
+          {
+            "point": 4,
+            "supported": true,
+            "reason": "The safety passage states that DELIVER included 3,126 patients on dapagliflozin 10 mg and 3,127 on placebo, with median exposure of 27 months."
+          },
+          {
+            "point": 5,
+            "supported": true,
+            "reason": "The DELIVER population is explicitly described as including patients with and without type 2 diabetes mellitus."
+          },
+          {
+            "point": 6,
+            "supported": true,
+            "reason": "The SmPC states that dapagliflozin's overall safety profile in heart failure was consistent with its known safety profile."
+          },
+          {
+            "point": 7,
+            "supported": true,
+            "reason": "Jardiance heart failure safety information cites the EMPEROR studies and identifies reduced- and preserved-ejection-fraction populations."
+          },
+          {
+            "point": 8,
+            "supported": true,
+            "reason": "The Jardiance passage reports 3,726 patients with reduced ejection fraction and 5,985 with preserved ejection fraction, treated with empagliflozin 10 mg or placebo."
+          },
+          {
+            "point": 9,
+            "supported": true,
+            "reason": "The Jardiance passage states that approximately half of the EMPEROR patients had type 2 diabetes mellitus."
+          },
+          {
+            "point": 10,
+            "supported": true,
+            "reason": "The most frequent adverse reaction in the pooled EMPEROR-Reduced and EMPEROR-Preserved studies is identified as volume depletion."
+          },
+          {
+            "point": 11,
+            "supported": true,
+            "reason": "Volume depletion was reported in 11.4% of patients receiving empagliflozin 10 mg and 9.7% receiving placebo."
+          },
+          {
+            "point": 12,
+            "supported": true,
+            "reason": "The passages describe separate placebo-controlled dapagliflozin and empagliflozin trial programs, not a direct head-to-head comparison, so they do not establish that either medicine has a safer overall profile."
+          }
+        ]
+      }
+    }
+  ]
+}
