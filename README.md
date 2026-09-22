@@ -6,9 +6,21 @@ The project retrieves evidence from the EMA **Summary of Product Characteristics
 
 ## Demo
 
-The Gradio interface supports multi-turn interaction and displays the EMA SmPC evidence supporting the latest answer. Answer-relevant sentences are highlighted to facilitate rapid source verification.
+## Demo
 
-![EMA Drug Comparison RAG demo](assets/ema_rag_demo.png)
+### Grounded comparison
+
+The application answers comparative questions using retrieved EMA SmPC evidence
+and cites the supporting evidence directly in the generated response.
+
+![Question and grounded answer](assets/ema_rag_answer.png)
+
+### Evidence traceability
+
+Retrieved passages retain the medicine, SmPC section, page, and chunk provenance.
+Answer-relevant sentences are highlighted to make source verification easier.
+
+![EMA SmPC evidence with highlighting](assets/ema_rag_evidence.png)
 
 > **Disclaimer:** This project is a demonstration system. It is not medical advice and is not a substitute for official EMA product information or professional clinical judgment. Comparative statements are limited to the retrieved SmPC evidence.
 
