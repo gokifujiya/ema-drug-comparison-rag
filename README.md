@@ -6,8 +6,6 @@ The project retrieves evidence from the EMA **Summary of Product Characteristics
 
 ## Demo
 
-## Demo
-
 ### Grounded comparison
 
 The application answers comparative questions using retrieved EMA SmPC evidence
