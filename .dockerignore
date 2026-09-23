@@ -1,0 +1,15 @@
+.git
+.venv
+.env
+
+__pycache__
+*.pyc
+.pytest_cache
+
+technical_documents
+notebooks
+evaluation
+tests
+assets
+
+README.md

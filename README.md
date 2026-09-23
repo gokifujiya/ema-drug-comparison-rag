@@ -81,12 +81,12 @@ The application deliberately separates retrieval, evidence construction, generat
 
 ## Data Sources
 
-The first version uses the EMA Product Information documents for:
+The current version uses official European Medicines Agency (EMA) Product Information for:
 
-- **Jardiance** — empagliflozin
-- **Forxiga** — dapagliflozin
+- **Jardiance (empagliflozin)** — [EMA EPAR](https://www.ema.europa.eu/en/medicines/human/EPAR/jardiance)
+- **Forxiga (dapagliflozin)** — [EMA EPAR](https://www.ema.europa.eu/en/medicines/human/EPAR/forxiga)
 
-Only **Annex I (Summary of Product Characteristics)** is used for the current RAG corpus.
+Only **Annex I (Summary of Product Characteristics, SmPC)** is used for the current RAG corpus.
 
 The source PDFs are parsed while preserving regulatory section numbers and page provenance.
 
@@ -345,6 +345,30 @@ OPENAI_API_KEY=your_api_key_here
 Do not commit the `.env` file or API keys to Git.
 
 An example configuration is provided in `.env.example`.
+
+## Docker
+
+The application can also be run in a Docker container.
+
+Build the image:
+
+```bash
+docker build -t ema-rag:v1 .
+```
+
+Run the container with the environment variables defined in `.env`:
+
+```bash
+docker run --name ema-rag -p 7860:7860 --env-file .env ema-rag:v1
+```
+
+Then open:
+
+```text
+http://localhost:7860
+```
+
+The `.env` file is excluded from the Docker build context and should never be committed to the repository.
 
 ## Running the Gradio Application
 
