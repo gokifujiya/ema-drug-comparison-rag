@@ -64,6 +64,64 @@ def format_evidence_html(evidence: dict | None, answer: str = "") -> str:
     return "\n".join(sections)
 
 
+def is_in_scope(query: str) -> bool:
+    q = query.lower()
+
+    drug_terms = {
+        "jardiance",
+        "empagliflozin",
+        "forxiga",
+        "dapagliflozin",
+    }
+
+    smpc_terms = {
+        "indication",
+        "indications",
+        "dose",
+        "dosing",
+        "dosage",
+        "posology",
+        "administration",
+        "contraindication",
+        "contraindications",
+        "warning",
+        "warnings",
+        "precaution",
+        "precautions",
+        "interaction",
+        "interactions",
+        "adverse",
+        "reaction",
+        "reactions",
+        "side effect",
+        "side effects",
+        "ketoacidosis",
+        "hypoglycaemia",
+        "hypoglycemia",
+        "renal",
+        "kidney",
+        "hepatic",
+        "liver",
+        "pregnancy",
+        "breastfeeding",
+        "elderly",
+        "paediatric",
+        "pediatric",
+        "pharmacodynamic",
+        "pharmacodynamics",
+        "pharmacokinetic",
+        "pharmacokinetics",
+        "mechanism",
+        "efficacy",
+        "safety",
+        "smpc",
+        "section 4",
+        "section 5",
+    }
+
+    return any(term in q for term in drug_terms | smpc_terms)
+
+
 def respond(message: str, history: list[dict]):
     query = (message or "").strip()
     history = list(history or [])
@@ -73,7 +131,24 @@ def respond(message: str, history: list[dict]):
         return
 
     history.append({"role": "user", "content": query})
-    history.append({"role": "assistant", "content": "Retrieving EMA SmPC evidence..."})
+
+    if not is_in_scope(query):
+        history.append(
+            {
+                "role": "assistant",
+                "content": (
+                    "This system is limited to comparing Jardiance "
+                    "(empagliflozin) and Forxiga (dapagliflozin) using EMA "
+                    "SmPC evidence. Please ask a question within that scope."
+                ),
+            }
+        )
+        yield history, format_evidence_html(None)
+        return
+
+    history.append(
+        {"role": "assistant", "content": "Retrieving EMA SmPC evidence..."}
+    )
     yield history, format_evidence_html(None)
 
     result = generate_answer(query)
